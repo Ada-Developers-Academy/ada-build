@@ -24,16 +24,16 @@ Our year-long program will go from basics to advanced topics throughout the seve
 - patterns
 
 ## Table of Contents
-| Week    | Day                | Topic
-|---------|--------------------|-----------------------------------------
-| Week 1 | [Day 1](#week-1)  | Problem Solving
-| Week 1 | [Day 1](#week-1)  | Workflow Navigation
-| Week 1 | [Day 2](#week-1)  | Google!
-| Week 1 | [Day 2](#week-1)  | Terminal
-| Week 2 | [Day 1](#week-1)  | Big Picture
-| Week 2 | [Day 1](#week-1)  | Environment Setup
-| Week 2 | [Day 1](#week-1)  | Hello World
-| Week 2 | [Day 1](#week-1)  | Variables, Data Types, User Input/Output
-| Week 2 | [Day 2](#week-1)  | Programming Expressions
-| Week 3 | [Day 1](#week-1)  | Arrays, Hashes
-| Week 3 | [Day 2](#week-1)  | Iterators
+| Lesson                | Topic
+|--------------------|-----------------------------------------
+| [Lesson 1](#week-1)  | Problem Solving
+| [Lesson 2](#week-1)  | Workflow Navigation
+| [Lesson 3](#week-1)  | Google!
+| [Lesson 4](#week-1)  | Terminal
+| [Lesson 5](#week-1)  | Big Picture
+| [Lesson 6](#week-1)  | Environment Setup
+| [Lesson 7](#week-1)  | Hello World
+| [Lesson 8](#week-1)  | Variables, Data Types, User Input/Output
+| [Lesson 9](#week-1)  | Programming Expressions
+| [Lesson 10](#week-1)  | Arrays, Hashes
+| [Lesson 11](#week-1)  | Iterators
