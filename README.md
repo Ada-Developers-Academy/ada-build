@@ -1,6 +1,6 @@
 # Ada Developers Academy Jump Start
 
-This repository contains the materials presented during the [Ada Developers Academy](adadevelopersacademy.org) jump start program. This program is intended for accepted Ada Developers Academy students to give them a jump start on learning materials and concepts that will be utilized throughout our year-long program.
+This repository contains the materials presented during the [Ada Developers Academy](adadevelopersacademy.org) jump start program. This program is intended for anyone who is interested in jump-starting their journey into coding. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
 
 ## Learning Goals
 _Problem Solving_  
@@ -11,13 +11,13 @@ Breaking down complex problems is a fundamental skill as a software engineer. Wh
 - variable substitution
 
 _Learning Style_  
-Whether you have gone through a traditional post-secondary program recently or not, coming to the Ada classroom can be an adjustment for many folks. It is good to get a gauge on your learning style as soon as possible to be able to jump right in on day one and absorb the material in a way that works well for you.
+Whether you have gone through a traditional post-secondary program recently or not, gearing up to learn new skills can be an adjustment for many folks. It is good to get a gauge on your learning style as soon as possible to be able to jump right in and absorb the material in a way that works well for you.
 
 _Workflow_  
-Learning to become a programmer is based a lot in using your computer in the most efficient way possible so you can focus on the difficult problems rather than navigating your computer.
+Learning to become a programmer requires that you use your computer in the most efficient way possible. This allows you to free up your mental resource so you can focus on the difficult problems rather than navigating your computer.
 
 _Exposure to Programming_  
-Our year-long program will go from basics to advanced topics throughout the seven month curriculum. To give everyone an similar jump-off point, we want to ensure that all students have been exposed to programming and programming concepts including:
+We think that getting a good start with fundamental programming concepts can help you discover what you love about programming. The list of skills that we consider in this fundamental group include:
 - variables
 - data structures
 - substitution
