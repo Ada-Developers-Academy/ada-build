@@ -4,7 +4,7 @@ This repository contains the materials presented during the [Ada Developers Acad
 
 ## Learning Goals
 _Problem Solving_  
-Breaking down complex problems is a fundamental skill as a software engineer. While we will be doing this for years to come, we want to give you an opportunity to explore problem solving in programatic ways an exploring topics like:
+Breaking down complex problems is a fundamental skill as a software engineer. While we will be doing this for years to come, we want to give you an opportunity to explore problem solving in programatic ways and exploring topics like:
 - input
 - output
 - algorithms
