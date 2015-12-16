@@ -26,14 +26,17 @@ We think that getting a good start with fundamental programming concepts can hel
 ## Table of Contents
 | Lesson                | Topic
 |--------------------|-----------------------------------------
-| [Lesson 1](#week-1)  | Problem Solving
-| [Lesson 2](#week-1)  | Workflow Navigation
-| [Lesson 3](#week-1)  | Google!
-| [Lesson 4](#week-1)  | Terminal
-| [Lesson 5](#week-1)  | Big Picture
-| [Lesson 6](#week-1)  | Environment Setup
-| [Lesson 7](#week-1)  | Hello World
-| [Lesson 8](#week-1)  | Variables, Data Types, User Input/Output
-| [Lesson 9](#week-1)  | Programming Expressions
-| [Lesson 10](#week-1)  | Arrays, Hashes
-| [Lesson 11](#week-1)  | Iterators
+| [Lesson 1](lessons/01-problem-solving/)  | Problem Solving
+| [Lesson 2](lessons/02-workflow/)  | Workflow Navigation
+| [Lesson 3](lessons/03-effective-searching/)  | Effective Searching
+| [Lesson 4](lessons/04-terminal/)  | Terminal
+| [Lesson 5](lessons/05-big-picture/)  | Big Picture
+| [Lesson 6](lessons/06-environment-setup/)  | Environment Setup
+| [Lesson 7](lessons/07-hello-world/)  | Hello World
+| [Lesson 8](lessons/08-vars-datatypes-io/)  | Variables, Data Types, User Input/Output
+| [Lesson 9](lessons/09-programming-expressions/)  | Programming Expressions
+| [Lesson 10](lessons/10-basic-data-structs/)  | Arrays, Hashes
+| [Lesson 11](lessons/11-iterators/)  | Iterators
+
+## VIMEO Channel
+Lecture videos for Jumpstart can be found here: [https://vimeo.com/channels/1001988](https://vimeo.com/channels/1001988)
