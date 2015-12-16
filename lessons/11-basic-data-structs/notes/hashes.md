@@ -26,11 +26,11 @@ my_dog = {
 ```
 
 ### Accessing Data
-Use a syntax that is similar to accessing data in an Array. The difference is that we use the symbols that correspond to the key to retrieve the associated value.
+To access data from within a hash, we use a syntax that is similar to accessing data in an Array. The difference is that we use the symbols that correspond to the key to retrieve the associated value.
 
 ```ruby
 my_dog[:age] # => 2
-my_dog[:breed] # => "beagle"
+my_dog[:breed] # => "spaniel"
 my_dog[:name] # => "barkly"
 
 # will return nil for keys that don't exist
@@ -38,31 +38,40 @@ my_dog[:color] # => nil
 ```
 
 ### Assigning Data
+We can utilize our understanding of reassigning values in Arrays to assign and reassign values in a Hash.
+
+Assuming that we want to add a **new** key value pair to an **existing** hash, we can choose the key that we want to set the value for. In the case below, we have decided that we want to set the value `"blenheim"` for a new key `:color`.
 ```ruby
+# Add a new key value pair for color
+my_dog[:color] = "blenheim"
+```
 
-
+In addition, we can reset the value associated with an existing key using the same syntax. In the case below, we would like to set the `:age` value to `3` from it's original `2`.
+```ruby
+# Retrieve the value currently set
+my_dog[:age] # => 2
 
 # Reassign the value associated with the age key
 my_dog[:age] = 3
+
+# Retrieve the updated value
+my_dog[:age] # => 3
 ```
 
 
 ### Using Built-In Methods
 
 **length**  
-This method returns the numbers of items in the hash. An item correspond to a key/value pair.
-
-
-
- In this above case, we have the equivalent of an `Array` with `[1, "hello", 3.14]`
-but instead of the indices 0,1,2, we use first_num, greeting, pi.
+This method returns the number of items in the hash. An item corresponds to a key/value pair.
 
 ```ruby
-h = {first_num: 1, greeting: "Hello", pi: 3.14}
-h[:first_num] # => 1
-h[:greeting] # => "Hello"
-h[:pi] # => 3.14
+my_dog = {
+  name: "barkly",
+  breed: "beagle",
+  age: 2
+}
 
+my_dog.length # => 3
 ```
 
 ### Documentation
