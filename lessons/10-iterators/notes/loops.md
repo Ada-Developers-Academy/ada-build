@@ -42,24 +42,14 @@ end
 ```
 output
 ```
-"hello! hello! hello!"
+hello!
+hello!
+hello!
 ```
 
 ## Conditional Loops
 ## While Loops
-The `while` loop is useful when you want to continue doing an action while a certain condition is `true` but you may not know how many times you'll need to complete that action.
-
-
-## Until Loops
-
-
-
-
-
-
-## Conditional Loops
-### Wait a `while`
-Execute the iterator `while` the condition is true.
+The `while` loop is useful when you want to continue doing an action while a certain condition is `true` but you may not know how many times you'll need to complete that action. As soon as the condition stops being true, the loop will terminate.
 
 ```ruby
 i = 0
@@ -78,19 +68,11 @@ The above code will output the values of i until i is no longer less than 4, res
 3
 ```
 
-```ruby
-command = gets.chomp
+You can read the condition and execute of the `while` loop as _while condition is **true** do..._
 
-while command != "add" && command != "+"
-  puts "Please tell me to add (+)!"
-  command = gets.chomp
-end
+## Until Loops
+The `until` loop acts as an inverse of the `while` loop. The loop will execute _until_ the condition evaluates as `true`.
 
-puts "OMG It's about time!"
-```
-
-### Make it clearer by using `Until`
-Execute the iterator `until` the condition is true.
 
 ```ruby
 i = 0
@@ -101,12 +83,26 @@ until i == 4
 end
 ```
 
-The above code will output the values of i until i is equal to 4, resulting in the following (equivalent to the above) output:
+The above code will output the values of i until i is equal to 4, resulting in the following (equivalent to the `while` loop) output:
 ```
 0
 1
 2
 3
+```
+
+You can read the condition and execute of the `until` loop as _until condition is **true** do..._
+
+## Orig Loop Notes
+```ruby
+command = gets.chomp
+
+while command != "add" && command != "+"
+  puts "Please tell me to add (+)!"
+  command = gets.chomp
+end
+
+puts "OMG It's about time!"
 ```
 
 ```ruby
