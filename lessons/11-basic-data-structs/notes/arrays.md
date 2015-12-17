@@ -8,13 +8,36 @@ Array Example:
 [1, 10, 33, 50, 2, 7]
 ```
 
-### Initialization
-We initialize an empty `Array` by using `[]`. An array can be assigned to a variable in the same or a similar way that other types of data are assigned to a variable:   
+### Creating Arrays
+There are two different ways to create a new Array.
+
+#### Empty
+In the first way, we initialize an empty `Array` by using `[]`. An array can be assigned to a variable in the same or a similar way that other types of data are assigned to a variable:   
 ```ruby
   my_array = []
 ```
 
 We know that this array is empty because the array definition starts with the `[`(left bracket) and ends with the `]`(right bracket), and there is nothing between those two symbols.
+
+The second way is to explicitly create a new instance of the `Array` object that ruby associated with the Array.
+```ruby
+my_array = Array.new
+```
+
+#### With Data
+We can utilize the syntax for both of the above to initialize a new Array _with data_.
+```ruby
+my_array = [1, 2, 3, 4]
+```
+
+When passing parameters into the `new`, the first parameter will be the size of the desired array. The second parameter will be the default value for all element within the array.
+```ruby
+empty_array = Array.new(3)
+empty_array # => [nil, nil, nil]
+
+default_array = Array.new(3, "def")
+default_array # => ["def", "def", "def"]
+```
 
 ### Indices
 Arrays are integer-indexed starting at zero. This means that **each item** in the array corresponds to an **integer
@@ -87,5 +110,5 @@ str_array.length  # => 5
 str_array[4]      # => "dog"
 ```
 
-### Documentation 
+### Documentation
 Look at the Ruby docs for [Array](http://www.ruby-doc.org/core-2.2.3/Array.html)

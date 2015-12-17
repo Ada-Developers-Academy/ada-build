@@ -7,16 +7,33 @@ It is similar to an Array, except that indexing is done via unordered keys of an
 {first_num: 1, greeting: "Hello", pi: 3.14}
 ```
 
-### Initialization
+### Creating Hashes
 We initialize an empty `Hash` by using `{}`. A hash can be assigned to a variable in the same or a similar way that other types of data are assigned to a variable:
+
+#### Empty
 
 ```ruby
 my_hash = {}
 ```
 
+```ruby
+my_hash = Hash.new
+```
+
 We know that this hash is empty because the hash definition starts with the `{`(left curly bracket) and ends with the `}`(right curly bracket), and there is nothing between those two symbols.
 
-### Creating Hash
+#### With Data
+
+By using the `new` syntax and specifying a default value, _all_ keys retrieved with no corresponding value will return the default value. Without the default value, this will return `nil`.
+```ruby
+my_hash = Hash.new
+my_hash[:no_key] # => nil
+
+default_data = Hash.new("def")
+default_data[:no_key] # => "def"
+```
+
+You can also create a new hash with key/value pairs populated.
 ```ruby
 my_dog = {
   name: "barkly",
@@ -33,7 +50,7 @@ my_dog[:age] # => 2
 my_dog[:breed] # => "spaniel"
 my_dog[:name] # => "barkly"
 
-# will return nil for keys that don't exist
+# by default, will return nil for keys that don't exist
 my_dog[:color] # => nil
 ```
 
