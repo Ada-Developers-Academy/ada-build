@@ -8,7 +8,7 @@ The `each` loop is comprised of three pieces:
 2. The _iteration variable_ to store each value
 3. The block of code to be executed in the loop iteration
 
-In the example below, this loop will iterate over the `veggies` array. For each iteration, the `vegetable` variable will be assigned to the value of the next element in the array, starting with the first.
+In the example below, this loop will iterate over the `veggies` array. For each iteration, the `vegetable` variable will be assigned to the value of the next element in the array, starting with the first. The block of code will be executed for each `vegetable` variable, which will print out the name of the vegetable.
 
 ```ruby
 # A list of veggies
@@ -25,6 +25,8 @@ a vegetable: yam
 a vegetable: zucchini
 a vegetable: spinach
 ```
+
+In the example below, this loop will iterate over the `names` array. For each iteration, the `name` variable will be assigned to the value of the next element in the array, starting with the first. The block of code will be executed for each name, which will say hello to each person!
 
 ```ruby
 # A list of names
