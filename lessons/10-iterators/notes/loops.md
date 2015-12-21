@@ -1,7 +1,68 @@
 # Introduction to Loops
+Loops are programming constructs that help you repeat a code action an arbitrary number of times without copying and pasting the code. Another term for a **loop** is **iteration**. All high-level programming languages provide various forms of loops, which can be used to execute one or more statements repeatedly.
 
-## Basic Loops?
+For example, if we wanted to print out "hello" five hundred times, we could write:
+```ruby
+puts "hello! "
+puts "hello! "
+puts "hello! "
+puts "hello! "
+puts "hello! "
+... 495 more times
+```
+
+Usig a loop, we could re-write this as:
+```ruby
+500.times do
+  puts "hello! "
+end
+```
+
+There are 2 categories of loops:   
+**counter-controlled** and **sentinel-controlled** loops
+
+**Counter-controlled** loops are used when the number of loops can be determined prior to loop execution.  For example, a copying machine copies a paper a set number of times, and we know exactly how many times the copier will copy the paper.
+
+**Sentinel-controlled** loops are used when the number of loops cannot be determined prior to loop execution.  For example, if you do jumping jacks until you get tired, it is uncertain how many jumping jacks you will do before stopping.
+
+**There are four types of loops to start with: `times`, `range-each`, `while`, `until`.**
+
+## Basic Loops
+## Times
+You use the `times` iterator to run a block of code `N` times.
+
+You can use a `times` loops with or without an _iteration variable_. This variable is denoted between the vertical bars `|` and is used to store data associated with the iteration.
+
+In the example below, `N` is equal to three. This example _does not_ use an iteration variable.
+```ruby
+3.times do
+  puts "hello! "
+end
+```
+output:
+```
+hello!
+hello!
+hello!
+```
+
+In the example below, `N` is equal to two. This example _does_ use an iteration variable, `i`, which will correspond to value of the iteration.
+```ruby
+2.times do |i|
+  puts i
+end
+```
+output:
+```
+1
+2
+```
+
 ## Ranges
+The main use of ranges is to express a sequence. Sequences have a start point, an end point, and a way to produce successive values in the sequence.
+
+Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value.
+
 Inclusive
 ```ruby
 (1..6).each do |num|
@@ -31,20 +92,6 @@ output
 3
 4
 5
-```
-
-## Times
-
-```ruby
-3.times do
-  puts "hello! "
-end
-```
-output
-```
-hello!
-hello!
-hello!
 ```
 
 ## Conditional Loops
