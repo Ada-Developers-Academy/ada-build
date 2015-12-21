@@ -30,6 +30,9 @@ my_hash = Hash.new
 my_hash[:no_key] # => nil
 
 default_data = Hash.new("def")
+
+# By creating a hash with a default value,
+# all data retrievals will return the default value if not specified otherwise
 default_data[:no_key] # => "def"
 ```
 

@@ -76,7 +76,7 @@ Arrays allow you to assign and reassign values within an array.
 Each spot in the array acts like a variable: you can see what object a particular spot points to, and you can make it point to a different object.
 
 ```ruby
-# Make an example for value Assignment
+# given the str_array declaration above
 # First, retrieve the value
 str_array[0] # => "bird"
 
@@ -108,6 +108,11 @@ str_array << "dog"
 str_array         # => ["bird", "horse", "cat", "monkey", "dog"]
 str_array.length  # => 5
 str_array[4]      # => "dog"
+
+str_array.push("lizard")
+str_array         # => ["bird", "horse", "cat", "monkey", "dog", "lizard"]
+str_array.length  # => 6
+str_array[5]      # => "lizard"
 ```
 
 ### Documentation
