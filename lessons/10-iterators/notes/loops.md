@@ -59,37 +59,35 @@ output:
 ## Ranges
 The main use of ranges is to express a sequence. Sequences have a start point, an end point, and a way to produce successive values in the sequence.
 
-Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value.
+Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value. The `each` loop using a range uses an iteration variable, `num` in this example, which will correspond to the 
 
 Inclusive
 ```ruby
-(1..6).each do |num|
+(5..9).each do |num|
   puts num
 end
 ```
 output
 ```
-1
-2
-3
-4
 5
 6
+7
+8
+9
 ```
 
 Exclusive
 ```ruby
-(1...6).each do |num|
+(5...9).each do |num|
   puts num
 end
 ```
 output
 ```
-1
-2
-3
-4
 5
+6
+7
+8
 ```
 
 ## While Loops
@@ -114,6 +112,19 @@ The above code will output the values of i until i is no longer less than 4, res
 ![while loop](../images/while-loop.png)
 
 You can read the condition and execute of the `while` loop as _while condition is **true** do..._
+
+A while loop example:  This loop repeats while the user enters “yes”.
+```ruby
+again = "yes"
+
+while again == "yes"
+  puts "Let's play a game!"
+  puts "..."
+  puts (“Would you like to play again? (yes/no) > “
+  again = gets.chomp
+end
+```
+
 
 ## Until Loops
 The `until` loop acts as an inverse of the `while` loop. The loop will execute _until_ the condition evaluates as `true`.
@@ -140,37 +151,16 @@ The above code will output the values of i until i is equal to 4, resulting in t
 
 You can read the condition and execute of the `until` loop as _until condition is **true** do..._
 
-## Orig Loop Notes
-```ruby
-command = gets.chomp
-
-while command != "add" && command != "+"
-  puts "Please tell me to add (+)!"
-  command = gets.chomp
-end
-
-puts "OMG It's about time!"
-```
+An until loop example: This loop will repeat until the user guesses the number 6.
 
 ```ruby
-command = gets.chomp
+game_over = false
+number = 0
 
-until command == "add" || command == "+" || command == "subtract" || command == "-"
-  puts "Please tell me to add (+) or subtract (-)!"
-  command = gets.chomp
+until number == 6
+  puts "Guess my number (1-10) > "
+  number = gets.chomp.to_i
 end
 
-puts "OMG It's about time!"
-```
-
-### Make it clearer by using `include?`
-```ruby
-command = gets.chomp
-
-until ["add", "+", "subtract", "-"].include? command
-  puts "Please tell me to add (+) or subtract (-)!"
-  command = gets.chomp
-end
-
-puts "OMG It's about time!"
+puts "You guessed it!"
 ```
