@@ -34,7 +34,7 @@ We think that getting a good start with fundamental programming concepts can hel
 | [Lesson 5](lessons/05-big-picture/)  | Big Picture
 | [Lesson 6](lessons/06-environment-setup/)  | Environment Setup
 | [Lesson 7](lessons/07-hello-world/)  | Hello World
-| [Lesson 8](lessons/08-vars-datatypes-io/)  | Variables, Data Types, User Input/Output
+| [Lesson 8](lessons/08-programming-grammar/)  | Programming Grammar 
 | [Lesson 9](lessons/09-programming-expressions/)  | Programming Expressions
 | [Lesson 10](lessons/10-iterators/)  | Iterators
 | [Lesson 11](lessons/11-basic-data-structs/)  | Arrays, Hashes
