@@ -18,16 +18,14 @@ Usig a loop, we could re-write this as:
 end
 ```
 
-There are 2 categories of loops:   
-**counter-controlled** and **sentinel-controlled** loops
+There are 2 categories of loops:  **counter-controlled** and **sentinel-controlled** loops
 
 **Counter-controlled** loops are used when the number of loops can be determined prior to loop execution.  For example, a copying machine copies a paper a set number of times, and we know exactly how many times the copier will copy the paper.
 
 **Sentinel-controlled** loops are used when the number of loops cannot be determined prior to loop execution.  For example, if you do jumping jacks until you get tired, it is uncertain how many jumping jacks you will do before stopping.
 
-**There are four types of loops to start with: `times`, `range-each`, `while`, `until`.**
+**There are four types of loops in Ruby that we will start with: `times`, `range-each`, `while`, `until`.**
 
-## Basic Loops
 ## Times
 You use the `times` iterator to run a block of code `N` times.
 
@@ -94,7 +92,6 @@ output
 5
 ```
 
-## Conditional Loops
 ## While Loops
 The `while` loop is useful when you want to continue doing an action while a certain condition is `true` but you may not know how many times you'll need to complete that action. As soon as the condition stops being true, the loop will terminate.
 
