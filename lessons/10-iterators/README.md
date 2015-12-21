@@ -2,8 +2,5 @@
 ## Learning Goals
 
 ## Resources
-Times loops
-Range loops
-
-After data structs
-Each loops
+1. [Loops](notes/loops.md)
+2. [More Loops](notes/more-loops.md)
