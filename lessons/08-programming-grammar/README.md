@@ -15,3 +15,4 @@ Ruby is pretty smart and understands lots of things in a way similar to how peop
 1. [Notes: Variables](notes/variables.md)
 1. [Notes: Commands](notes/commands.md)
 1. [Notes: Comments](notes/comments.md)
+1. Assignment: 
