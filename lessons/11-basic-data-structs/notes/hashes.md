@@ -4,7 +4,7 @@ A `Hash` is another very popular collection type in Ruby, similar to that Array.
 It is similar to an Array, except that indexing is done via unordered keys of any object type, not an ordered integer index.
 
 ```ruby
-{first_num: 1, greeting: "Hello", pi: 3.14}
+{ key1: key1sAssociatedValue, key2: key2sAssociatedValue ...}
 ```
 
 ### Creating Hashes
