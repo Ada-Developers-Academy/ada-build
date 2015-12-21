@@ -40,7 +40,7 @@ default_array # => ["def", "def", "def"]
 ```
 
 ### Indices
-Arrays are integer-indexed starting at zero. This means that **each item** in the array corresponds to an **integer
+Arrays are integer-indexed starting at zero. All counting in computer science [begins with zero](http://skillcrush.com/2013/01/17/why-programmers-start-counting-at-zero/). This means that **each item** in the array corresponds to an **integer
 value**, and that integer is used to access an object within the `Array`. The first object is assigned
 0 and increments up from there.
 
