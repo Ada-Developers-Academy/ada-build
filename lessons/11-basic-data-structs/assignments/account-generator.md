@@ -13,14 +13,17 @@ We are going to write a program that generates some student information. This ex
     `flowers = ["lily", "rose", "gardenia", "daisy"] vs. flower = "tulip"`
 
 2. Write a `times` loop that asks the user to enter in 5 student names (first and last name) and store those values in the first array in **all uppercase** even if the information is not entered by the user in uppercase.  
-
+Example output:
+![student names](../images/student-names.png)
 
 3. Write a `times` loop to generate random student ID numbers from 111111 to 999999 and put these values to the student ID number array.  
-
+Example output:
+![student IDS](../images/student-ids.png)
 
 4. Write a `times` loop to generate student email addresses in the format:
-  (first inital)+(last name)+(last 3 digits of student ID number)@adadevelopersacademy.org
-  - Note: This will be the hardest part.
+  (first inital)+(last name)+(last 3 digits of student ID number)@adadevelopersacademy.org  
+  Example output:
+  ![student emails](../images/student-emails.png)
 
 5. Write the code which will print out all the student names, ID numbers, and email addresses in parallel.
 
