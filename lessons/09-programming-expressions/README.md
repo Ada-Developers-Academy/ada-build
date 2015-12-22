@@ -8,5 +8,9 @@
 - To evaluate the result of a relational operator
 - To create and explain the truth table for logical operators
 - To write conditional statements in order to create branches in program execution
-- To understand when a conditional statement will execute the statements inside it (and when it will not) 
+- To understand when a conditional statement will execute the statements inside it (and when it will not)
 - To be able to describe the control flow of a program
+
+## Resources
+1.
+1. [Assignment: Candy Machine](assignments/candy-machine.md)
