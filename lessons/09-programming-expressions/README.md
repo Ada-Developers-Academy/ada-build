@@ -1,7 +1,7 @@
 # Programming Expressions
 
 ## Learning Goals
-- Vocabulary: comments, expressions, modulus, truncate, relational operators, logical operators, truth tables, conditional statements, control flow, nested conditional statements
+- Vocabulary: expressions, modulus, relational operators, logical operators, truth tables, conditional statements, control flow, nested conditional statements
 - To understand the purpose and need for comments
 - To know the syntax for creating a programming expression and the order of evaluation
 - To compute the remainder of division (modulus)
