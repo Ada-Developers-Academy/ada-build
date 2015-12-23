@@ -1,4 +1,4 @@
-# Example Commands
+# Notes: Example Commands
 
 ## Example 1: Making and navigating directories
 

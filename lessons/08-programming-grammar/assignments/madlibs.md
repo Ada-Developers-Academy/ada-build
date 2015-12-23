@@ -31,6 +31,7 @@ them seem more Hand-made.
 ```
 
 ## Optional Enhancements
+- Use comments to explain your code
 - Reuse at least one word
 - Ask for at least 1 number
-- Explore Ruby's built in methods for [Strings](http://ruby-doc.org/core-2.2.0/String.html) like `capitalize`, `downcase`, `upcase`
+- Explore Ruby's built in methods for [String](http://ruby-doc.org/core-2.2.0/String.html) like `capitalize`, `downcase`, `upcase`, and utilize them accordingly

@@ -1,4 +1,4 @@
-# Student Account Generator Continued
+# Assignment: Student Account Generator Continued
 
 Now that we know about hashes, we will [refactor](https://en.wikipedia.org/wiki/Code_refactoring) your original account generator code to utilize arrays with hashes. Since each student has three pieces of data, we will utilize a hash to store these three pieces of data, related to one another.
 

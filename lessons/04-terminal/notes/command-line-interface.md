@@ -1,4 +1,4 @@
-# The Command Line
+# Notes: The Command Line
 
 As a programmer, you'll need to become fluent with your computer's **terminal** (also called **command line**).
 

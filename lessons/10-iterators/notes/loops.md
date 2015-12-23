@@ -1,4 +1,4 @@
-# Introduction to Loops
+# Notes: Introduction to Loops
 Loops are programming constructs that help you repeat a code action an arbitrary number of times without copying and pasting the code. Another term for a **loop** is **iteration**. All high-level programming languages provide various forms of loops, which can be used to execute one or more statements repeatedly.
 
 For example, if we wanted to print out "hello" five hundred times, we could write:
@@ -8,7 +8,7 @@ puts "hello! "
 puts "hello! "
 puts "hello! "
 puts "hello! "
-... 495 more times
+# ... 495 more times
 ```
 
 Usig a loop, we could re-write this as:
@@ -59,7 +59,7 @@ output:
 ## Ranges
 The main use of ranges is to express a sequence. Sequences have a start point, an end point, and a way to produce successive values in the sequence.
 
-Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value. The `each` loop using a range uses an iteration variable, `num` in this example, which will correspond to the 
+Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value. The `each` loop using a range uses an iteration variable, `num` in this example, which will correspond to the
 
 Inclusive
 ```ruby
@@ -120,7 +120,7 @@ again = "yes"
 while again == "yes"
   puts "Let's play a game!"
   puts "..."
-  puts (“Would you like to play again? (yes/no) > “
+  puts "Would you like to play again? (yes/no) > "
   again = gets.chomp
 end
 ```
