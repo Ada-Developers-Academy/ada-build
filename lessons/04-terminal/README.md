@@ -9,6 +9,7 @@
 ## Resources
 - [Notes: The Command Line](notes/command-line-interface.md)
 - [Notes: Example commands](notes/example-commands.md)
+- [Assignment: Learn the Command Line @ Codecademy.com](https://www.codecademy.com/en/courses/learn-the-command-line/)
 
 ## Further Reading (optional)
 - [The Command Line Crash Course @ learncodethehardway.org](http://cli.learncodethehardway.org/book/)
