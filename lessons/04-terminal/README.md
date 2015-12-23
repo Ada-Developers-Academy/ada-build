@@ -9,3 +9,6 @@
 ## Resources
 - [Notes: The Command Line](notes/command-line-interface.md)
 - [Notes: Example commands](notes/example-commands.md)
+
+## Further Reading (optional)
+- [The Command Line Crash Course @ learncodethehardway.org](http://cli.learncodethehardway.org/book/)
