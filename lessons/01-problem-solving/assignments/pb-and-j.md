@@ -1,5 +1,4 @@
 # Assignment: Make a Peanut Butter and Jelly Sandwich
-
 For this activity, you will write precise instructions to make a peanut butter and jelly sandwich. You will need to find a friend to carry out those instructions to test your algorithm's clarity. The one giving instructions (you) cannot touch the ingredients or tools, and the one receiving instructions (your friend) cannot speak back.
 
 ### For the Instruction Giver
@@ -23,4 +22,4 @@ What we're missing is timing, amounts, and other interactive qualities. For exam
 ## Primary Requirements
 - Write instructions to make a peanut butter and jelly sandwich (or alternate if you have allergies :-) )
 - Give the instructions to a friend and watch them complete your task without any further information from you
-- If your algorithm "breaks" (messiness, inedible, etc), try and modify it and test on a new friend until you get the desired output you are looking for
+- If your algorithm "breaks" (messiness, inedible, etc), try and modify your algorithm and test on a new friend until you get the desired output you are looking for
