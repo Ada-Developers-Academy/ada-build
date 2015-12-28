@@ -12,5 +12,5 @@
 - To be able to describe the control flow of a program
 
 ## Resources
-1. [Operators](notes/operators.md)
-1. [Conditionals](notes/conditionals.md)
+1. [Notes: Operators](notes/operators.md)
+1. [Notes: Conditionals](notes/conditionals.md)
