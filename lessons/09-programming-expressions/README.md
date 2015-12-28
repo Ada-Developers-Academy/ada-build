@@ -10,3 +10,7 @@
 - To write conditional statements in order to create branches in program execution
 - To understand when a conditional statement will execute the statements inside it (and when it will not)
 - To be able to describe the control flow of a program
+
+## Resources
+1. [Operators](notes/operators.md)
+1. [Conditionals](notes/conditionals.md)

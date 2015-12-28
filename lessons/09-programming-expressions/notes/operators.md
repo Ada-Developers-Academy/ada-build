@@ -40,37 +40,3 @@ Logical Operators are used to test two or more relationships together. There are
 
 **Truth Table**
 ![truth table](../images/truth-table.png)
-
-
-```ruby
-puts "What is your first name?"
-first_name = gets.chomp
-puts "What is your last name?"
-last_name = gets.chomp
-
-if first_name.length > 8
-  if last_name.length > 10
-    puts "Your name is considerable!"
-  end
-end
-
-# This is the same as the above
-if first_name.length > 8 && last_name.length > 10
-  puts "Your name is considerable!"
-end
-```
-
-```ruby
-if command == "add"
-  puts "We're adding numbers."
-end
-
-if command == "+"
-  puts "We're adding numbers."
-end
-
-# This is the same as the above
-if command == "add" || command == "+"
-  puts "We're adding numbers."
-end
-```

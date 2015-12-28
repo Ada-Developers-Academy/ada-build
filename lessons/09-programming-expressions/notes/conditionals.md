@@ -1,53 +1,61 @@
-
-
 ## Flow Control
+The if statement, also known as a conditional statement, is the first types of branching you learn when programming. It allows you to specify a condition which will determine a branch of execution of code.
+
+You have already seen some version of conditional statements if you have ever seen a flow diagram! Here is a good example:
+![flow diagram](../images/flow-control.png)
+
+
 ### Conditionals
 `if` and `else` allow you to control the flow of your program. This means that they allow you to define which lines of code will execute, and which will be skipped.
 
-```ruby
-if boolean_value
-  code
-end
+We will use our knowledge of operators to create the boolean expressions that our conditionals with use.
 
-additional_code
+You can create a basic `if` statement using the syntax below.
+```ruby
+if <boolean expression>
+  # then-statement code here
+end
 ```
 
-When you use an `if`, the `code` that follows it (until the `end`) will only be executed *if* the `boolean_value` is `true`. Additionally, you may add `else` before the `end`:
+The Boolean statement, called a predicate, is evaluated, producing a `true` or `false` outcome.  
+- If the outcome is `true`, the then-statement is performed
+- If the outcome is `false`, the then-statement is skipped
+
+Example:
+```ruby
+test_score = gets.chomp
+
+if test_score > 90
+  print "You got an A!"
+end
+```
+
+KARI NOTE: Show an example of code being executed after the conditional no matter what the result of the conditional is
 
 ```ruby
-if boolean_value
-  code
+if <boolean expression>
+  # then-statement code here
 else
-  other_code
+  # else-statement code here
 end
-
-additional_code
 ```
 
-In this case, when `boolean_value` is `false`, then `other_code` will be executed. Otherwise, it will be skipped. When you have an `if` and an `else` only one or the other of `code` or `other_code` will be executed, and that is determined by the value of `boolean_value`.
+If you want to execute code if the boolean expression if `false`, then you should use the `else`.
+- If the outcome is `true`, the then-statements are executed and the else-statements are skipped
+- If the outcome is `false`, the then-statements are skipped and the else-statements are executed
 
+Example:
 ```ruby
-puts "Hey! What’s your name?"
-response = gets.chomp
+test_score = gets.chomp
 
-is_my_name = response.downcase == "computer"
-if is_my_name
-  puts "Weird, that's my name too. Small world!"
+if test_score > 90
+  print "You got an A!"
 else
-  puts "Wacky name!"
-end
-
-puts "Well, it was nice to meet you #{response}."
-```
-
-```ruby
-if 1 > 0
-  # do something
-else
-  # do something different
+  print "You did not get an A!"
 end
 ```
 
+KAB NOTE MORE CONDITIONAL EXAMPLES HERE
 
 ### Negating Comparisons
 Ruby has an `unless` keyword that works just like `if`, but in the reverse way.
