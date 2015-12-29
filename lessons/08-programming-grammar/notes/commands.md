@@ -6,7 +6,7 @@ Ruby has many kinds of commands built into its _core library_. We can utilize th
   - `+`
   - `-`
   - `*`
-  - `/`
+  - `/` (different with `fixnum` and `float`)
 - `String` Commands:
   - `+` (_string concatenation_)
   - `#{}` (_string interpolation_)

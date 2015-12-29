@@ -1,4 +1,4 @@
-# Student Account Generator
+# Assignment: Student Account Generator
 
 We are going to write a program that generates some student information. This exercise will practice our skills with strings, random numbers, arrays and iterators.
 

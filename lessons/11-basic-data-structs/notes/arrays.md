@@ -1,4 +1,4 @@
-# Arrays
+# Notes: Arrays
 Arrays are the most common collection to use to collect data in Ruby.
 
 An `Array` is an _ordered_ collection of any object.
