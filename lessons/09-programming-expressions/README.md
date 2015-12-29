@@ -12,5 +12,6 @@
 - To be able to describe the control flow of a program
 
 ## Resources
-1. Notes:
+1. [Notes: Operators](notes/operators.md)
+1. [Notes: Conditionals](notes/conditionals.md)
 1. [Assignment: Candy Machine](assignments/candy-machine.md)
