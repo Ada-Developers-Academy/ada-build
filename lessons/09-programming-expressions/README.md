@@ -14,4 +14,6 @@
 ## Resources
 1. [Notes: Operators](notes/operators.md)
 1. [Notes: Conditionals](notes/conditionals.md)
+1. [Assignment: Control Flow](assignments/create-flow-conditional.md)
+1. [Assignment: Conditional Worksheet](assignments/conditional-worksheet.md)
 1. [Assignment: Candy Machine](assignments/candy-machine.md)

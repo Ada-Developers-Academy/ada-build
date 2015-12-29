@@ -8,3 +8,6 @@
 - To know and utilize mac hotkeys
 - To effectively manage open applications
 - To familiarize with finding applications, folders, and files
+
+## Resources
+1. [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
