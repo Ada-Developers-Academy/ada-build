@@ -13,15 +13,16 @@ We will use our knowledge of operators to create the boolean expressions that ou
 You can create a basic `if` statement using the syntax below.
 ```ruby
 if <boolean expression>
-  # then-statement code here
+  # conditional body
 end
 ```
 
-The Boolean statement, called a predicate, is evaluated, producing a `true` or `false` outcome.  
-- If the outcome is `true`, the then-statement is performed
-- If the outcome is `false`, the then-statement is skipped  
-**Note**: You can assume that the `if` statement reads, "if the boolean expression is true then..." which is why we call this the then-statement.
+See the picture below which shows each piece of this conditional puzzle:
+![conditional](../images/conditional.jpg)
 
+The Boolean statement, called a predicate, is evaluated, producing a `true` or `false` outcome.  
+- If the outcome is `true`, the conditional body is executed
+- If the outcome is `false`, the then-statement is skipped  
 
 Example:
 ```ruby
@@ -32,16 +33,15 @@ if test_score > 90
 end
 ```
 
-
 If you want to execute code when the boolean expression is `false`, then you should use the `else`.
-- If the outcome is `true`, the then-statements are executed and the else-statements are skipped
-- If the outcome is `false`, the then-statements are skipped and the else-statements are executed
+- If the outcome is `true`, the conditional body is executed and the else body is skipped
+- If the outcome is `false`, the then-statements are skipped and the else body is executed
 
 ```ruby
 if <boolean expression>
-  # then-statement code here
+  # conditional body
 else
-  # else-statement code here
+  # else body
 end
 ```
 
