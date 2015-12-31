@@ -32,9 +32,21 @@ puts numeric_data[1]
 ```ruby
 my_array = ["dog", 5, "cat", 2, "horse", 1]
 puts my_array[6]
+puts my_array.last
 ```
 
 4.
 ```ruby
+numbers = Array.new(3)
+puts numbers.length
+puts numbers.first
+```
 
+5.
+```ruby
+student_names = Array.new(24, "Student")
+student_names << "Test"
+student_names << "Grumpy Cat"
+puts student_names[1]
+puts student_names[25]
 ```
