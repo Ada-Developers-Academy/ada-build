@@ -39,4 +39,4 @@ Logical Operators are used to test two or more relationships together. There are
 	Outcome of `!p` is `true` if `p` is `false`. Outcome of `!p` is `false` if `p` is `true`.
 
 **Truth Table**
-![truth table](../images/truth-table.png)
+![truth table](../images/truth-table.gif)

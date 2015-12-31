@@ -1,7 +1,7 @@
 # Notes: Values and Types
 
 ### Values
-A _value_ can be most anything, like a name (`"Jeremy"`), a whole number (`5000`), or a decimal number (`3.14`). We use _values_ in conjuction with _commands_ to give Ruby instructions on what to do. We'll talk more about _commands_ in a bit.
+A _value_ can be most anything, like a name (`"Jeremy"`), a whole number (`5000`), or a decimal number (`3.14`). We use _values_ in conjunction with _commands_ to give Ruby instructions on what to do. We'll talk more about _commands_ in a bit.
 
 Every _value_ can be described by a _type_. There are lots of _types_ in Ruby, and we are going to talk about three of them today: `String`, `Fixnum`, and `Float`.
 
