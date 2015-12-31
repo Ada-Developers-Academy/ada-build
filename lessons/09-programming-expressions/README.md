@@ -1,10 +1,9 @@
 # Programming Expressions
 
 ## Learning Goals
-- Vocabulary: expressions, modulus, relational operators, logical operators, truth tables, conditional statements, control flow, nested conditional statements
+- Vocabulary: expressions, relational operators, logical operators, truth tables, conditional statements, control flow, nested conditional statements(?)
 - To understand the purpose and need for comments
 - To know the syntax for creating a programming expression and the order of evaluation
-- To compute the remainder of division (modulus)
 - To evaluate the result of a relational operator
 - To create and explain the truth table for logical operators
 - To write conditional statements in order to create branches in program execution
@@ -14,4 +13,6 @@
 ## Resources
 1. [Notes: Operators](notes/operators.md)
 1. [Notes: Conditionals](notes/conditionals.md)
+1. [Assignment: Control Flow](assignments/create-flow-conditional.md)
+1. [Assignment: Conditional Worksheet](assignments/conditional-worksheet.md)
 1. [Assignment: Candy Machine](assignments/candy-machine.md)

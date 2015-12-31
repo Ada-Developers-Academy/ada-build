@@ -93,6 +93,3 @@ my_dog = {
 
 my_dog.length # => 3
 ```
-
-### Documentation
-Look at the Ruby docs for [Hash](http://www.ruby-doc.org/core-2.2.3/Hash.html) for more info
