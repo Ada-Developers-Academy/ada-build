@@ -8,8 +8,6 @@ print(x+y)
 ```
 Each problem stands alone. Variables from previous problems do not exist.
 
-`each`
-
 1.
 ```ruby
 cars = ["old", "new", "used"]
@@ -48,5 +46,12 @@ puts total
 
 5.
 ```ruby
-
+values = [8, 5, 3, 10, 14, 2]
+values.each do |value|
+  if value == 10
+    puts "Special case!"
+  else
+    puts "Regular values like #{value}"
+  end
+end
 ```
