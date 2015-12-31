@@ -57,6 +57,8 @@ $ cat learning-styles.md
 $ cd ../..
 ```
 
+Note that here we used some _directory chaining_ (`00-learning-styles/assignments`, etc) so that we didn't have to change directories before creating new files or folders. 
+
 Creates the following file/folder structure
 ```
 lessons/
