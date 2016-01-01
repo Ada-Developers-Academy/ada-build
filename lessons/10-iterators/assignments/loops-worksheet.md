@@ -45,28 +45,28 @@ end
 
 ```
 
-1.
+6.
 ```ruby
 (1..5).each do
   puts "hello!"
 end
 ```
 
-1.
+7.
 ```ruby
 (1..3).each do |i|
   puts "#{i} animals(s)"
 end
 ```
 
-1.
+8.
 ```ruby
 (1..3).each do |i|
   puts i * i
 end
 ```
 
-1.
+9.
 ```ruby
 total = 0
 
@@ -77,7 +77,7 @@ end
 puts total
 ```
 
-1.
+10.
 ```ruby
 (1..10).each do |x|
   if x == 5
@@ -86,7 +86,7 @@ puts total
 end
 ```
 
-1.
+11.
 ```ruby
 i = 0
 
@@ -96,7 +96,7 @@ while i < 3
 end
 ```
 
-2.
+12.
 ```ruby
 i = 0
 
@@ -108,7 +108,7 @@ end
 puts "bye"
 ```
 
-3.
+13.
 ```ruby
 i = 0
 
@@ -118,7 +118,7 @@ while i < 3
 end
 ```
 
-4.
+14.
 ```ruby
 x = 5
 i = 0
@@ -131,7 +131,7 @@ end
 puts x
 ```
 
-6.
+15.
 ```ruby
 i = 3
 
@@ -141,7 +141,7 @@ while i > 0
 end
 ```
 
-7.
+16.
 ```ruby
 i = 1
 
@@ -150,7 +150,7 @@ while i
 end
 ```
 
-10.
+17.
 ```ruby
 i = 1
 
