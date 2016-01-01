@@ -12,3 +12,4 @@
 ## Resources
 1. [Notes: Navigating the Mac OS](notes/macOS.md)
 1. [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
+1. [Assignment: Things to Try](notes/things-to-try.md)
