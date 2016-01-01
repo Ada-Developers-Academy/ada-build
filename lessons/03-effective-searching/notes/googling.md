@@ -15,4 +15,4 @@ Read [How to become a programmer, or the art of Googling well](https://okepi.wor
 - use type: to narrow answers down by extension
 - don't google things that you should be looking in for in [the ruby docs](http://ruby-doc.org/) (or similar)
 - learn to skim a source to see if it looks crazy
-- try out the code snippet in a safe place first, like a [sandbox](https://en.wikipedia.org/wiki/Sandbox_(software_development) or a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) such as [irb](https://en.wikipedia.org/wiki/Interactive_Ruby_Shell)
+- try out the code snippet in a safe place first, like a [sandbox](https://en.wikipedia.org/wiki/Sandbox_(software_development)) or a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) such as [irb](https://en.wikipedia.org/wiki/Interactive_Ruby_Shell)
