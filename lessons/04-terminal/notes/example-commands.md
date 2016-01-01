@@ -70,7 +70,62 @@ lessons/notes/learning-styles.md
 
 Note that `things-to-try.md` and `learning-styles.md` would be empty since we can assume that this is the initial creation of this directory structure and files. `cat learning-styles.md` would therefore result in nothing printed to the screen, unless we first open that file, edit, and save it.
 
-## Example 3: Removing, moving, and copying files
+## Example 3: Removing, moving (renaming), and copying files
+
+The following series of commands
+```
+$ mkdir songs
+$ touch song1.md
+$ touch song2.md
+$ touch song10.md
+```
+
+Creates the following file/folder structure
+```
+songs/
+songs/song1.md
+songs/song2.md
+songs/song10.md
+```
+
+If we did
+```
+rm songs/*1*
+```
+then we would have:
+```
+songs/
+songs/song2.md
+```
+
+If then we did
+```
+$ cp song2.md song3.md
+$ touch song4.md
+```
+we would then have:
+```
+songs/
+songs/song2.md
+songs/song3.md
+songs/song4.md
+```
+
+In this case, `song4.md` would be an empty file that we just created, whereas `song3.md` would be a copy of `song2.md`, at whatever state it was in when the copy command was made (in this case, probably also empty).
+
+If then we did
+```
+$ mv song4.md song1.md
+```
+we would then have:
+```
+songs/
+songs/song1.md
+songs/song2.md
+songs/song3.md
+```
+
+## Example 4: Listing, removing, moving (renaming), and copying  directories
 
 The following series of commands
 ```
@@ -78,9 +133,17 @@ $ mkdir card-games
 $ cd card-games
 $ mkdir war
 $ touch war/rules.md
-$ cp war hearts
-$ cp war blackjack
+$ cp -r war hearts
+$ cp -r war blackjack
+$ pwd
+$ ls
 ```
+
+`pwd` here would result in `card-games\` because we switched into this folder, but then didn't move out of it before, after, or during making the other folders or files.
+
+`ls` here would result in `blackjack hearts war` because we are inside `card-games\`
+
+Note that we utilized the flag `-r` here. This means 'recursive', which means the first directory argument (`war`) is copied in its entirety to the second argument (`hearts`), including any folder/files inside of it. If you leave off the `-r` flag, then the directory will not be copied because `cp` alone only copies files, not folders.
 
 Creates the following file/folder structure
 ```
@@ -128,5 +191,3 @@ cards-games/war/game-rules.md
 Note that we used the wildcard (`*`) here again to delete any files inside the `hearts` directory that began with 'game'. In this case there was only one file that met this criteria, but if there had been more files with 'game' at their start, they would also have been removed. Relatedly, we can also use multiple wildcards in a command, like `rm *rules*`, which would remove any files with 'rules' in them: for example all of the following (had they exsisted): rules1.md, all-the-rules.txt, somerules.md, rules.doc, ...
 
 Note that we also utilized the flag `-r` here. This means 'recursive', which means to delete the folder you reference as well as any folder/files inside of it. If you leave off the `-r` flag, then the non-empty directory will not be deleted.
-
-## Example 4: Listing, removing, moving, and copying  directories
