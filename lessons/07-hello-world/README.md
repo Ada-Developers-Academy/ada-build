@@ -5,3 +5,6 @@
 - To write ruby code
 - To execute ruby code
 - To debug ruby code
+
+## Resources
+1.

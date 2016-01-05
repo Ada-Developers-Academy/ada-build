@@ -6,3 +6,6 @@
 - To understand the function of ruby vs irb
 - To understand the purpose of a text editor, in this case: atom
 - To understand the nuances of slack settings
+
+## Resources
+1.
