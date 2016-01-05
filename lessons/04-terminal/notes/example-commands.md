@@ -51,7 +51,7 @@ $ mkdir 00-learning-style
 $ mkdir 00-learning-style/assignments
 $ mkdir 00-learning-style/notes
 $ touch 00-learning-style/assignments/things-to-try.md
-$ cd 00-learning-styles/notes
+$ cd 00-learning-style/notes
 $ touch learning-styles.md
 $ cat learning-styles.md
 $ cd ../..
@@ -75,9 +75,9 @@ Note that `things-to-try.md` and `learning-styles.md` would be empty since we ca
 The following series of commands
 ```
 $ mkdir songs
-$ touch song1.md
-$ touch song2.md
-$ touch song10.md
+$ touch songs/song1.md
+$ touch songs/song2.md
+$ touch songs/song10.md
 ```
 
 Creates the following file/folder structure
@@ -172,11 +172,11 @@ cards-games/war/
 cards-games/war/game-rules.md
 ```
 
-Note that the `*` is a wildcard, which means anything can go in it's place. In this case, that 'anything' is each of the directories.
+Note that the `*` is a wildcard, which means anything can go in its place. In this case, that 'anything' is each of the directories.
 
 Then if we did the following:
 ```
-rm card-games/hearts/game*
+rm hearts/game*
 rm -r blackjack
 ```
 
