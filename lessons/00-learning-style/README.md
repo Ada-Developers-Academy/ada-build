@@ -12,3 +12,4 @@
 
 ## Further Reading (optional)
 1. [How Successful People Stay Calm]( http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
+1. [Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)

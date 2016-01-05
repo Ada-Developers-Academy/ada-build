@@ -49,3 +49,23 @@ Flemings provides advice on how students can use their learning modalities and s
 + Utilize pictures and photographs that illustrate your idea.
 
 _Source: http://teach.com/what/teachers-teach/learning-styles_
+
+## Learning Styles in Programming
+
+As you learn how to program, remember that you are learning a new language. There will be lots of new vocabulary in addition to the new concepts. The breadth and depth of the Computer Science field means that you should be learning every day that you are in the field. Learning how to learn is therefore one of the fundamental secrets to becoming a successful software developer. You need to understand how you process information best and how to tackle big (and small) problems.
+
+For people that have been away from the classroom or learning for awhile, this can be a daunting task. As you work through this curriculum, you should try different strategies for absorbing the material and figure out what ways work best for you.
+
+### Examples of ways to process learning to code
++ Pre-Read the notes (if present) before you listen to or watch the lecture (if present). Optionally, highlight the pieces that you anticipate will be most challenging for you to absorb.
++ Post-Read the notes (if present) after you listen to or watch the lecture (if present). Optionally, highlight the parts that were challenging to understand and make yourself notes with further explanations or examples.
++ Before the lesson, write or review the learning goal for the lesson.
++ After the lecture/notes, write down the main points of the lesson.
++ After the lecture/notes, explain in layman terms the main points of the lesson to someone else.
++ After the lecture/notes, try to write out a simple example code of your own using the same concepts.
++ After the lecture/notes, find other example code online and comment it with your own explanation of what is happening.
++ After the lecture/notes, try small exercise drills that reinforce the concept is a small bite-size way.
++ While learning, keep a vocabulary sheet where you write down relevant new vocabulary and definitions in your own words.
++ After you've moved forward in your learning, go back and redo an old assignment from scratch or refactor old code.
++ Start by typing in code that you already know works. Make small, incremental changes to the code, predicting the output/change and then verifying if that assumption was correct.
++ Ask someone else to walk you through their code without your computer in front of you. Listen attentively and ask questions. Only after you are finished listening and understanding, go back to your computer and utilize what you learned from them.
