@@ -69,3 +69,5 @@ For people that have been away from the classroom or learning for awhile, this c
 + After you've moved forward in your learning, go back and redo an old assignment from scratch or refactor old code.
 + Start by typing in code that you already know works. Make small, incremental changes to the code, predicting the output/change and then verifying if that assumption was correct.
 + Ask someone else to walk you through their code without your computer in front of you. Listen attentively and ask questions. Only after you are finished listening and understanding, go back to your computer and utilize what you learned from them.
++ Become a questioner. Engage yourself in lectures and discussions by asking questions.  If you don’t ask questions, you will probably not discover what you do and do not know. Utilize online discussion forums and your peers as necessary.
++ Look for interconnections. The content in every lesson is part of a SYSTEM of interconnected ideas, not a random list of things to memorize. Always relating new learning to previous learning.
