@@ -9,4 +9,5 @@
 
 ## Resources
 1. [Notes: Algorithms](notes/algorithms.md)
-1. [Assignment: Make a paper snowflake](assignments/snowflake.md) OR [Assignment: Make a Peanut Butter and Jelly Sandwich](assignments/pb-and-j.md)
+1. [Assignment: Make a paper snowflake](assignments/snowflake.md)
+1. (Alternate)[Assignment: Make a Peanut Butter and Jelly Sandwich](assignments/pb-and-j.md)
