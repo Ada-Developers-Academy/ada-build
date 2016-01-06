@@ -27,8 +27,12 @@ You probably know there have been long battles between Windows and Mac users, bu
 ## Shortcuts commands
 - command + spacebar
 - command + (known windows commands)
-- command + shift + 3 / command + shift + 4
 - command + option + esc
+
+## Screenshot Shortcuts
+- command + shift + 3 / command + shift + 4
+- command + shift + 4 + space
+- command + control + shift + 4
 
 ## Other things to know
 - menu bar is context sensitive
