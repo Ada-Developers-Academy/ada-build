@@ -9,3 +9,4 @@
 
 ## Resources
 1. [Notes: Effective Searching](notes/googling.md)
+1. [Assignment: Google Lessons](assignments/google-lessons.md)

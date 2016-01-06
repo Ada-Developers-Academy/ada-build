@@ -5,4 +5,4 @@
 - To have a high level understanding in how these technologies are used in combination to create a web app
 
 ## Resources
-1. 
+1. [Notes: The Big Picture](notes/big-picture.md)

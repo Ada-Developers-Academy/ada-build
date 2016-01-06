@@ -18,13 +18,16 @@ There are two main ways we can classify programming languages:
     - More abstract
     - Contain more natural language elements
     - Do a lot more for the programmer
-- Compiled or Interpreted?
+
+- By whether they are Compiled or Interpreted
   - Compiled languages are converted to binary code
     - i.e. C, C++, Lisp
   - Interpreted languages can be translated _or_ directly executed
     - i.e. Ruby, Python
     - The code does not get directly converted to binary, the program that runs the program is the one that communicates with the computer
       - This extra steps makes these languages slower
+
+![Compiled vs Interpreted](../images/compiled-interpreted.png)
 
 In Addition, these compiled and interpreted languages can be divided into **dynamically typed** and **statically typed** languages.
 
@@ -45,6 +48,8 @@ The CSS is the "clothes" of the skeleton. How each piece looks, colors, sizes, s
 ### JavaScript
 JavaScript is a dynamically typed and interpreted programming language. JavaScript is used along side HTML and CSS as one of the most important languages in web programming. In many applications, we use JavaScript to provide a more dynamic and responsive experience for the end user.
 
+![HTML, CSS, and JS at a Glance](../images/html-css-js.jpg)
+
 ## Frameworks
 According to wikipedia:
   > A software framework is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable development of a project or solution.
@@ -55,3 +60,6 @@ This is a lot of technical jargon, but basically it means that frameworks allow 
 Ruby on Rails, or Rails for short, is a Model-View Controller (MVC) Framework which provides the default a database, a web service and web pages.
 
 In English, Ruby on Rails allows you, as a developer, to create an entire web application without having to rely on someone else to create part of it for you. This is because the framework hides some things that you really don't need to know as a beginner.
+
+![Ruby Web Apps at a Glance](../images/rails.png)
+![Rails App Structure at a Glance](../images/rails-structure.jpg)
