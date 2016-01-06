@@ -11,6 +11,7 @@ cake = false
 
 if cookies == true
    print “OMG COOKIEZ”
+end
 if cake == true
    print “OMG CAKE!”
 else
