@@ -1,15 +1,15 @@
 
-# Outline for Learning
+# Notes: The Big Picture
 Throughout this jump-start program, you will learn a number of different topics about the Ruby programming language. In this lesson, we will discuss the different technologies that can be used along with Ruby and how those all play together in your journey in learning to program.
 
 ## Programming Languages
-In a discussion about programming languages, a preliminary question that one might as is, why are there so many programming languages?
+In a discussion about programming languages, a preliminary question that one might ask is, why are there so many programming languages?
 
 The reason is that some languages are better at certain things than others. There might be one language that is easier to program in (i.e. Ruby) versus being more performant (i.e. C++). Other language tradeoffs may just be based off of being an old language versus a new language.
 
 ### Classifying Programming Languages
 There are two main ways we can classify programming languages:
-- By the level - which means how close the language is to being binary code
+- By the level - which means how close the language is to being [binary code](https://en.wikipedia.org/wiki/Binary_code)
   - Low Level
     - i.e. C
     - More difficult to read than other languages
@@ -26,7 +26,7 @@ There are two main ways we can classify programming languages:
     - The code does not get directly converted to binary, the program that runs the program is the one that communicates with the computer
       - This extra steps makes these languages slower
 
-In Addition, these compiled and interpreted languages can be divided in **dynamically typed** and **statically typed** languages.
+In Addition, these compiled and interpreted languages can be divided into **dynamically typed** and **statically typed** languages.
 
 **Statically typed** programming languages do type checking (the process of verifying and enforcing the constraints of types) at _compile-time_ as opposed to _run-time_.
 
@@ -49,9 +49,9 @@ JavaScript is a dynamically typed and interpreted programming language. JavaScri
 According to wikipedia:
   > A software framework is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable development of a project or solution.
 
-This is a lot of technical jargon, but we can use the last sentence of that summary to assist our understanding. We utilize frameworks to
+This is a lot of technical jargon, but basically it means that frameworks allow us to leverage the hard work of the programmers that came before us so that we can create software more quickly. [What is a Software Framework? And why should you like 'em?](http://info.cimetrix.com/blog/bid/22339/What-is-a-Software-Framework-And-why-should-you-like-em)
 
 ### Ruby on Rails
 Ruby on Rails, or Rails for short, is a Model-View Controller (MVC) Framework which provides the default a database, a web service and web pages.
 
-In English, Ruby on Rails allows you, as a developer, to create an entire web application without having to rely on someone else to create part of it for you. This is because the framework hides some things that you really don't need to know as a beginner. 
+In English, Ruby on Rails allows you, as a developer, to create an entire web application without having to rely on someone else to create part of it for you. This is because the framework hides some things that you really don't need to know as a beginner.
