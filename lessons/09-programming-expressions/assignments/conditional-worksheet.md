@@ -102,4 +102,4 @@ end
 ```
 
 
-**When you are complete with all of these problems, you can check your answers against the [answer key](../conditional-worksheet-answers.md).**
+**When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/conditional-worksheet-answers.md).**

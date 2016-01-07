@@ -160,4 +160,4 @@ while i < 100
 end
 ```
 
-**When you are complete with all of these problems, you can check your answers against the [answer key](../loops-worksheet-answers.md).**
+**When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/loops-worksheet-answers.md).**
