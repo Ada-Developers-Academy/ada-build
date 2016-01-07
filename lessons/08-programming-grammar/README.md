@@ -8,6 +8,7 @@
 - To join strings using both string concatenation and string interpolation
 - To understand the difference between fixnum division (truncates) and float division (does not truncate)
 - To get information from the user using `gets.chomp`
+- To write and debug Ruby code
 
 Ruby is pretty smart and understands lots of things in a way similar to how people do. Spoken languages are divided into part of speech (like verbs, adjectives, and nouns). Similarly, programming languages have their own grammar. The part of speech we will cover here are _values_, _types_, _variables_, _commands_, and _comments_.
 
