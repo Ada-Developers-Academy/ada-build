@@ -11,46 +11,46 @@ Each problem stands alone. Variables from previous problems do not exist.
 1.
 ```ruby
 person = {
-  first_name: "ada",
-  last_name: "lovelace",
-  nickname: "adie"
+  "first_name" => "ada",
+  "last_name" => "lovelace",
+  "nickname" => "adie"
 }
 
 puts person.length
-puts person[:last_name]
+puts person["last_name"]
 ```
 
 2.
 ```ruby
 animals = {
-  dog: "canine",
-  cat: "feline"
+  "dog" => "canine",
+  "cat" => "feline"
 }
 
-animals[:cat] = "feline"
-puts animals[:dog]
-puts animals[:donkey]
+animals["cat"] = "feline"
+puts animals["dog"]
+puts animals["donkey"]
 ```
 
 3.
 ```ruby
 chuck_norris = {
-  punch: 99
-  kick: 98
-  stops_bullets_with_hands: false
+  "punch" => 99
+  "kick" => 98
+  "stops_bullets_with_hands" => false
 }
 
-chuck_norris[:kick] = 25
-puts chuck_norris[:kick]
+chuck_norris["kick"] = 25
+puts chuck_norris["kick"]
 ```
 
 4.
 ```ruby
 menu = {}
-menu[:ramen] = "garlic tonkotsu"
-menu[:burger] = "bleu sun"
-menu[:tea] = "green"
+menu["ramen"] = "garlic tonkotsu"
+menu["burger"] = "bleu sun"
+menu["tea"] = "green"
 puts menu.length
-puts menu[:burger]
-puts menu[:tater_tots]
+puts menu["burger"]
+puts menu["tater_tots"]
 ```
