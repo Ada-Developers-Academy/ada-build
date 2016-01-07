@@ -9,6 +9,7 @@
 ## Resources
 1. [Notes: The Command Line](notes/command-line-interface.md)
 1. [Notes: Example commands](notes/example-commands.md)
+1. [Assignment: Setup Your Folder Structure](assignments/folder-setup.md)
 1. [Assignment: Learn the Command Line @ Codecademy.com](https://www.codecademy.com/en/courses/learn-the-command-line/)
 
 ## Further Reading (optional)
