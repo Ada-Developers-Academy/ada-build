@@ -16,11 +16,11 @@ Now that we see how to write the "Hello World" program using IRB, we can write a
 The advantage of using a Ruby file instead of IRB is that you will have a record of the code that was written to it can be executed again later.
 
 #### Create a Ruby File
-From a location where you feel comfortable (maybe inside an Ada folder), run the command which will create a new file:  
+From your ada jumpstart folder in the terminal, run the command which will create a new file:  
 `touch hello-world.rb`
 
 #### Edit the Ruby File
-From the terminal, Open your text editor with the current folder's file:  
+From the terminal, Open your text editor with the current folder's files:  
 `atom .`
 
 Edit the hello-world.rb file to add the `puts` statement:  
