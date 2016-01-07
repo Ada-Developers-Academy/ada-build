@@ -7,4 +7,4 @@
 - To debug ruby code
 
 ## Resources
-1.
+1. [Notes: Hello World](notes/hello-world.md)
