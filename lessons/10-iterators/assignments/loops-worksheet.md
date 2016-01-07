@@ -159,3 +159,5 @@ while i < 100
   i = i * 100
 end
 ```
+
+**When you are complete with all of these problems, you can check your answers against the [answer key](../loops-worksheet-answers.md).**
