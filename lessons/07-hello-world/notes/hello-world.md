@@ -11,10 +11,12 @@ In the previous lesson, we saw what IRB is and how to execute a basic command in
 `puts "hello world"`
 
 ## Ruby file
-Now that we see how to write the "Hello World" program using IRB, we can write a ruby program to do the same thing. Let's create a Ruby file and execute that Ruby file instead of doing this directly in IRB.
+Now that we see how to write the "Hello World" program using IRB, we can write a ruby program to do the same thing. Let's create a Ruby file and execute that Ruby file instead of doing this directly in IRB.   
+
+The advantage of using a Ruby file instead of IRB is that you will have a record of the code that was written to it can be executed again later.
 
 #### Create a Ruby File
-From a location where you feel comfortable, run the command which will create a new file:  
+From a location where you feel comfortable (maybe inside an Ada folder), run the command which will create a new file:  
 `touch hello-world.rb`
 
 #### Edit the Ruby File
