@@ -30,7 +30,8 @@ You probably know there have been long battles between Windows and Mac users, bu
 - command + option + esc
 
 ## Screenshot Shortcuts
-- command + shift + 3 / command + shift + 4
+- command + shift + 3
+- command + shift + 4 
 - command + shift + 4 + space
 - command + control + shift + 4
 
