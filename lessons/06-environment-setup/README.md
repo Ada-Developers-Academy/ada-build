@@ -9,5 +9,5 @@
 
 ## Resources
 1. What is _Ruby_? What is _irb_?
-1. Installfest!
-1. Text Editor vs. Word Processor: Welcome to _Atom_.
+1. [What is a _text editor_?](notes/what-is-a-text-editor.md)
+1. [Installfest!](notes/installfes.md)
