@@ -1,11 +1,13 @@
 # Environment Setup
 
 ## Learning Goals
-- Vocabulary: ruby, atom, irb, slack
-- To setup a development environment
-- To understand the function of ruby vs irb
-- To understand the purpose of a text editor, in this case: atom
-- To understand the nuances of slack settings
+- __Vocabulary__: ruby, irb, text editor, package manager
+- To understand the role of and then setup a development environment
+- To understand the function of _ruby_ vs _irb_
+- To understand the purpose of a text editor (like _atom_)
+- To meet our first _package manager_
 
 ## Resources
-1.
+1. [Notes: What is _Ruby_? What is _irb_?](notes/what-even-is-ruby.md)
+1. [Notes: What is a _text editor_?](notes/what-is-a-text-editor.md)
+1. [Notes: Installfest!](notes/installfest.md)
