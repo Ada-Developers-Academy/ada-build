@@ -8,7 +8,7 @@ Hi! The purpose of these notes is to help you install and configure some softwar
 - [Xcode Command Line Tools](#xcode-command-line-tools)
 - [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
 - [Atom (text editor)](https://atom.io/)
-- [Ruby Version Manager (rvm)](https://rvm.io/)
+- [Ruby Version Manager (rvm) (package manager)](https://rvm.io/)
 - [Ruby 2.3.0](https://www.ruby-lang.org/en/)
 
 ## Detailed Instructions
