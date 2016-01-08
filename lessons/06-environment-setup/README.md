@@ -8,6 +8,6 @@
 - To understand the purpose of a text editor, in this case _atom_
 
 ## Resources
-1. What is _Ruby_? What is _irb_?
+1. [What is _Ruby_? What is _irb_?](notes/what-even-is-ruby.md)
 1. [What is a _text editor_?](notes/what-is-a-text-editor.md)
-1. [Installfest!](notes/installfes.md)
+1. [Installfest!](notes/installfest.md)
