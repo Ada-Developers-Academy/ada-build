@@ -1,4 +1,42 @@
 
+Consider the following:
+```ruby
+d = 10
+e = 5.0
+f = 2
+g = 11.0
+h = 3
+i = 1.5
+```
+
+| Op |   | Result | Data Type |
+|:---: |:---:| :---: | :---: |
+| d + e | evaluates to |   |   |
+| f + h | evaluates to |  |  |
+| g + h | evaluates to |  |  |
+| d - f | evaluates to |  |  |
+| g - e | evaluates to |  |  |
+| (h + i) - f | evaluates to |  |  |
+| (d - f) + e | evaluates to |   |   |
+
+
+
+### Multiplication and Division ( *, / )  
+
+| Op |   | Result | Data Type |
+|:---: |:---:| :---: | :---: |
+| d * f | evaluates to |  |  |
+| g * i | evaluates to |  |  |
+| f * g | evaluates to |  |  |
+| d / f | evaluates to |  |  |
+| d / e | evaluates to |  |  |
+| e / f | evaluates to |  |  |
+| (g * f) / f | evaluates to |  |  |
+| (d / f) * e | evaluates to |  |  |
+| 21 / 5 | evaluates to |  |  |
+
+
+
 
 Comprehension Questions:
 
