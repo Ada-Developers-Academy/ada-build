@@ -133,3 +133,5 @@ a = 5
 b = 6
 b >= a
 ```
+
+**When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/variable-worksheet-answers.md).**
