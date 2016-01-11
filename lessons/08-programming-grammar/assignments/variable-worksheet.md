@@ -4,7 +4,7 @@ Read the code in each section, then predict the output of the final line of code
 
 Each problem stands alone. Variables from previous problems do not exist.
 
-Example:
+*Example:*
 ```ruby
 x = 5
 y = 6
