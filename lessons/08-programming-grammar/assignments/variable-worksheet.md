@@ -1,15 +1,14 @@
 # Variable Worksheet
 
-**Read the code in each section, then predict the output of the final line of code.**
+**Read the code in each section, then predict the output of the final line of code. Each problem stands alone. Variables from previous problems do not exist.**
 
-EXAMPLE:
+Example:
 ```ruby
 x = 5
 y = 6
 x + y
 # => 11
 ```
-Each problem stands alone. Variables from previous problems do not exist.
 
 ## Problem Set
 
