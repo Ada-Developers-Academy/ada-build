@@ -2,7 +2,7 @@
 
 ## Learning Goals
 - Vocabulary: variables, data types, comments, truncate
-- To identify the characteristics of different data types, namely: string, integers, and floats
+- To identify the characteristics of different data types, namely: string, integer, and float
 - To store and access data in variables
 - To print values, variables, or a combination to the screen using both `print` and `puts`
 - To join strings using both string concatenation and string interpolation
@@ -18,4 +18,5 @@ Ruby is pretty smart and understands lots of things in a way similar to how peop
 1. [Assignment: Variables Worksheet](assignment/variables-worksheet.md)
 1. [Notes: Commands](notes/commands.md)
 1. [Notes: Comments](notes/comments.md)
+1. [Assignment: Commands Worksheet](assignments/commands-worksheet.md)
 1. [Assignment: Madlibs](assignments/madlibs.md)
