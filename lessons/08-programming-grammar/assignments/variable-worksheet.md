@@ -1,6 +1,6 @@
 # Variable Worksheet
 
-Read the code in each section, then predict the output of the final line of code.
+**Read the code in each section, then predict the output of the final line of code.**
 
 EXAMPLE:
 ```ruby
@@ -11,6 +11,7 @@ x + y
 ```
 Each problem stands alone. Variables from previous problems do not exist.
 
+## Problem Set
 
 1.
 ```ruby
