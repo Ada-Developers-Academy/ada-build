@@ -86,7 +86,7 @@ Shorthand assignment operators:
 `x *= y`	assigns the value of `x * y` to the variable `x`  
 `x %= y`	assigns the value of `x % y` to the variable `x`  
 
-Variable Assignment is different that a Math Class Assignment!  
+Variable Assignment is different than a Math Class Assignment!  
 Note that the left hand side of an assignment statement cannot have a literal.  Assignment statements can only be used to change variables.  In this way, assignment statements are backwards from the way you may remember learning them in your math classes.
 
 **Valid**:   
