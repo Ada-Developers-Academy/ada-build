@@ -11,10 +11,10 @@ Each problem stands alone. Variables from previous problems do not exist.
 
 
 1.
-    ```
-    x = 5
-    x
-    ```
+```ruby
+x = 5
+x
+```
 
 2.
 ```ruby
