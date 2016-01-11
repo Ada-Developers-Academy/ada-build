@@ -1,13 +1,18 @@
+# Array Worksheet
+
 Read the code in each section, then write exactly what the code prints out.
 
-EXAMPLE:
+Each problem stands alone. Variables from previous problems do not exist.
+
+Example:
 ```
 x = 5
 y = 6
 print(x+y)
+# => 11
 ```
-Each problem stands alone. Variables from previous problems do not exist.
 
+## Problem Set
 
 1.
 ```ruby
