@@ -55,3 +55,6 @@ values.each do |value|
   end
 end
 ```
+
+
+**When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/more-loops-worksheet-answers.md).**

@@ -35,8 +35,8 @@ puts animals["donkey"]
 3.
 ```ruby
 chuck_norris = {
-  "punch" => 99
-  "kick" => 98
+  "punch" => 99,
+  "kick" => 98,
   "stops_bullets_with_hands" => false
 }
 
@@ -54,3 +54,6 @@ puts menu.length
 puts menu["burger"]
 puts menu["tater_tots"]
 ```
+
+
+**When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/hash-worksheet-answers.md).**
