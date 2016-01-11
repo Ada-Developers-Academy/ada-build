@@ -1,3 +1,5 @@
+# Variable Worksheet
+
 Read the code in each section, then predict the output of the final line of code.
 
 EXAMPLE:
