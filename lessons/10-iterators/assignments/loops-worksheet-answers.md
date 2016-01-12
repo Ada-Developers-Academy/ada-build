@@ -1,14 +1,4 @@
-Read the code in each section, then write exactly what the code prints out. Use a loop table to help you track each variable for each iteration.
-
-EXAMPLE:
-```
-x = 5
-y = 6
-print(x+y)
-
-Answer:  11
-```
-Each problem stands alone. Variables from previous problems do not exist.
+# Loops Worksheet Answers
 
 1.
 ```ruby
