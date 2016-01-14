@@ -6,4 +6,4 @@
 - To execute ruby code
 
 ## Resources
-1. [Notes: Hello World](notes/hello-world.md)
+1. [Assignment: Hello World](assignments/hello-world.md)
