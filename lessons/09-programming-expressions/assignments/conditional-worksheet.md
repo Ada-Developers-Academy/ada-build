@@ -4,6 +4,8 @@ Read the code in each section, then predict the output of the final line of code
 
 Each problem stands alone. Variables from previous problems do not exist.
 
+## Problem Set
+
 1.
 ```ruby
 cookies = true

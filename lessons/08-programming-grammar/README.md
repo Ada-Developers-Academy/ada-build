@@ -15,7 +15,7 @@ Ruby is pretty smart and understands lots of things in a way similar to how peop
 ## Resources
 1. [Notes: Values and Types](notes/values-types.md)
 1. [Notes: Variables](notes/variables.md)
-1. [Assignment: Variables Worksheet](assignment/variables-worksheet.md)
+1. [Assignment: Variables Worksheet](assignments/variable-worksheet.md)
 1. [Notes: Commands](notes/commands.md)
 1. [Notes: Comments](notes/comments.md)
 1. [Assignment: Commands Worksheet](assignments/commands-worksheet.md)
