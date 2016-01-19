@@ -11,6 +11,7 @@
 
 ## Resources
 1. [Notes: Navigating the Mac OS](notes/macOS.md)
+1. [Notes: Video on Shortcuts](https://www.youtube.com/watch?v=AdMuZses96Q)
 1. [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 1. [Assignment: Shortcuts you should know](assignments/shortcuts-to-know.md)
 1. [Assignment: Things to Try](assignments/things-to-try.md)
