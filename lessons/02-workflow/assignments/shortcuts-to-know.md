@@ -17,3 +17,6 @@ The following is a list of common shortcut commands. If you don't know these, lo
 | ALT+TAB          | &nbsp;                | &nbsp;
 | ALT+F4           | &nbsp;                | &nbsp;
 | F1               | &nbsp;                | &nbsp;
+
+
+**When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/shortcuts-answers.md).**
