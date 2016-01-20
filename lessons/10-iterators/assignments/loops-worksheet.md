@@ -8,7 +8,7 @@ Each problem stands alone. Variables from previous problems do not exist.
 ```
 x = 5
 y = 6
-print(x+y)
+print(x+y) #=> 11
 ```
 ## Problem Set
 

@@ -5,7 +5,7 @@ Blocks (also referred to as _closures_, especially in other languages like JavaS
 
 Zzzzz....
 
-A block is a piece of code that is _ executed immediately_, but is stored in a variable or passed to a method, and is potentially executed at a later moment in time.
+A block is a piece of code that _is not executed immediately_. Instead, it is stored in a variable or passed to a method as a parameter to be potentially executed at a later time.
 
 Sound complicated? Let's look at some Ruby.
 
@@ -31,4 +31,4 @@ Block arguments are defined using a pair of `|` (pipe) characters. They look lik
 end
 ```
 
-`number` is the defined argument, this means that objects given to the block are going to be assigned to the `number` variable within the scope of the block.
+`number` is the _block argument_, this means that objects given to the block are going to be assigned to the `number` variable within the scope of the block. When the code in the block finishes execution, the block arguments are destroyed.

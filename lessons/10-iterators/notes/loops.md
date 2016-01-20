@@ -24,12 +24,12 @@ There are 2 categories of loops:  **counter-controlled** and **sentinel-controll
 
 **Sentinel-controlled** loops are used when the number of loops cannot be determined prior to loop execution.  For example, if you do jumping jacks until you get tired, it is uncertain how many jumping jacks you will do before stopping.
 
-**There are four types of loops in Ruby that we will start with: `times`, `range-each`, `while`, `until`.**
+**There are four types of loops in Ruby that we will start with: `times`, `range-each`, `while`, and `until`.**
 
 ## Times
 You use the `times` iterator to run a block of code `N` times.
 
-You can use a `times` loops with or without an _iteration variable_. This variable is denoted between the vertical bars `|` and is used to store data associated with the iteration.
+You can use a `times` loops with or without an _iteration variable_. This variable is denoted between the vertical bars (pipe character) `|` and is used to store data associated with the iteration.
 
 In the example below, `N` is equal to three. This example _does not_ use an iteration variable.
 ```ruby
@@ -47,7 +47,7 @@ hello!
 In the example below, `N` is equal to two. This example _does_ use an iteration variable, `i`, which will correspond to value of the iteration.
 ```ruby
 2.times do |i|
-  puts i
+  puts i # wheeee remember the slide?
 end
 ```
 output:
@@ -59,16 +59,16 @@ output:
 ## Ranges
 The main use of ranges is to express a sequence. Sequences have a start point, an end point, and a way to produce successive values in the sequence.
 
-Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value. The `each` loop using a range uses an iteration variable, `num` in this example, which will correspond to the
+Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value. The `each` loop using a range uses an _iteration variable_ (again passed to the _block_ between `|` characters), `num` in this example.
 
-Inclusive
 ```ruby
+# Inclusive range example
+# note the ..
 (5..9).each do |num|
   puts num
 end
-```
-output
-```
+
+# output
 5
 6
 7
@@ -76,14 +76,14 @@ output
 9
 ```
 
-Exclusive
 ```ruby
+# Exclusive range example
+# note the ...
 (5...9).each do |num|
   puts num
 end
-```
-output
-```
+
+# output
 5
 6
 7
@@ -91,7 +91,7 @@ output
 ```
 
 ## While Loops
-The `while` loop is useful when you want to continue doing an action while a certain condition is `true` but you may not know how many times you'll need to complete that action. As soon as the condition stops being true, the loop will terminate.
+The `while` loop is useful when you want to continue doing an action while a certain condition is `true` but you may not know how many times you'll need to complete that action. It is an example of a _sentinel-controlled loop_. As soon as the condition stops being true, the loop will terminate.
 
 ```ruby
 i = 0
@@ -103,6 +103,7 @@ end
 ```
 
 The above code will output the values of i until i is no longer less than 4, resulting in the following output:
+
 ```
 0
 1
@@ -154,7 +155,6 @@ You can read the condition and execute of the `until` loop as _until condition i
 An until loop example: This loop will repeat until the user guesses the number 6.
 
 ```ruby
-game_over = false
 number = 0
 
 until number == 6
