@@ -2,7 +2,7 @@
 
 Read the code in each section, then predict the output of the final line of code.
 
-Each problem stands alone. Variables from previous problems do not exist.
+Each problem stands alone. Variables from previous problems do not exist in subsequent exercises..
 
 *Example:*
 ```ruby
