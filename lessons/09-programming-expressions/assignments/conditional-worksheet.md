@@ -28,7 +28,7 @@ ada_age = 2
 
 if person_age < ada_age
    print "This person is younger"
-elsif ada_age > person_age
+elsif ada_age < person_age
    print "Ada is younger"
 else
    print "They’re the same!"
