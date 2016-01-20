@@ -1,7 +1,7 @@
 # Notes: Arrays
-Arrays are the most common collection to use to collect data in Ruby.
+Arrays are the most common data type used to create collections in Ruby.
 
-An `Array` is an _ordered_ collection of any object.
+An `Array` is an _ordered_ collection of objects.
 
 Array Example:
 ```ruby
@@ -12,26 +12,30 @@ Array Example:
 There are two different ways to create a new Array.
 
 #### Empty
-In the first way, we initialize an empty `Array` by using `[]`. An array can be assigned to a variable in the same or a similar way that other types of data are assigned to a variable:   
+In the first way, we initialize an empty `Array` by using `[]`. An array can be assigned to a variable like any other data type:
+
 ```ruby
 my_array = []
 ```
 
 We know that this array is empty because the array definition starts with the `[`(left bracket) and ends with the `]`(right bracket), and there is nothing between those two symbols.
 
-The second way is to explicitly create a new instance of the `Array` object that ruby associated with the Array.
+The second way is to explicitly create a new instance of the `Array` object defined in the Ruby core library.
+
 ```ruby
 my_array = Array.new
 ```
 
 #### With Data
 We can utilize the syntax for both of the above to initialize a new Array _with data_.
+
 ```ruby
 numbers = [1, 2, 3, 4]
 ```
 ![numbers array](../images/array-1.png)
 
-When passing parameters into the `new`, the first parameter will be the size of the desired array. The second parameter will be the default value for all element within the array.
+We can do something similar when creating an array using `Array.new`. When passing parameters into `new`, the first parameter will be the size of the desired array. The second parameter will be the default value for all element within the array.
+
 ```ruby
 empty_array = Array.new(3)
 empty_array # => [nil, nil, nil]
@@ -45,9 +49,7 @@ default_array # => ["def", "def", "def"]
 ![default_array](../images/array-3.png)
 
 ### Indices
-Arrays are integer-indexed starting at zero. All counting in computer science [begins with zero](http://skillcrush.com/2013/01/17/why-programmers-start-counting-at-zero/). This means that **each item** in the array corresponds to an **integer
-value**, and that integer is used to access an object within the `Array`. The first object is assigned
-0 and increments up from there.
+Arrays are integer-indexed starting at __zero__. All counting in computer science [begins with zero](http://skillcrush.com/2013/01/17/why-programmers-start-counting-at-zero/). This means that **each item** in the array corresponds to an **integer value**, and that integer is used to access an object within the `Array`. The first object is assigned 0 and increments up from there.
 
 ```ruby
 numbers = [1, 10, 33, 50, 2, 7]
@@ -82,7 +84,7 @@ Arrays allow you to assign and reassign values within an array.
 Each spot in the array acts like a variable: you can see what object a particular spot points to, and you can make it point to a different object.
 
 ```ruby
-# given the str_array declaration above
+# given the animals declaration above
 # First, retrieve the value
 animals[0] # => "bird"
 
@@ -99,15 +101,16 @@ Since arrays are a data type within Ruby, there are a few important methods that
 
 **length**  
 This method returns the number of elements in the array.
+
 ```ruby
 animals = ["bird", "horse", "cat", "monkey"]
 animals.length # => 4
 ```
 
 **push** or **<<**   
-These two methods perform the same operation in Ruby. This method adds (appends) a given object to the end of an array. The fact that it adds to the end of the array is important since arrays are _ordered_.
+These two methods perform the same operation in Ruby. `<<` is pronounced _shovel_. No, I am not making that up. These methods add (append) a given object to the __end__ of an array. The fact that it adds to the end of the array is important since arrays are _ordered_.
 
-See the below example of this, extended from the `str_array` example from above.
+See the below example of this, extended from the `animals` example from above.
 ```ruby
 animals << "dog"
 animals         # => ["bird", "horse", "cat", "monkey", "dog"]
@@ -132,7 +135,7 @@ animals.first # => "bird"
 animals.last # => "lizard"
 ```
 
-If the array only have one value (or no values) then both the `first` and `last` methods will return the same value.
+If the array only has one value (or no values) then both the `first` and `last` methods will return the same value.
 
 ```ruby
 empty_array = []
