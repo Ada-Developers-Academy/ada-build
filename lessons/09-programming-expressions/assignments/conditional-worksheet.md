@@ -2,7 +2,7 @@
 
 Read the code in each section, then predict the output of the final line of code. Additionally, trace the code. Indicate which statements are checked and which ones aren’t. If it helps, make a flowchart of the code.
 
-Each problem stands alone. Variables from previous problems do not exist.
+Each problem stands alone. Variables from previous problems do not exist in subsequent questions.
 
 ## Problem Set
 
@@ -12,12 +12,12 @@ cookies = true
 cake = false
 
 if cookies == true
-   print “OMG COOKIEZ”
+   print "OMG COOKIEZ"
 end
 if cake == true
-   print “OMG CAKE!”
+   print "OMG CAKE!"
 else
-   print “WHATEVZ DESSERTZ.”
+   print "WHATEVZ DESSERTZ."
 end
 ```
 
@@ -27,30 +27,30 @@ person_age = 55
 ada_age = 2
 
 if person_age < ada_age
-   print “This person is younger”
-elsif ada_age < person_age
-   print “Ada is younger”
+   print "This person is younger"
+elsif ada_age > person_age
+   print "Ada is younger"
 else
-   print “They’re the same!”
+   print "They’re the same!"
 end
 ```
 3.
 ```ruby
-pet = “cat”
-food = “ice cream”
+pet = "cat"
+food = "ice cream"
 
-if pet == “cat”
-   print “here kitty”
-elsif pet == “dog”
-   print “woof”
+if pet == "cat"
+   print "here kitty"
+elsif pet == "dog"
+   print "woof"
 else
-   print “some other sound”
+   print "some other sound"
 end
 
-if food == “broccoli”
-   print “eh.”
-elsif food == “ice cream”
-   print “yum”
+if food == "broccoli"
+   print "eh."
+elsif food == "ice cream"
+   print "yum"
 end
 ```
 
@@ -62,12 +62,12 @@ y = 7
 
 if x >= y
    if x > y
-      print “x is bigger”
+      print "x is bigger"
    else
-      print “x = y”
+      print "x = y"
    end
 else
-   print “y is bigger”
+   print "y is bigger"
 end
 ```
 
@@ -78,12 +78,12 @@ y = 7
 
 if x > y || x == y
    if x > y
-      print “x is bigger”
+      print "x is bigger"
    else
-      print “x = y”
+      print "x = y"
    end
 else
-   print “y is bigger”
+   print "y is bigger"
 end
 ```
 
@@ -93,13 +93,13 @@ x = 7
 y = 7
 
 if x >= y
-   print “x is bigger”
+   print "x is bigger"
 else
-   print “y is bigger”
+   print "y is bigger"
 end
 
 if x == y
-   print “x = y”
+   print "x = y"
 end
 ```
 

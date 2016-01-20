@@ -1,5 +1,5 @@
 ## Flow Control
-The if statement, also known as a conditional statement, is the first types of branching you learn when programming. It allows you to specify a condition which will determine a branch of execution of code.
+The `if` statement, also known as a _conditional_ statement, is the first type of branching you learn when programming. It allows you to specify a condition in which a branch or section of code will execute
 
 You have already seen some version of conditional statements if you have ever seen a flow diagram! Here is a good example:
 ![flow diagram](../images/flow-control.png)
@@ -8,19 +8,21 @@ You have already seen some version of conditional statements if you have ever se
 ### Conditionals
 `if` and `else` allow you to control the flow of your program. This means that they allow you to define which lines of code will execute, and which will be skipped.
 
-We will use our knowledge of operators to create the boolean expressions that our conditionals with use.
+We will use our knowledge of operators to create the _boolean expressions_ that our _conditionals_ will use.
 
-You can create a basic `if` statement using the syntax below.
+You can create a basic `if` statement using the syntax below:
+
 ```ruby
 if <boolean expression>
   # conditional body
+  # this code only execute if the <boolean expression> evaluates as true
 end
 ```
 
 See the picture below which shows each piece of this conditional puzzle:
 ![conditional](../images/conditional.jpg)
 
-The Boolean statement, called a predicate, is evaluated, producing a `true` or `false` outcome.  
+The Boolean statement, called a _predicate_, is evaluated, producing a `true` or `false` outcome.  
 - If the outcome is `true`, the conditional body is executed
 - If the outcome is `false`, the then-statement is skipped  
 
@@ -33,9 +35,10 @@ if test_score > 90
 end
 ```
 
-If you want to execute code when the boolean expression is `false`, then you should use the `else`.
-- If the outcome is `true`, the conditional body is executed and the else body is skipped
-- If the outcome is `false`, the then-statements are skipped and the else body is executed
+If you want to execute different code when the boolean expression is `false`, then you should use the `else` construct.
+
+- If the outcome is `true`, the conditional body is executed and the `else` body is skipped
+- If the outcome is `false`, the then-statements are skipped and the `else` body is executed
 
 ```ruby
 if <boolean expression>
@@ -62,6 +65,7 @@ In the example above, what will happen for the following user input?
 - "ada"
 
 In the example below, note that the `puts` statement on the last line will execute no matter which conditional statements are executed.
+
 ```ruby
 puts "What is your favorite animal?"
 fav_animal = gets.chomp
@@ -89,6 +93,7 @@ In a scenario where you need more than an "either/or", you should use `elsif`. `
 `elsif` is used with a different boolean expression that is used with the `if`.
 
 We can see an example using `elsif` by extending the animal example from above to check for our second favorite animal:
+
 ```ruby
 puts "What is your favorite animal?"
 fav_animal = gets.chomp.downcase

@@ -1,7 +1,7 @@
 # Programming Expressions
 
 ## Learning Goals
-- Vocabulary: expressions, relational operators, logical operators, truth tables, conditional statements, control flow, nested conditional statements(?)
+- Vocabulary: expressions, relational operators, logical operators, truth tables, conditional statements, control flow
 - To understand the purpose and need for comments
 - To know the syntax for creating a programming expression and the order of evaluation
 - To evaluate the result of a relational operator
