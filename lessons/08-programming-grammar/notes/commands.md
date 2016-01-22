@@ -35,8 +35,8 @@ Based on the variable definitions above, determine what the resulting value and 
 | a + y | evaluates to | 15.0 | Float |
 | a - b | evaluates to | 5 | Fixnum |
 | x - c | evaluates to | 8.0 | Float |
-| (a + y) - c | evaluates to | 8.0 | Float |
-| (a - b) + c | evaluates to | 15 | Fixnum |
+| (a + y) - c | evaluates to | 13.0 | Float |
+| (a - b) + c | evaluates to | 7 | Fixnum |
 
 
 
@@ -45,7 +45,7 @@ Based on the variable definitions above, determine what the resulting value and 
 | Op |   | Result | Data Type |
 |:---: |:---:| :---: | :---: |
 | a * b | evaluates to | 50 | Fixnum |
-| y * z | evaluates to | 50.0 | Float |
+| y * z | evaluates to | 10.0 | Float |
 | a * x | evaluates to | 100.0 | Float |
 | a / b | evaluates to | 2 | Fixnum |
 | b / a | evaluates to | 0 | Fixnum |
