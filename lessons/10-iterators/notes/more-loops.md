@@ -33,7 +33,7 @@ In the example below, this loop will iterate over the `names` array. For each it
 names = ["Rey", "Finn", "Han"]
 
 names.each do |name|
-  puts "Hello #{n}!"
+  puts "Hello #{name}!"
 end
 ```
 output:
