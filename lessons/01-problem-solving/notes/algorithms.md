@@ -23,7 +23,7 @@ In [The Art of Computer Programming (Knuth)](https://en.wikipedia.org/wiki/The_A
 1. **Finiteness** - An algorithm must start and stop. The rules an algorithm applies must also conclude in a reasonable amount of time. What “reasonable” is depends on the nature of the algorithm, but in no case can an algorithm take an infinite amount of time to complete its task. Knuth calls this property the finiteness of an algorithm.
 1. **Definiteness** - The actions that an algorithm performs cannot be open to multiple interpretations; each step must be precise and unambiguous. Knuth terms this quality definiteness. An algorithm cannot iterate a “bunch” of times. The number of times must be precisely expressed, for example 2, 1000000, or a randomly chosen number.
 1. **Inputs** - An algorithm starts its computation from an initial state. This state may be expressed as input values given to the algorithm before it starts.
-1. **Outputs** - An algorithm must produces a result with a specific relation to the inputs.
+1. **Outputs** - An algorithm must produce a result with a specific relation to the inputs.
 1. **Effectiveness** - The steps an algorithm takes must be sufficiently simple that they could be expressed “on paper”; these steps must make sense for the quantities used. Knuth terms this property effectiveness.
 
 So for the example above of getting to work in the morning, the algorithm is considered _finite_ because it will eventually end when I reach work. It is _definite_ because each step can be followed exactly. The _inputs_ include: my kids, the bus, myself, etc... The _output_ is that I arrive at work. And the algorithm is considered _effective_ because the steps can be listed for you to read and understand.
