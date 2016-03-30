@@ -34,7 +34,7 @@ After it finishes, verify the installation by typing `xcode-select -p`. It shoul
 ### Google Chrome
 If you're reading this, you're already using a web browser (software used to access and visualize information on the internet). Unless you've intentionally switched, you're using Apple's web browser, _Safari_. There's nothing wrong with _Safari_; it's a fine browser. However, there are a few things that Google's competing browser, _Chrome_, can do for developers that makes for super fun times in the Ada classroom. You don't have to switch to _Chrome_ for all your day-to-day internet use; I'd just like for you to have it available when we're in class.
 
-To install _Chrome_, download it from [Google's webiste](https://www.google.com/chrome/browser/desktop/index.html). Open the downloaded application package and follow the instructions to complete the installation.
+To install _Chrome_, download it from [Google's website](https://www.google.com/chrome/browser/desktop/index.html). Open the downloaded application package and follow the instructions to complete the installation.
 
 ### Atom
 Writing software requires software! Way back when, writing software required stacks of [thin balsa wood or cardstock cards](https://en.wikipedia.org/wiki/Punched_card), but these days we use a _text editor_ instead. Word processors are software tools geared towards making composition of prose easier. _Text Editors_ are programs geared towards making code generation easier.
