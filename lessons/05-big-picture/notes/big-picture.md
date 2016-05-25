@@ -1,6 +1,6 @@
 
 # Notes: The Big Picture
-Throughout this jump-start program, you will learn a number of different topics about the Ruby programming language. In this lesson, we will discuss the different technologies that can be used along with Ruby and how those all play together in your journey in learning to program.
+Throughout this Jumpstart program, you will learn a number of different topics about the Ruby programming language. In this lesson, we will discuss the different technologies that can be used along with Ruby and how those all play together in your journey in learning to program.
 
 ## Programming Languages
 In a discussion about programming languages, a preliminary question that one might ask is, why are there so many programming languages?

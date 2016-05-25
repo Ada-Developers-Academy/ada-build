@@ -8,7 +8,7 @@ cd ~
 mkdir ada
 cd ada
 ```
-1. Create a new folder called "jumpstart" which will store all folders and files related to this Jump Start work. Once the folder is created, switch into that new folder:  
+1. Create a new folder called "jumpstart" which will store all folders and files related to this Jumpstart work. Once the folder is created, switch into that new folder:  
 ```bash
 mkdir jumpstart
 cd jumpstart
