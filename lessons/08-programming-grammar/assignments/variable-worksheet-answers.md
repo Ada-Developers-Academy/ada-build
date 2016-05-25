@@ -3,7 +3,7 @@
 3. 8.2, a float
 4. "brb", a string
 5. 9, a fixnum
-6. 5.5, a fixnum
+6. 5.5, a float
 7. nil, boxer was not set
 8. 10, a fixnum
 9. 6, a fixnum
