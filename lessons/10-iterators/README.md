@@ -12,3 +12,4 @@
 1. [Assignment: Loops Worksheet](assignments/loops-worksheet.md)
 1. [Notes: More Loops](notes/more-loops.md)
 1. [Assignment: More Loops Worksheet](assignments/more-loops-worksheet.md)
+1. [Assignment: Election Time](assignments/election.md)
