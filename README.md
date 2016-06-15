@@ -1,6 +1,6 @@
 # Ada Developers Academy Jump Start
 
-This repository contains the materials presented during the [Ada Developers Academy](adadevelopersacademy.org) Jumpstart program. This program is intended for anyone who is interested in jump-starting their journey into coding. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
+This repository contains the materials presented during the [Ada Developers Academy](http://adadevelopersacademy.org) Jumpstart program. This program is intended for anyone who is interested in jump-starting their journey into coding. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
 
 ## Learning Goals
 _Learning Style_  
