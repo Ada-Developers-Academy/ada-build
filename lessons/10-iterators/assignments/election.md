@@ -35,7 +35,7 @@ Below is an example program output. User input is indicated in &lt;&gt; (angle b
   WINNER: Minnie Mouse!
 ```
 ## Optional Enhancements
-Some of these enhancements are better solved after having knowledge from [lesson 11](../11-basic-data-structs/README.md), so you can try some and then come back and do others after lesson 11.
+Some of these enhancements are better solved after having knowledge from [lesson 11](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/11-basic-data-structs/README.md), so you can try some and then come back and do others after lesson 11.
 
 - Handle ties for a winner appropriately
 - Handle grammar of vote summary saying vote or votes appropriately
