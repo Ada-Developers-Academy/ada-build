@@ -38,6 +38,3 @@ We think that getting a good start with fundamental programming concepts can hel
 | [Lesson 9](lessons/09-programming-expressions/)  | Programming Expressions
 | [Lesson 10](lessons/10-iterators/)  | Iterators
 | [Lesson 11](lessons/11-basic-data-structs/)  | Arrays, Hashes
-
-## VIMEO Channel
-Lecture videos for Jumpstart can be found here: [https://vimeo.com/channels/1001988](https://vimeo.com/channels/1001988)
