@@ -2,6 +2,11 @@
 
 This repository contains the materials presented during the [Ada Developers Academy](http://adadevelopersacademy.org) Jumpstart program. This program is intended for anyone who is interested in jump-starting their journey into coding. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
 
+## Instructions
+To approach this material, you should first read the learning goals for a given lesson. Then click through the resources one by one, sequentially. Some will be notes and some will be assignments.
+
+The things in the folders (assignments, notes) are all linked in the resources, so you don’t need to click on those folders after as it will only contain things you already went through in “resources”.
+
 ## Learning Goals
 _Learning Style_  
 Whether you have gone through a traditional post-secondary program recently or not, gearing up to learn new skills can be an adjustment for many folks. It is good to get a gauge on your learning style as soon as possible to be able to jump right in and absorb the material in a way that works well for you.
