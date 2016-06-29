@@ -19,5 +19,6 @@ Ruby is pretty smart and understands lots of things in a way similar to how peop
 1. [Notes: Commands](notes/commands.md)
 1. [Notes: Comments](notes/comments.md)
 1. [Assignment: Commands Worksheet](assignments/commands-worksheet.md)
+1. [Notes: String Splice and Concatenation](notes/more-strings.md)
 1. [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)
 1. [Assignment: Madlibs](assignments/madlibs.md)
