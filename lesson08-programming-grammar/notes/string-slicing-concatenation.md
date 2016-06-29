@@ -36,11 +36,9 @@ Let's look at some examples using my_string.
 |Example | Input | Output |
 |:---: |:---:| :---: |:---:|
 |1.| my_string + " codes it!" | "Ada Lovelace codes it!" |
-|2.| "I" " can" " code it too!" | "I can code it too!" |
-|3.| my_string << " is" << " awesome!" | "Ada Lovelace is awesome!" |
-|4.| my_string.concat(" likes to code!") | "Ada Lovelace likes to code!"|
+|2.| my_string << " is" << " awesome!" | "Ada Lovelace is awesome!" |
+|3.| my_string.concat(" likes to code!") | "Ada Lovelace likes to code!"|
 
 As you can see, you can concatenate Strings using either (`+`), (`<<`), or (`.concat(...)`). 
-You can also omit the operator if none of your Strings are variables (i.e. Example 2). 
 Don't forget spaces when concatenating strings to avoid ending up with something like "Ada Lovelacecodesit!"
 
