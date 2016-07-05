@@ -114,7 +114,7 @@ The above code will output the values of i until i is no longer less than 4, res
 
 You can read the condition and execute of the `while` loop as _while condition is **true** do..._
 
-A while loop example:  This loop repeats while the user enters “yes”.
+A while loop example:  This loop repeats while the user enters "yes".
 ```ruby
 again = "yes"
 

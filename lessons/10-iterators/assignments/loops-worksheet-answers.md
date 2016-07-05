@@ -181,7 +181,7 @@ end
 i = 0
 
 while i < 3
-  puts “hi”
+  puts "hi"
   i = i + 1
 end
 ```
@@ -199,7 +199,7 @@ end
 i = 0
 
 while i < 3
-  puts “hi”
+  puts "hi"
   i = i + 1
 end
 
