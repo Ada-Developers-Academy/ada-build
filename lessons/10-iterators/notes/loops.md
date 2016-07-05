@@ -52,8 +52,8 @@ end
 ```
 output:
 ```
+0
 1
-2
 ```
 
 ## Ranges
