@@ -68,6 +68,19 @@ my_string.slice(0) << "i" + "!"
 
 10.
 ```ruby
+my_string = I love ruby"
+my_string.slice(7, 4).concat(my_string.slice(2...6)) + my_string.slice(0)
+```
+
+11.
+```ruby
 my_string = "I love ruby"
 "R".concat(my_string.slice(8, 3) + " rocks!")
 ```
+
+12.
+```ruby
+my_string = I love ruby"
+my_string.slice(2, 4) << my_string.slice(7...11).concat(my_string.slice(2...6))
+```
+
