@@ -5,7 +5,7 @@ The following is a list of common shortcut commands. If you don't know these, lo
 
 | Windows Shortcut | What the command does | Mac Shortcut
 |------------------|-----------------------|-------------
-| CTRL+C           | &nbsp;                | &nbsp;
+| CTRL+C           | &nbsp;copy                | &nbsp;command+C
 | CTRL+V           | &nbsp;                | &nbsp;
 | CTRL+X           | &nbsp;                | &nbsp;
 | CTRL+S           | &nbsp;                | &nbsp;
