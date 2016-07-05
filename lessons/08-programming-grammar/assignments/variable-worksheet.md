@@ -22,7 +22,7 @@ x
 
 2.
 ```ruby
-z = “Hello”
+z = "Hello"
 z
 ```
 
@@ -35,8 +35,8 @@ x + y
 
 4.
 ```ruby
-var1 = “lawl”
-var2 = “brb”
+var1 = "lawl"
+var2 = "brb"
 var2
 ```
 
@@ -77,17 +77,17 @@ a + b + c
 
 10.
 ```ruby
-a = “moo”
-b = “quack”
+a = "moo"
+b = "quack"
 a  = b
 b
 ```
 
 11.
 ```ruby
-a = “moo”
-b = “quack”
-c = “woof”
+a = "moo"
+b = "quack"
+c = "woof"
 a = c
 a
 ```
@@ -110,8 +110,8 @@ b = 6
 
 14.
 ```ruby
-a = “b”
-b = “a”
+a = "b"
+b = "a"
 a
 ```
 

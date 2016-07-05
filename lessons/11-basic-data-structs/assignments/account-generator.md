@@ -33,5 +33,5 @@ Example output:
 - make sure none of the IDs are duplicates
 - account for ID numbers whose last 3 digits are less than 100 (e.g. 111008) because these ID numbers will generate an email address with less than 3 digits at the end without special cases.
 - on email generation, account for first names with a space in them  
-  e.g. if the first name is “Mary Jane”, then the first initial should be "MJ" rather than just "M"
+  e.g. if the first name is "Mary Jane", then the first initial should be "MJ" rather than just "M"
 - read in the student names from a file instead of the user and make the array size according to the number of names
