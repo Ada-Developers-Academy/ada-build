@@ -25,7 +25,7 @@ student_data[0][:name]
 
 Complete the following refactor steps:
 - Utilize a single array variable to store all student information, instead of three individual arrays. This array will contain many hashes.
-- Utilize a single loop for the hash population:
+- Utilize a single loop to drive the hash population (you may have nested loops inside this loop for other functionality):
   - accept user input for the student's name
   - generate random student ID
   - generate student email address from previous pieces of data
