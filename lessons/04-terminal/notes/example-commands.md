@@ -156,11 +156,6 @@ cards-games/war/
 cards-games/war/rules.md
 ```
 
-If we wanted to then rename (move) all the rules.md files at once, we could do:
-```
-mv */rules.md */game-rules.md
-```
-
 Which would result in:
 ```
 card-games/
