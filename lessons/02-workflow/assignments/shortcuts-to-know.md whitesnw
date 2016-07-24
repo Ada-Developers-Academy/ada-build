@@ -5,18 +5,18 @@ The following is a list of common shortcut commands. If you don't know these, lo
 
 | Windows Shortcut | What the command does | Mac Shortcut
 |------------------|-----------------------|-------------
-| CTRL+C           | &nbsp;                | &nbsp;
-| CTRL+V           | &nbsp;                | &nbsp;
-| CTRL+X           | &nbsp;                | &nbsp;
-| CTRL+S           | &nbsp;                | &nbsp;
-| CTRL+P           | &nbsp;                | &nbsp;
-| CTRL+A           | &nbsp;                | &nbsp;
-| CTRL+Z           | &nbsp;                | &nbsp;
-| CTRL+Y           | &nbsp;                | &nbsp;
-| **CTRL+F**       | &nbsp;                | &nbsp;
-| ALT+TAB          | &nbsp;                | &nbsp;
-| ALT+F4           | &nbsp;                | &nbsp;
-| F1               | &nbsp;                | &nbsp;
+| CTRL+C           | Copy                  | Command + C
+| CTRL+V           | Paste                 | Command + V
+| CTRL+X           | Cut                   | Command + X
+| CTRL+S           | Save                  | Command + S 
+| CTRL+P           | Print                 | Command + P
+| CTRL+A           | Select All            | Command + A
+| CTRL+Z           | Undo                  | Command + Z
+| CTRL+Y           | Redo                  | Command + Y 
+| **CTRL+F**       | Find                  | Command + F
+| ALT+TAB          | Switch programs       | Command + TAB  
+| ALT+F4           | Quit program          | Command + Q
+| F1               | Help                  | Command+shift+/
 
 
 **When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/shortcuts-answers.md).**
