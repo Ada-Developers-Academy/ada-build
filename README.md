@@ -8,6 +8,9 @@ To approach this material, you should first read the learning goals for a given 
 The things in the folders (assignments, notes) are all linked in the resources, so you don’t need to click on those folders after as it will only contain things you already went through in "resources".
 
 ## Learning Goals
+_Introduction to Social Justice_
+
+
 _Preparing to Code_  
 As you prepare to learn to code, we have prepared a series of lessons to identify your learning style, learn the art of problem solving, and develop good workflow habits.
 
@@ -17,6 +20,8 @@ Once you have prepared to learn to code, we have prepared a series of lessons to
 ## Table of Contents
 | Jumpstart Lessons
 |----------------------------------
+| _Introduction to Social Justice_
+| [Lesson 0 - Social Justice](lessons/00-social-justice/)
 | _Preparing to Code_
 | [Lesson 1 - Learning Style](lessons/01-learning-style/)
 | [Lesson 2 - Problem Solving](lessons/02-problem-solving/)
