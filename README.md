@@ -9,7 +9,7 @@ The things in the folders (assignments, notes) are all linked in the resources, 
 
 ## Learning Goals
 _Introduction to Social Justice_
-
+Ada is as much a social justice organization as it is a school where people learn to program. **Our core values at Ada are building and contributing to a supportive community; creating and advocating for inclusivity; and teaching and practicing lifelong learning, all within Tech.** Having a basic understanding of social justice is crucial to upholding these core values.
 
 _Preparing to Code_  
 As you prepare to learn to code, we have prepared a series of lessons to identify your learning style, learn the art of problem solving, and develop good workflow habits.
