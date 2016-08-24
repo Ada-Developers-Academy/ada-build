@@ -18,16 +18,16 @@ Once you have prepared to learn to code, we have prepared a series of lessons to
 | Lesson                | Topic
 |--------------------|-----------------------------------------
 | **Preparing to Code** |
-| Lesson 0  | [Learning Style](lessons/00-learning-style/)
-| Lesson 1  | [Problem Solving](lessons/01-problem-solving/)
-| Lesson 2  | [Workflow Navigation](lessons/02-workflow/)
-| Lesson 3  | [Effective Searching](lessons/03-effective-searching/)
+| Lesson 1  | [Learning Style](lessons/01-learning-style/)
+| Lesson 2  | [Problem Solving](lessons/02-problem-solving/)
+| Lesson 3  | [Workflow Navigation](lessons/03-workflow/)
+| Lesson 4  | [Effective Searching](lessons/04-effective-searching/)
 | **Learning to Code** |
-| Lesson 4  | [Terminal](lessons/04-terminal/)
 | Lesson 5  | [Big Picture](lessons/05-big-picture/)
-| Lesson 6  | [Environment Setup](lessons/06-environment-setup/)
-| Lesson 7  | [Hello World](lessons/07-hello-world/)
-| Lesson 8  | [Programming Grammar](lessons/08-programming-grammar/)
-| Lesson 9  | [Programming Expressions](lessons/09-programming-expressions/)
-| Lesson 10  | [Iterators](lessons/10-iterators/)
-| Lesson 11  | [Arrays, Hashes](lessons/11-basic-data-structs/)
+| Lesson 6  | [Terminal](lessons/06-terminal/)
+| Lesson 7  | [Environment Setup](lessons/06-environment-setup/)
+| Lesson 8  | [Hello World](lessons/08-hello-world/)
+| Lesson 9  | [Programming Grammar](lessons/09-programming-grammar/)
+| Lesson 10  | [Programming Expressions](lessons/10-programming-expressions/)
+| Lesson 11  | [Iterators](lessons/11-iterators/)
+| Lesson 12  | [Arrays, Hashes](lessons/12-basic-data-structs/)
