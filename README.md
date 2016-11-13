@@ -1,4 +1,4 @@
-# Ada Developers Academy Jump Start
+# Ada Developers Academy Jump Start Curriculum
 
 This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy]. These materials are free and open to everyone. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
 
@@ -13,7 +13,7 @@ In these lessons you will identify your learning style, learn the art of problem
 ### Learning to Code (Lessons 05 – 12)
 These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
-## Jumpstart Lessons
+## Lessons
 
 | Introduction to Social Justice |
 | :--- |
