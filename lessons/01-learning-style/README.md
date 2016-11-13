@@ -1,4 +1,4 @@
-# Learning Style
+# 01 – Learning Style
 
 ## Learning Goals
 * To explore your learning style

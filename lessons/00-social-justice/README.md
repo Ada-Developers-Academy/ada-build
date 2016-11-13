@@ -1,4 +1,4 @@
-# Introduction to Social Justice
+# 00 – Introduction to Social Justice
 
 ## Ada's Statement of Inclusivity
 Ada Developers Academy is designed to be an inclusive, positive learning environment for all students, regardless of sexual orientation, disability, physical appearance, education, age, race, or religion. All women (cis and trans*) and people with non-binary gender who feel a part of women's community are encouraged to apply.
