@@ -14,5 +14,5 @@ Ada Developers Academy is designed to be an inclusive, positive learning environ
 * [Privilege 101 by Sian Ferguson](http://everydayfeminism.com/2014/09/what-is-privilege/)
 
 ## Assignments
-1. [Assignment: Breaking Down Identity](assignments/breaking-down-identity.md)
-1. [Assignment: Vocabulary](assignments/vocab.md)
+* [Assignment: Breaking Down Identity](assignments/breaking-down-identity.md)
+* [Assignment: Vocabulary](assignments/vocab.md)
