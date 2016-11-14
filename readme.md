@@ -1,6 +1,6 @@
 # Ada Developers Academy Jump Start Curriculum
 
-This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy]. These materials are free and open to everyone. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
+This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/). These materials are free and open to everyone. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
 
 ## Learning Goals
 
