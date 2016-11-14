@@ -1,5 +1,5 @@
 # Jumpstart Live
-__In person jumpstart program for [Ada Developers Academy](http://adadevelopersacademy.org/)_
+_In person jumpstart program for [Ada Developers Academy](http://adadevelopersacademy.org/)_
 
 | Lessons | | 
 | :--- | :--- |
