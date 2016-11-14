@@ -10,7 +10,7 @@
 * Review looping constructs
 * Counter controlled vs. sentinel controlled loop exercise
 
-### Exercise
+### Exercises
 #### Guessing game
 
 Write a program that allows a user to play a guessing number game. You should predetermine the secret number (between 0 – 1000). Allow the user to make a guess until they guess the answer. After each incorrect guess you should print a clue “higher” or “lower”.
