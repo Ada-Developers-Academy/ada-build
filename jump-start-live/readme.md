@@ -1,7 +1,7 @@
 # Jumpstart Live
 _In person jumpstart program for [Ada Developers Academy](http://adadevelopersacademy.org/)_
 
-| Lessons | | 
+| Day | Lesson | 
 | :--- | :--- |
 | Day 1 | [Pretty Code](lessons/pretty-code.md) |
 | Day 2 | [Conditionals](lessons/conditionals.md) |
