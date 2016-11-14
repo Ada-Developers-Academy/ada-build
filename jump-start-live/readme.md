@@ -9,3 +9,6 @@ _In person jumpstart program for [Ada Developers Academy](http://adadevelopersac
 | Day 4 | [More Loops](lessons/more-loops.md) |
 | Day 5 | [Arrays](lessons/arrays.md) |
 | Day 6 | [Hashes](lessons/hashes.md) |
+
+Switching from a PC to a Mac:
+https://gist.github.com/drvonnjerryxlii/9898254abef2d184c659
