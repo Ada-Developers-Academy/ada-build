@@ -1,4 +1,4 @@
-| Lessons | | 
+| Day | Lesson | 
 | :--- | :--- |
 | Day 1 | [Pretty Code](pretty-code.md) |
 | Day 2 | [Conditionals](conditionals.md) |
