@@ -16,3 +16,4 @@
 1. [Notes: Hashes](notes/hashes.md)  
 1. [Assignment: Hash Worksheet](assignments/hash-worksheet.md)
 1. [Assignment: Account Generator Continued](assignments/account-generator-cont.md)  
+1. [Assignment: Walk-a-thon](assignments/walkathon.md)
