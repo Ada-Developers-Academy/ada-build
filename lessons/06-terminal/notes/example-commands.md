@@ -133,6 +133,7 @@ $ mkdir card-games
 $ cd card-games
 $ mkdir war
 $ touch war/rules.md
+$ touch war/game.txt
 $ cp -r war hearts
 $ cp -r war blackjack
 $ pwd
@@ -149,40 +150,34 @@ Creates the following file/folder structure
 ```
 card-games/
 card-games/blackjack/
+card-games/blackjack/game.txt
 card-games/blackjack/rules.md
 card-games/hearts/
+card-games/hearts/game.txt
 card-games/hearts/rules.md
-cards-games/war/
-cards-games/war/rules.md
+card-games/war/
+card-games/war/game.txt
+card-games/war/rules.md
 ```
-
-Which would result in:
-```
-card-games/
-card-games/blackjack/
-card-games/blackjack/game-rules.md
-card-games/hearts/
-card-games/hearts/game-rules.md
-cards-games/war/
-cards-games/war/game-rules.md
-```
-
-Note that the `*` is a wildcard, which means anything can go in its place. In this case, that 'anything' is each of the directories.
 
 Then if we did the following:
 ```
-rm hearts/game*
+rm hearts/*.md
 rm -r blackjack
 ```
 
-Which would result in:
+The asterick `*` means wildcard and says that anything can go in its place.
+
+So this would result in:
 ```
 card-games/
 card-games/hearts/
-cards-games/war/
-cards-games/war/game-rules.md
+card-games/hearts/game.txt
+card-games/war/
+card-games/war/game.txt
+card-games/war/rules.md
 ```
 
-Note that we used the wildcard (`*`) here again to delete any files inside the `hearts` directory that began with 'game'. In this case there was only one file that met this criteria, but if there had been more files with 'game' at their start, they would also have been removed. Relatedly, we can also use multiple wildcards in a command, like `rm *rules*`, which would remove any files with 'rules' in them: for example all of the following (had they exsisted): rules1.md, all-the-rules.txt, somerules.md, rules.doc, ...
+Note that we used the wildcard (`*`) here to delete any files inside the `hearts` directory that end with '.md'. In this case there was only one file that met this criteria, but if there had been more files with '.md' at their end, they would also have been removed. Relatedly, we can also use multiple wildcards in a command, like `rm *rules*`, which would remove any files with 'rules' in them: for example all of the following (had they exsisted): rules1.md, all-the-rules.txt, somerules.md, rules.doc, ...
 
 Note that we also utilized the flag `-r` here. This means 'recursive', which means to delete the folder you reference as well as any folder/files inside of it. If you leave off the `-r` flag, then the non-empty directory will not be deleted.
