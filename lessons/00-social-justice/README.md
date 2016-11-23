@@ -6,7 +6,7 @@ In the attached materials, you’ll be asked to read and think about issues of i
 - Build a framework for critical, informed conversations around diversity and inclusion.
 - Develop a shared social justice vocabulary.
 - Develop an increased understanding of the impact of privilege and oppression on our communities, our careers, and our identities.
-- Move beyond thinking about individual, overt bigotry to thinking about larger systems of institutional oppression.
+- Move beyond thinking about individual, overt prejudice to thinking about larger systems of institutional oppression and privilege.
 
 ## Ada's Statement of Inclusivity
 Ada Developers Academy is designed to be an inclusive, positive learning environment for all students, regardless of sexual orientation, disability, physical appearance, education, age, race, or religion. All women (cis and trans*) and people with non-binary gender who feel a part of women's community are encouraged to apply.
@@ -19,4 +19,7 @@ In this section, we're going to think critically about the myriad parts of our o
 2. [Notes: Readings](notes/readings.md)
 
 ## Part II: Understanding Privilege and oppression
-In this section, we'll first look at the concept of privilege and how it operates both individually and systemically. Second, we'll develop an understanding of it's counterpart - oppression - by tracing the historical roots of the contemporary disparities experienced by black Americans. 
+In this section, we'll first look at the concept of privilege and how it operates both individually and systemically. Second, we'll develop an understanding of it's counterpart - oppression - by tracing the historical roots of the contemporary disparities experienced by black Americans.
+
+## Resources
+1. [Notes: Readings and Movie](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part2Readings.md)

@@ -1,4 +1,4 @@
-# Notes: Readings
+# Notes: Readings for Part I
 
 Read the following articles:
 
