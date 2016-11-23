@@ -20,8 +20,8 @@ In this section, we're going to think critically about the myriad parts of our o
 1. [Assignment: Breaking Down Identity](assignments/breaking-down-identity.md)
 2. [Notes: Readings](notes/readings.md)
 
-## Part II: Understanding Privilege and Oppression
-In this section, we'll first look at the concept of privilege and how it operates both individually and systemically. Second, we'll develop an understanding of it's counterpart - oppression - by tracing the historical roots of the contemporary disparities experienced by black Americans.
+## Part II: Understanding Privilege, Oppression, and Institutional Racism
+In this section, we'll first look at the concept of privilege and how it operates both individually and systemically. Second, we'll look at institutional racism in tech and beyond. 
 
 ## Resources
 1. [Notes: Readings and Movie](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part2Readings.md)
