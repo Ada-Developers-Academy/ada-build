@@ -2,7 +2,7 @@
 
 In the attached materials, you’ll be asked to read and think about issues of identity, privilege, oppression, and social justice. This may be new to you, or it may be a huge piece of your daily, lived experience. Our readings will focus primarily on race and gender, but should also give you a lens through which to understand a wide breadth of social justice and identity issues. Our goal here is to build some of the linguistic and conceptual skills that will start the work of having safe, productive, community-affirming conversations about systemic inequities.
 
-Refer to [The Glossary](https://github.com/Ada-Developers-Academy/jump-start/blob/bf4b1a1447c7664fadd60237f1eab235f7993760/lessons/00-social-justice/notes/Glossary.md) if you encounter unfamiliar terms. 
+Refer to [The Glossary](https://github.com/Ada-Developers-Academy/jump-start/blob/bf4b1a1447c7664fadd60237f1eab235f7993760/lessons/00-social-justice/notes/Glossary.md) if you encounter unfamiliar terms.
 
 ## Learning Goals
 - Build a framework for critical, informed conversations around diversity and inclusion.
@@ -26,8 +26,8 @@ In this section, we'll first look at the concept of privilege and how it operate
 ## Resources
 1. [Notes: Readings and Movie](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part2Readings.md)
 
-## Part III: Creating Equitable and Inclusive Community
-In this section, we'll explore how the inequities we've explored can impact our communities and interpersonal interactions - and what we can do about it. We'll define "microaggresions" and "equity."
+## Part III: Addressing Microaggresions and Creating Equitable Community
+In this section, we'll look at how the inequities we've explored can impact our communities and interpersonal interactions - and what we can do about it. We'll define "microaggresions" and "equity."
 
 ## Resources
 1. [Notes: Readings and Video](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part3ReadingsAndVideo.md)
