@@ -1,10 +1,13 @@
 # Assignment: Breaking Down Identity
 
-Although many come to Ada because they identify with female community, none come here bearing only gender identity. We  carry with us all the different parts of ourselves, including race, sexuality, ethnicity, religion, and class, just to name a few. Some parts of ourselves may garner privilege, while others may be culturally marginalized.  We can use the term “intersectionality” to refer to this understanding of multiplicity.
+Our identities are complicated. We carry with us many different affinities, including race, sexuality, ethnicity, religion, and class, just to name a few. Some parts of ourselves may garner privilege, while others may be culturally marginalized.  We can use the term “intersectionality” to refer to this understanding of multiplicity.
 
 Please answer the following reflection questions on a separate paper.
 
 1. List as many of your own identity categories as you can: (e.g. race, class, gender, age, religion, education, family structure, etc)
+
+
+
 
 2. Which part of your identity are you most aware of on a daily basis?
 
