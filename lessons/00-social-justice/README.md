@@ -18,7 +18,7 @@ In this section, we're going to think critically about the myriad parts of our o
 
 ## Resources
 1. [Assignment: Breaking Down Identity](assignments/breaking-down-identity.md)
-2. [Notes: Readings](notes/Part1readings.md)
+2. [Notes: Readings](notes/Part1Readings.md)
 
 ## Part II: Understanding Privilege, Oppression, and Institutional Racism
 In this section, we'll first look at the concept of privilege and how it operates both individually and systemically. Second, we'll look at institutional racism in tech and beyond.
