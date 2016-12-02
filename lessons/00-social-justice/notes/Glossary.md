@@ -15,7 +15,7 @@
 
 **Transgender**: This term has many definitions. It is frequently used as an umbrella term to refer to all people who do not identify with their assigned gender at birth or the binary gender system. Most often we use it to refer to someone whose gender differs from the biological sex to which they were assigned at birth. Transgender people may identify as male or female, or they may feel that neither label fits them.
 
-**Non-Binary**: This term has some overlap with the term transgender, and there are many people who use both. A non-binary person feels that their gender does fit within the binary understanding of male of female. Non-binary people may choose to use **gender neutral pronouns** like they/them or or ze/zir.
+**Non-Binary**: This term has some overlap with the term transgender, and there are many people who use both. A non-binary person feels that their gender does fit within the binary understanding of male of female. Non-binary people may choose to use **gender neutral pronouns** like they/them or or ze/zir. 
 
 **Cisgender**: Types of gender identity where an individual's experience of their own gender matches the sex they were assigned at birth.
 
