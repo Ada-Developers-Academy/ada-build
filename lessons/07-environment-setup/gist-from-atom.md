@@ -1,7 +1,7 @@
 _Jumpstart_
 
 # Environment Setup
-## Creating a Gist Directly in Atom
+## Creating a Gist Directly From Atom
 _This lesson is optional. It walks you through how to create a `gist` directly from `Atom`._
 
 ### Part 1
@@ -23,4 +23,4 @@ _This lesson is optional. It walks you through how to create a `gist` directly f
 2. Open up a file in Atom that you would like to create a gist of and press `cmd` + `option` + `g`, name your gist, and then click `Gist It`
 
 ## References
-This Atom packed was created by [rpowell](https://github.com/rpowelll), you can find more information in the [gist-it repository](https://github.com/rpowelll/gist-it)
+This Atom package was created by [rpowell](https://github.com/rpowelll), you can find more information in the [gist-it repository](https://github.com/rpowelll/gist-it)
