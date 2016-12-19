@@ -10,7 +10,7 @@ _This lesson is optional. It walks you through how to create a `gist` directly f
 3. Type `gist-it` in the search field and press enter
 4. Click `install` on the package named `gist-it`
 5. When it finishes installing, click `Settings` on the `gist-it` package
-6. We recommend checking `New Gists default to private`, as well as `Open new Gist after create`
+6. We recommend checking `New Gists default to private`
 
 ### Part 2
 1. Go to [generate a new token](https://github.com/settings/tokens/new)
@@ -21,6 +21,7 @@ _This lesson is optional. It walks you through how to create a `gist` directly f
 ### Part 3
 1. Go back to Atom and paste in your token in the `OAuth token` box
 2. Open up a file in Atom that you would like to create a gist of and press `cmd` + `option` + `g`, name your gist, and then click `Gist It`
+3. You will now have the link to the `gist` you just made in your copy buffer, and can paste it in your homework survey
 
 ## References
 This Atom package was created by [rpowell](https://github.com/rpowelll), you can find more information in the [gist-it repository](https://github.com/rpowelll/gist-it)
