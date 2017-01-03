@@ -23,5 +23,7 @@ _This lesson is optional. It walks you through how to create a `gist` directly f
 2. Open up a file in Atom that you would like to create a gist of and press `cmd` + `option` + `g`, name your gist, and then click `Gist It`
 3. You will now have the link to the `gist` you just made in your copy buffer and you can paste it directly into your homework survey
 
+When you want to create another `gist` you do not need a new token, you instead only need to `cmd` + `option` + `g`, name your gist, and then click `Gist It` for any future gists.
+
 ## References
 This Atom package was created by [rpowell](https://github.com/rpowelll), you can find more information about it in the [gist-it repository](https://github.com/rpowelll/gist-it)
