@@ -13,8 +13,8 @@ Hi! The purpose of these notes is to help you install and configure some softwar
 
 ## Detailed Instructions
 
-### OS X _El Capitan_ or _Yosemite_
-_OS X_ is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the two most recent versions are _Yosemite_ and _El Capitan_. For Ada, your computer must be running one of these two versions of _OS X_, with preference given to _El Capitan_.
+### OS X _El Capitan_ or _Sierra_
+_OS X_ is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the two most recent versions are _Sierra_ and _El Capitan_. For Ada, your computer must be running one of these two versions of _OS X_, with preference given to _El Capitan_.
 
 To check your version of OS X, click the Apple icon at the far left edge of toolbar at the top of the screen. From there, choose _About This Mac_. That'll open a window with lots and lots of information about your computer. Right at the top, in big type, is the current version of _OS X_.
 
@@ -22,7 +22,7 @@ To check your version of OS X, click the Apple icon at the far left edge of tool
 
 ![OS X Version](../images/about-this-mac-2.png)
 
-If your Mac isn't running _Yosemite_ or _El Capitan_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
+If your Mac isn't running _Sierra_ or _El Capitan_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
 
 ### Xcode Command Line Tools
 _Xcode_ is the name of the collection of software tools used to create programs for _OS X_ and _iOS_ (the operating system on Apple's mobile devices like the iPhone and iPad). We'll need some parts of _Xcode_, but not the whole thing. The part we need is called the _Xcode Command Line Tools_. We won't be using them during the Jumpstart curriculum, but it makes sense to install them now. They can take a long time to download and install, so doing it now will save us lots of time in the classroom later.
@@ -42,6 +42,18 @@ Writing software requires software! Way back when, writing software required sta
 For Ada, we'll use [Atom](https://atom.io/). From the website, download the installer package. Then run the installer. There's not much to _Atom_ out of the box, but it's enough to get us started writing code in the next lesson.
 
 __Note:__ Many folks in the Ruby sphere use either _Atom_ or _Sublime Text_ as their primary editor. Either is fine for the classroom, but if you don't already have _Sublime Text_ or any other _text editor_, go with _Atom_.
+
+### Homebrew Packager Manager
+
+[Homebrew Package Manager](http://brew.sh) makes it easy to install a variety of software packages, and is used by the following Ruby Version Manager (rvm).  
+
+Installing Homebrew involves copying and pasting `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+You may need to enter your computer password to complete the installation.
+
+#### Trust but Verify
+Run `$ brew doctor`. Brew is super great at telling you what else it may need. Sometimes there are file permissions to fix. Sometimes there's a warning that can be ignored. If there's anything ever wrong with Brew, `brew doctor` will usually be able to tell you what it is and how to fix it.
+
 
 ### Ruby Version Manager
 [Ruby Version Manager (rvm)](https://rvm.io/) makes it easy to install, manage, and switch between Ruby versions. _rvm_ is a _package manager_; it's software to help us install other software. Most _package managers_ are just for installing, updating, and removing software packages, but _rvm_ has a lot of really useful features specifically for working with Ruby that we'll use throughout Ada.
