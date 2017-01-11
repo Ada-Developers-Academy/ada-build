@@ -60,7 +60,9 @@ Run `$ brew doctor`. Brew is super great at telling you what else it may need. S
 
 Installing _rvm_ is done in the Terminal: `$ \curl -sSL https://get.rvm.io | bash -s stable`
 
-The installation won't take long. When it's done, close your Terminal (⌘-Q) and then reopen it. Verify all's well by running `$ rvm -v`. You should see something like `rvm 1.28.0 (latest)`.
+The installation won't take long. When it's done, close your Terminal (⌘-Q) and then reopen it. You can find the ⌘ or 'Command' key next to your spacebar.    On a Mac pressing both command and 'Q' will quit the active application.  
+
+Verify all's well by running `$ rvm -v`. You should see something like `rvm 1.28.0 (latest)`.
 
 ### Ruby
 Finally! Whew! Ruby is the first programming language we'll learn in the classroom. It's also my personal favorite, but that's just a happy accident.
