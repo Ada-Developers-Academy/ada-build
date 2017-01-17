@@ -1,4 +1,4 @@
-# Iterators
+# Loops and Iterators
 
 ## Learning Goals
 - Vocabulary: blocks, loops, iterator, iteration, iteration variable, counter-controlled, sentinel-controlled, loop table, times loop, range, while loop
