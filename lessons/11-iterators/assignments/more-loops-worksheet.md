@@ -1,4 +1,4 @@
-# More Loops Worksheet
+# More Loops and Iterators Worksheet
 
 Read the code in each section, then write exactly what the code prints out.
 
