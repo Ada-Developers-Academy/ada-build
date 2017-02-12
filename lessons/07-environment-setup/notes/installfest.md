@@ -4,7 +4,7 @@ Hi! The purpose of these notes is to help you install and configure some softwar
 
 ## Short list of required software:
 
-- [OS X _El Capitan_ (or OS X _Yosemite_)](http://www.apple.com/osx/whats-new/)
+- [OS X _El Capitan_ (or OS X _Sierra_)](http://www.apple.com/osx/whats-new/)
 - [Xcode Command Line Tools](#xcode-command-line-tools)
 - [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
 - [Atom (text editor)](https://atom.io/)
@@ -20,7 +20,7 @@ To check your version of OS X, click the Apple icon at the far left edge of tool
 
 ![About This Mac](../images/about-this-mac.png)
 
-![OS X Version](../images/about-this-mac-2.png)
+![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-sierra-about-this-mac-overview-build.jpg)
 
 If your Mac isn't running _Sierra_ or _El Capitan_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
 
