@@ -4,7 +4,7 @@ Hi! The purpose of these notes is to help you install and configure some softwar
 
 ## Short list of required software:
 
-- [OS X _El Capitan_ (or OS X _Yosemite_)](http://www.apple.com/osx/whats-new/)
+- [OS X _El Capitan_ (or OS X _Sierra_)](http://www.apple.com/osx/whats-new/)
 - [Xcode Command Line Tools](#xcode-command-line-tools)
 - [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
 - [Atom (text editor)](https://atom.io/)
