@@ -7,9 +7,8 @@ But what use are Strings if you can't change them? That's where String slicing a
 
 The method **slice** allows you to split a String into smaller pieces. Let's look at some examples of how you can use **slice** using a sample string: my_string = "Ada Lovelace".
 
-
 |Example | Input | Output |
-|:---: |:---:| :---: |:---:|
+|:---: |:---:| :---: |
 |1. |my_string.slice(5)| "o" |
 |2. |my_string.slice(20)| nil |
 |3. |my_string.slice(0, 3)| "Ada" |
@@ -33,7 +32,7 @@ Another important String command is **concatentation**, which allows you to comb
 Let's look at some examples using my_string.
 
 |Example | Input | Output |
-|:---: |:---:| :---: |:---:|
+|:---: |:---:| :---: |
 |1.| my_string + " codes it!" | "Ada Lovelace codes it!" |
 |2.| my_string << " is" << " awesome!" | "Ada Lovelace is awesome!" |
 |3.| my_string.concat(" likes to code!") | "Ada Lovelace likes to code!"|
