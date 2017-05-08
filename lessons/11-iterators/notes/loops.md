@@ -11,7 +11,7 @@ puts "hello! "
 # ... 495 more times
 ```
 
-Usig a loop, we could re-write this as:
+Using a loop, we could re-write this as:
 ```ruby
 500.times do
   puts "hello! "
