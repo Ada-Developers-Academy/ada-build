@@ -15,7 +15,7 @@ In the example below, this iterator will iterate over the `veggies` array. For e
 veggies = ["carrot", "yam", "zucchini", "spinach"]
 
 veggies.each do |vegetable|
-	puts "a vegetable: #{vegetable}"
+  puts "a vegetable: #{vegetable}"
 end
 ```
 output:
