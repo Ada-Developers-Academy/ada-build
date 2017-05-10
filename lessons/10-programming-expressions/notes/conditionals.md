@@ -15,7 +15,7 @@ You can create a basic `if` statement using the syntax below:
 ```ruby
 if <boolean expression>
   # conditional body
-  # this code only execute if the <boolean expression> evaluates as true
+  # this code only executes if the <boolean expression> evaluates as true
 end
 ```
 
