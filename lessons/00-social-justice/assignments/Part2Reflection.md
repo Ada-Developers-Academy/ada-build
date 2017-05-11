@@ -1,4 +1,4 @@
-#Assignment: Reflection One
+# Assignment: Reflection One
 *Brief responses are just fine.*
 
 1. List at least 5 examples of institutional racism. Try to come up with these independently, but use google if needed.
