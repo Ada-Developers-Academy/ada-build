@@ -1,4 +1,4 @@
-##Glossary of Terms
+## Glossary of Terms
 
 
 **Privilege**:  A special right, advantage, or immunity granted or available only to a particular person or group of people.
