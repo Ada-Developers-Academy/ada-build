@@ -67,13 +67,13 @@ Verify all's well by running `$ rvm -v`. You should see something like `rvm 1.28
 ### Ruby
 Finally! Whew! Ruby is the first programming language we'll learn in the classroom. It's also my personal favorite, but that's just a happy accident.
 
-Now that we've got _rvm_ handy, we can install Ruby by typing the following into our terminal: `$ rvm install 2.3.0`
+Now that we've got _rvm_ handy, we can install Ruby by typing the following into our terminal: `$ rvm install 2.4.1`
 
-![Installing Ruby with rvm](../images/ruby-install.png)
+<!-- ![Installing Ruby with rvm](../images/ruby-install.png) -->
 
-Installing Ruby can take awhile, so feel free to take a break or go for a walk while _rvm_ gets things sorted. In short, _rvm_ will download the ruby version you specified (2.3.0), compile it (prepare it to work specifically on your computer's hardware), install the compiled code in the right place, and do some housekeeping in the (really likely) chance you'll encounter/create code that requires a different Ruby version.
+Installing Ruby can take awhile, so feel free to take a break or go for a walk while _rvm_ gets things sorted. In short, _rvm_ will download the ruby version you specified (2.4.1), compile it (prepare it to work specifically on your computer's hardware), install the compiled code in the right place, and do some housekeeping in the (really likely) chance you'll encounter/create code that requires a different Ruby version.
 
-When it's done, you can verify that everything succeeded by typing `$ ruby -v` into your terminal. The return should say something like `ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-darwin14]`.
+When it's done, you can verify that everything succeeded by typing `$ ruby -v` into your terminal. The return should say something like `ruby 2.4.1p111 (2017-03-22 revision 53290) [x86_64-darwin16]`.
 
 ### You did it!
 Awesome! Your environment is ready to go! In the next lesson, we'll put that environment to good use and write our first program!
