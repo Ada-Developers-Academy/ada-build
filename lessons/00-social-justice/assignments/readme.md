@@ -1,3 +1,4 @@
 # Assignments
-1. [Assignment: Breaking Down Identity](breaking-down-identity.md)
-1. [Assignment: Vocabulary](vocab.md)
+1. [Identity and Intersectionality](identity-and-intersectionality.md)
+1. [Institutional racism](institutional-racism.md)
+1. [Microaggressions](microaggressions.md)

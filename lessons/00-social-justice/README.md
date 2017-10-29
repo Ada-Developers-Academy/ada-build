@@ -1,8 +1,6 @@
 # 00 – Introduction to Social Justice
 
-In the attached materials, you’ll be asked to read and think about issues of identity, privilege, oppression, and social justice. This may be new to you, or it may be a huge piece of your daily, lived experience. Our readings will focus primarily on race and gender, but should also give you a lens through which to understand a wide breadth of social justice and identity issues. Our goal here is to build some of the linguistic and conceptual skills that will start the work of having safe, productive, community-affirming conversations about systemic inequities.
-
-Refer to [The Glossary](https://github.com/Ada-Developers-Academy/jump-start/blob/bf4b1a1447c7664fadd60237f1eab235f7993760/lessons/00-social-justice/notes/Glossary.md) if you encounter unfamiliar terms.
+In this lesson you’ll be asked to read and think about issues of identity, privilege, oppression, and social justice. This may be new to you, or it may be a huge piece of your daily, lived experience. Our readings will focus primarily on race and gender, but should also give you a lens through which to understand a wide breadth of social justice and identity issues. Our goal here is to build some of the linguistic and conceptual skills that will start the work of having safe, productive, community-affirming conversations about systemic inequities.
 
 ## Learning Goals
 - Build a framework for critical, informed conversations around diversity and inclusion.
@@ -13,23 +11,32 @@ Refer to [The Glossary](https://github.com/Ada-Developers-Academy/jump-start/blo
 ## Ada's Statement of Inclusivity
 Ada Developers Academy is designed to be an inclusive, positive learning environment for all students, regardless of sexual orientation, disability, physical appearance, education, age, race, or religion. All women (cis and trans*) and people with non-binary gender who feel a part of women's community are encouraged to apply.
 
-## Part I: Identity and Intersectionality
-In this section, we're going to think critically about the myriad parts of our own identities. Next, we'll contexualize this work with the core concept of Intersectionality. Lastly, we'll read three articles that highlight the importance of intersectionality in effectively addressing diversity in tech.
+## Introduction to social justice
+Start by reviewing our [glossary of social justice terms](./resources/glossary.md).
 
-## Resources
-1. [Assignment: Breaking Down Identity](assignments/breaking-down-identity.md)
-2. [Notes: Readings](notes/Part1Readings.md)
+Then read and reflect on these articles
+1. [Why Our Feminism Must Be Intersectional by Jarune Uwujaren and Jamie Utt](http://everydayfeminism.com/2015/01/why-our-feminism-must-be-intersectional/)
+1. [#FFFFFF Diversity by Erica Joy](https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.os3cox669)
+1. ["Minimum Bar" Diversity by Ellen Chisa](https://medium.com/@ellenchisa/minimum-bar-diversity-2b8342428de4#.uc9lmzczn)
+1. [What Being Non-Binary in Female-Centric Space is like - And How to be More Inclusive by Sam Escobar](http://everydayfeminism.com/2016/06/non-binary-in-female-spaces/)
 
-## Part II: Understanding Privilege, Oppression, and Institutional Racism
-In this section, we'll first look at the concept of privilege and how it operates both individually and systemically. Second, we'll look at institutional racism in tech and beyond.
+After reviewing our glossary, and reading the articles, define the terms below in your own words, feel free to research any words you are not familiar with.
 
-## Resources
-1. [Notes: Readings and Movie](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part2Readings.md)
-2. [Assignment: short answer reflection](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/assignments/Part2Reflection.md)
+| Term | Defintion |
+| :--- | :--- |
+| Privilege | |
+| Oppression | |
+| Ally | |
+| Intersectionality | |
+| Institutional racism/sexism/ableism etc. | |
+| Structural racism/sexism/ableism etc. | |
+| Queer | |
+| Transgender | |
+| Cisgender | |
+| Non-Binary | |
+| Preferred Pronouns | |
 
-## Part III: Addressing Microaggresions and Creating Equitable Community
-In this section, we'll look at how the inequities we've explored can impact our communities and interpersonal interactions - and what we can do about it. We'll define "microaggresions" and "equity."
-
-## Resources
-1. [Notes: Readings and Video](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part3ReadingsAndVideo.md)
-2. [Assignment: short answer reflection](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/assignments/Part3Reflection.md)
+## [Assignments](./assignments)
+* [Assignment: Identity and Intersectionality](./assignments/identity-and-intersectionality.md)
+* [Assignment: Understanding institutional racism](./assignments/institutional-racism.md)
+* [Assignment: Addressing microaggressions](./assignments/microaggressions.md)
