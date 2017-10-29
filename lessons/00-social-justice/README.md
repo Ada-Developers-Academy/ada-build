@@ -37,6 +37,6 @@ After reviewing our glossary, and reading the articles, define the terms below i
 | Preferred Pronouns | |
 
 ## [Assignments](./assignments)
-* [Assignment: Identity and Intersectionality](./assignments/identity-and-intersectionality.md)
-* [Assignment: Understanding institutional racism](./assignments/institutional-racism.md)
-* [Assignment: Addressing microaggressions](./assignments/microaggressions.md)
+* [Identity and Intersectionality](./assignments/identity-and-intersectionality.md)
+* [Understanding institutional racism](./assignments/institutional-racism.md)
+* [Addressing microaggressions](./assignments/microaggressions.md)
