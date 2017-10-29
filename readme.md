@@ -9,7 +9,7 @@ Ada is as much a social justice organization as it is a school where people lear
 | :--- |
 |[Lesson 00 – Social Justice](lessons/00-social-justice/) |
 
-## Preparing to Code (Lessons 01 – 04)
+## Preparing to Code 
 In these lessons you will identify your learning style, learn the art of problem solving, and develop your work-flow.
 
 | Preparing to Code |
@@ -19,7 +19,7 @@ In these lessons you will identify your learning style, learn the art of problem
 | [Lesson 03 – Work-flow Navigation](lessons/03-workflow/) |
 | [Lesson 04 – Effective Searching](lessons/04-effective-searching/) |
 
-## Learning to Code (Lessons 05 – 12)
+## Learning to Code
 These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
 | Learning to Code |
