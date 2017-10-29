@@ -7,10 +7,10 @@ In this section, we'll look at how the inequities we've explored can impact our 
 ## Articles and videos
 
 Read the articles and watch the videos linked below:
-1. [Let This Feminist Punk Band Explain the Meaning of Microaggresions by Katherine Brooks](http://www.huffingtonpost.com/entry/punk-band-defines-microaggressions_us_572207f9e4b0b49df6aa4384)
+1. [Let This Feminist Punk Band Explain the Meaning of Microaggresions](http://www.huffingtonpost.com/entry/punk-band-defines-microaggressions_us_572207f9e4b0b49df6aa4384) by Katherine Brooks
 1. [What Does Microaggresion Mean to You?](http://projects.seattletimes.com/2016/under-our-skin/#microaggression)
-1. [Allies and Microaggressions by Kerry Ann Rockquemore](https://www.insidehighered.com/advice/2016/04/13/how-be-ally-someone-experiencing-microaggressions-essay)
-1. [Equality is Not Enough by Amy Sun](http://everydayfeminism.com/2014/09/equality-is-not-enough/)
+1. [Allies and Microaggressions](https://www.insidehighered.com/advice/2016/04/13/how-be-ally-someone-experiencing-microaggressions-essay) by Kerry Ann Rockquemore
+1. [Equality is Not Enough](http://everydayfeminism.com/2014/09/equality-is-not-enough/) by Amy Sun
 
 ## Reflection questions
 Respond briefly to the following questions:
