@@ -15,10 +15,10 @@ Ada Developers Academy is designed to be an inclusive, positive learning environ
 Start by reviewing our [glossary of social justice terms](./resources/glossary.md).
 
 Then read and reflect on these articles
-1. [Why Our Feminism Must Be Intersectional by Jarune Uwujaren and Jamie Utt](http://everydayfeminism.com/2015/01/why-our-feminism-must-be-intersectional/)
-1. [#FFFFFF Diversity by Erica Joy](https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.os3cox669)
-1. ["Minimum Bar" Diversity by Ellen Chisa](https://medium.com/@ellenchisa/minimum-bar-diversity-2b8342428de4#.uc9lmzczn)
-1. [What Being Non-Binary in Female-Centric Space is like - And How to be More Inclusive by Sam Escobar](http://everydayfeminism.com/2016/06/non-binary-in-female-spaces/)
+1. [Why Our Feminism Must Be Intersectional](http://everydayfeminism.com/2015/01/why-our-feminism-must-be-intersectional/) by Jarune Uwujaren and Jamie Utt
+1. [#FFFFFF Diversity](https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a#.os3cox669) by Erica Joy
+1. ["Minimum Bar" Diversity](https://medium.com/@ellenchisa/minimum-bar-diversity-2b8342428de4#.uc9lmzczn) by Ellen Chisa
+1. [What Being Non-Binary in Female-Centric Space is like - And How to be More Inclusive](http://everydayfeminism.com/2016/06/non-binary-in-female-spaces/) by Sam Escobar
 
 After reviewing our glossary, and reading the articles, define the terms below in your own words, feel free to research any words you are not familiar with.
 
