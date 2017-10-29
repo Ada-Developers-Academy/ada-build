@@ -11,3 +11,4 @@
 1. [Notes: What is _Ruby_? What is _irb_?](notes/what-even-is-ruby.md)
 1. [Notes: What is a _text editor_?](notes/what-is-a-text-editor.md)
 1. [Notes: Installfest!](notes/installfest.md)
+1. _Optional_: [Creating a gist from Atom](gist-from-atom.md)

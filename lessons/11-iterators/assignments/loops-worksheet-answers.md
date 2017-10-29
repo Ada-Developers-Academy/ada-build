@@ -45,11 +45,11 @@ puts "fun!"
 ```
 
 | Count | Output |
-|:---: |:---|
+|:---: |:--- |
 | 1 | coding! |
 | 2 | coding! |
 | 3 | coding! |
-|
+| 
 | **Answer:** | **coding!<br>coding!<br>coding!<br>fun!** |
 
 4.
@@ -66,7 +66,7 @@ end
 | 3 | 2 | 2 chicken(s) |
 | 4 | 3 | 3 chicken(s) |
 | 5 | 4 | 4 chicken(s) |
-|
+| 
 | | **Answer:** | **0 chicken(s)<br>1 chicken(s)<br>2 chicken(s)<br>3 chicken(s)<br>4 chicken(s)** |
 
 5.
@@ -87,7 +87,7 @@ end
 | 8 | 7 | 49 |
 | 9 | 8 | 64 |
 | 10 | 9 | 81 |
-|
+| 
 | | **Answer:** | **0<br>1<br>4<br>9<br>16<br>25<br>36<br>49<br>64<br>81** |
 
 6.
@@ -104,7 +104,7 @@ end
 | 3 | hello! |
 | 4 | hello! |
 | 5 | hello! |
-|
+| 
 | **Answer:** | **hello!<br>hello!<br>hello!<br>hello!<br>hello!** |
 
 7.
@@ -118,7 +118,7 @@ end
 | 1 | 1 | 1 animal(s) |
 | 2 | 2 | 2 animal(s) |
 | 3 | 3 | 3 animal(s) |
-|
+| 
 | | **Answer:** | **1 animal(s)<br>2 animal(s)<br>3 animal(s)** |
 
 8.
@@ -132,7 +132,7 @@ end
 | 1 | 1 | 1 |
 | 2 | 2 | 4 |
 | 3 | 3 | 9 |
-|
+| 
 | | **Answer:** | **1<br>4<br>9** |
 
 9.
@@ -150,7 +150,7 @@ puts total
 | 1 | 1 | 0 | - |
 | 2 | 2 | 1 | - |
 | 3 | 3 | 3 | 6 |
-|
+| 
 | | | **Answer:** | **6** |
 
 10.
@@ -173,7 +173,7 @@ end
 | 8 | 8 | - |
 | 9 | 9 | - |
 | 10 | 10 | - |
-|
+| 
 | | **Answer:** | **You got a winner!** |
 
 11.
@@ -191,7 +191,7 @@ end
 | 2 | 1 | hi |
 | 3 | 2 | hi |
 | 4 | 3 | - |
-|
+| 
 | | **Answer:** | **hi<br>hi<br>hi** |
 
 12.
@@ -211,7 +211,7 @@ puts "bye"
 | 2 | 1 | hi |
 | 3 | 2 | hi |
 | 4 | 3 | bye |
-|
+| 
 | | **Answer:** | **hi<br>hi<br>hi<br>bye** |
 
 13.
@@ -229,7 +229,7 @@ end
 | 2 | 1 | 2 |
 | 3 | 2 | 3 |
 | 4 | 3 | - |
-|
+| 
 | | **Answer:** | **1<br>2<br>3** |
 
 14.
@@ -251,7 +251,7 @@ puts x
 | 2 | 6 | 1 | - |
 | 3 | 7 | 2 | - |
 | 4 | 8 | 3 | 8 |
-|
+| 
 | | | **Answer:** | **8** |
 
 15.
@@ -270,7 +270,7 @@ end
 | 2 | 2 | ada! |
 | 3 | 1 | ada! |
 | 4 | 0 | - |
-|
+| 
 | | **Answer:** | **ada!<br>ada!<br>ada!** |
 
 16.
@@ -288,7 +288,7 @@ end
 | 3 | 3 | a while |
 | 4 | 4 | a while |
 | 5 | 5 | a while |
-| ...forever
+| ...forever 
 | | **Answer:** | **infinite loop** |
 
 17.
@@ -304,5 +304,5 @@ end
 |:---: |:---:| :---: |
 | 1 | 1 | o hai |
 | 2 | 100 | - |
-|
+| 
 | | **Answer:** | **o hai** |
