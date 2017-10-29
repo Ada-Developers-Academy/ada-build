@@ -2,22 +2,15 @@
 
 This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/). These materials are free and open to everyone. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
 
-## Learning Goals
-
-### Introduction to Social Justice (Lesson 00)
-Ada is as much a social justice organization as it is a school where people learn to program. Our core values at Ada are building and contributing to a supportive community; creating and advocating for inclusivity; and teaching and practicing lifelong learning, all within Tech. Having a basic understanding of social justice is crucial to upholding these core values. As such the very first lesson in our jump start curriculum focuses on social justice.
-
-### Preparing to Code (Lessons 01 – 04)
-In these lessons you will identify your learning style, learn the art of problem solving, and develop good work-flow habits.
-
-### Learning to Code (Lessons 05 – 12)
-These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
-
-## Lessons
+## Introduction to Social Justice
+Ada is as much a social justice organization as it is a school where people learn to program. Our core values at Ada are building and contributing to a supportive community, creating and advocating for inclusivity, and teaching and practicing lifelong learning, all within Tech. Having a basic understanding of social justice is crucial to upholding these core values.
 
 | Introduction to Social Justice |
 | :--- |
 |[Lesson 00 – Social Justice](lessons/00-social-justice/) |
+
+## Preparing to Code (Lessons 01 – 04)
+In these lessons you will identify your learning style, learn the art of problem solving, and develop your work-flow.
 
 | Preparing to Code |
 | :--- |
@@ -25,6 +18,9 @@ These lessons will introduce you to the fundamentals of programming including se
 | [Lesson 02 – Problem Solving](lessons/02-problem-solving/) |
 | [Lesson 03 – Work-flow Navigation](lessons/03-workflow/) |
 | [Lesson 04 – Effective Searching](lessons/04-effective-searching/) |
+
+## Learning to Code (Lessons 05 – 12)
+These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
 | Learning to Code |
 | :--- |
