@@ -7,14 +7,14 @@ In this section, we'll first look at the concept of privilege and how it operate
 ## Articles and videos
 Read the articles and watch the videos linked below:
 
-1. [Privilege 101 by Sian Ferguson](http://everydayfeminism.com/2014/09/what-is-privilege/)
-1. [Video: What Does Instutional Racism Mean to You?](http://projects.seattletimes.com/2016/under-our-skin/#institutional_racism)
-1. [The Loud Fight Against Silicon Valley's Quiet Racism by Darold Cuba](http://motherboard.vice.com/read/the-loud-fight-against-silicon-valleys-quiet-racism)
-1. [Documentary "13th" by Ava DuVernay](https://www.netflix.com/title/80091741) *Please be aware there is violent video footage of police shootings at the end of this film*
-1. [The Case for Reparations by Ta-Nehisi Coates](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
+1. [Privilege 101](http://everydayfeminism.com/2014/09/what-is-privilege/) by Sian Ferguson
+1. [Video: What Does Institutional Racism Mean to You?](http://projects.seattletimes.com/2016/under-our-skin/#institutional_racism)
+1. [The Loud Fight Against Silicon Valley's Quiet Racism](http://motherboard.vice.com/read/the-loud-fight-against-silicon-valleys-quiet-racism) by Darold Cuba
+1. [Documentary "13th"](https://www.netflix.com/title/80091741) by Ava DuVernay *Please be aware there is violent video footage of police shootings at the end of this film*
+1. [The Case for Reparations](http://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/) by Ta-Nehisi Coates
 
 ## Reflection questions
-Respond briefly to the following questions:
+Respond briefly to the questions
 
 1. List at least 5 examples of institutional racism. Try to come up with these independently, but use Google if needed.
 
