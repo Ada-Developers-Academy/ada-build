@@ -1,17 +1,33 @@
 # Problem Solving
 
 ## Learning Goals
-- Vocabulary: Algorithm, Input, Output
-- To create a precise set of instructions (algorithm)
-- To test an algorithm for correctness
-- To refine an algorithm to be more clear
-- To evaluate an algorithm as finite and correct in solving a specified problem
-
-## Readings
-* [Algorithms](notes/algorithms.md)
+* Understand what an algorithm is
+* Develop your own algorithm for a task, test, refine, and evaluate it
 
 ## Assignments
-_Pick and complete one of the two assignments listed below._
+Start by reading through our notes on [algorithms](./algorithms.md).
 
-* [Make a paper snowflake](assignments/snowflake.md)
-* [Make a Peanut Butter and Jelly Sandwich](assignments/pb-and-j.md)
+Write an algorithm for getting to the house of a family member or friend (you pick a specific person)?
+- Input?
+- Output?
+- Definiteness?
+- Effectiveness?
+- Finiteness?
+
+Watch the [Driverless Car Hits the Street - Not People (2008)](https://www.youtube.com/watch?v=yDVLUiJfpPw) and think about why writing instructions for computers might be different than writing instructions for humans. 
+
+Now watch [The 2015 DARPA Robotics Challenge Finals (2015)](https://www.youtube.com/watch?v=8P9geWwi9e0), a more recent video and think about what the computer scientists writing code for these robots have to think about. What inputs do they have? What is their intended output? How are their algorithms considered Definite, Effective, and Finite?
+
+Then either complete the peanut butter (or alternative) and jelly sandwich activity, or the paper snowflake activity.
+
+### (Option 1) Make a Peanut Butter and Jelly Sandwich
+Write precise instructions to make a peanut butter (or alternative) and jelly sandwich. Then have someone carry out those instructions to test your algorithm's clarity. While they are following your instructions, you are only allowed to watch, they are not able to ask you questions.
+
+When listing the steps in your procedure, you should assume the person following your instructions is as straightforward as a computer (they do not make assumptions or ask for clarity). Let the person know who is following the instructions to interpret them as literally as possible. If your algorithm does not work out as expected, modify your algorithm and test on a new person until you get the desired output.
+
+### (Option 2) Make a Paper Snowflake
+For this activity, you will write precise instructions to make a paper snowflake. You will need to find someone to carry out those instructions to test your algorithm's clarity. While they are following your instructions, you are only allowed to watch, they are not able to ask you questions.
+
+When listing the steps in your procedure, you should assume the person following your instructions is as straightforward as a computer (they do not make assumptions or ask for clarity). Let the person know who is following the instructions to interpret them as literally as possible. If your algorithm does not work out as expected, modify your algorithm and test on a new person until you get the desired output.
+
+For this reason, it is important to try multiple test cases on an algorithm. _Further Reading_: [What Is a Good Test Case? (Cem Kaner, J.D., Ph.D.)](http://www.kaner.com/pdfs/GoodTest.pdf)
