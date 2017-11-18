@@ -1,23 +1,15 @@
 # 01 – Learning Style
 
-## Learning Goals
-* To explore your learning style
-* To find strategies that allow you to consume information quickly and with retention
-* To find strategies that help you increase your understanding of material
-* To find strategies for checking your understanding of material
+## Learning goals
+* Explore your learning style
+* Find strategies that allow you to consume and retain information quickly, and increase your understanding
 
-## Readings
-* [Learning Styles](notes/learning-styles.md)
-* [Programming Strategies](notes/programming-strategies.md)
+## Assignment
+Read through our notes on [learning styles](./learning-styles.md).
 
-## Assignments
+As you learn how to program, remember that you are learning a new language. There will be lots of new vocabulary in addition to new concepts. Learning how to learn is one of the fundamental steps to becoming a successful software developer. As you work through this curriculum, you should try different strategies for absorbing the material and figure out what ways work best for you.
 
-### Things to Try
-
-While you are completing the Jumpstart curriculum, try out various strategies for learning (see the notes for examples). After each lesson think about how good you feel about your understanding of that material and relate that understanding to the strategies that you tried.
-
-* Try to identify your preferred learning style(s).
-* Try to identify which strategies work well for you.
+As you work through this curriculum, try different strategies for absorbing the material and figure out what ways work best for you. After each lesson think about how good you feel about your understanding of that material and relate that understanding to the strategies that you tried.
 
 ## Further Readings (Optional)
 * [How Successful People Stay Calm]( http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
