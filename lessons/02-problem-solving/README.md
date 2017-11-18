@@ -25,4 +25,5 @@ For this activity, you will write precise instructions to make a paper snowflake
 
 When listing the steps in your procedure, you should assume the person following your instructions is as straightforward as a computer (they do not make assumptions or ask for clarity). Let the person know who is following the instructions to interpret them as literally as possible. If your algorithm does not work out as expected, modify your algorithm and test on a new person until you get the desired output.
 
-For this reason, it is important to try multiple test cases on an algorithm. _Further Reading_: [What Is a Good Test Case? (Cem Kaner, J.D., Ph.D.)](http://www.kaner.com/pdfs/GoodTest.pdf)
+## Optional readings
+* [What Is a Good Test Case? (Cem Kaner, J.D., Ph.D.)](http://www.kaner.com/pdfs/GoodTest.pdf)
