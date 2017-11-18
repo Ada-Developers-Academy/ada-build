@@ -10,17 +10,17 @@ In [The Art of Computer Programming (Knuth)](https://en.wikipedia.org/wiki/The_A
 
 When we initially write an algorithm, we attempt to be as precise as necessary to produce our intended output. It is important to address all 5 properties of an algorithm.
 
+### Input
+An algorithm starts its computation from an initial state. This state may be expressed as input values given to the algorithm before it starts.
+
+### Output
+An algorithm must produce a result with a specific relation to the inputs.
+
 ### Finiteness
 An algorithm must start and stop. The rules an algorithm applies must also conclude in a reasonable amount of time. What "reasonable" is depends on the nature of the algorithm, but in no case can an algorithm take an infinite amount of time to complete its task. Knuth calls this property the finiteness of an algorithm.
 
 ### Definiteness
 The actions that an algorithm performs cannot be open to multiple interpretations; each step must be precise and unambiguous. Knuth terms this quality definiteness. An algorithm cannot iterate a "bunch" of times. The number of times must be precisely expressed, for example 2, 1000000, or a randomly chosen number.
-
-### Inputs
-An algorithm starts its computation from an initial state. This state may be expressed as input values given to the algorithm before it starts.
-
-### Outputs
-An algorithm must produce a result with a specific relation to the inputs.
 
 ### Effectiveness
 The steps an algorithm takes must be sufficiently simple that they could be expressed; these steps must make sense for the quantities used.
