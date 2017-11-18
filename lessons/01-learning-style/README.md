@@ -11,6 +11,6 @@ As you learn how to program, remember that you are learning a new language. Ther
 
 As you work through this curriculum, try different strategies for absorbing the material and figure out what ways work best for you. After each lesson think about how good you feel about your understanding of that material and relate that understanding to the strategies that you tried.
 
-## Further Readings (Optional)
+## Optional readings
 * [How Successful People Stay Calm]( http://www.forbes.com/sites/travisbradberry/2014/02/06/how-successful-people-stay-calm/)
 * [Learning Styles and Strategies](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm)
