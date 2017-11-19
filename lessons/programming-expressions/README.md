@@ -41,7 +41,7 @@ Logical operators allow you to combine or modify boolean expressions.
 | Operator | Description | Example | Result |
 | :--- | :--- | :--- | :--- |
 | `&&` | and | `(2 == 3) && (-1 < 5)` | `false` |
-| `&#124;&#124;` | or | `(2 == 3) || (-1 < 5)` | `true` |
+| `\|\|` | or | `(2 == 3) || (-1 < 5)` | `true` |
 | `!` | not | `!(2 == 3)` | `true` |
 
 | p | q | p && q | p &#124;&#124; q |
