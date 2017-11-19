@@ -40,7 +40,7 @@ _Jump start: Lesson 10_
 
 | __Operator__ | __Description__ | __Example__ | __Result__ |
 | :--- | :--- | :--- | :--- |
-| `&&` | and | `(2 == 3) && (-1 < 5)` | `false`|
+| `&&` | and | `(2 == 3) && (-1 < 5)` | `false` |
 | `||` | or | `(2 == 3) || (-1 < 5)` | `true` |
 | `!` | not | `!(2 == 3)` | `true` |
 
