@@ -22,11 +22,11 @@ These lessons will introduce you to the fundamentals of programming including se
 
 | Order | Lesson |
 | :--- | :--- |
-| 05 | Introduction to Programming](intro-programming/) |
-| 06 | Terminal](terminal/) |
-| 07 | Environment Setup](environment-setup/) |
-| 08 | Hello World](hello-world/) |
-| 09 | Programming Grammar](programming-grammar/) |
-| 10 | Programming Expressions](programming-expressions/) |
-| 11 | Iterators](iterators/) |
-| 12 | Arrays, Hashes](basic-data-structs/) |
+| 05 | [Introduction to Programming](intro-programming/) |
+| 06 | [Terminal](terminal/) |
+| 07 | [Environment Setup](environment-setup/) |
+| 08 | [Hello World](hello-world/) |
+| 09 | [Programming Grammar](programming-grammar/) |
+| 10 | [Programming Expressions](programming-expressions/) |
+| 11 | [Iterators](iterators/) |
+| 12 | [Arrays, Hashes](basic-data-structs/) |
