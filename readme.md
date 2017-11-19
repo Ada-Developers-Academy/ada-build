@@ -5,14 +5,14 @@ This repository contains the materials for the Jumpstart program as part of [Ada
 ## Introduction to Social Justice
 Ada is as much a social justice organization as it is a school where people learn to program. Our core values at Ada are building and contributing to a supportive community, creating and advocating for inclusivity, and teaching and practicing lifelong learning, all within Tech. Having a basic understanding of social justice is crucial to upholding these core values.
 
-| # | Content |
+| Order | Lesson |
 | :--- | :--- |
 | 00 | [Social Justice](lessons/social-justice/) |
 
 ## Preparing to Code 
 In these lessons you will identify your learning style, learn the art of problem solving, and develop your work-flow.
 
-| # | Content |
+| Order | Lesson |
 | :--- | :--- |
 | 01 | [Learning Styles](lessons/learning-styles/) |
 | 02 | [Problem Solving](lessons/problem-solving/) |
