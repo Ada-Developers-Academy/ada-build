@@ -31,4 +31,5 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 09 | [Programming Grammar](./lessons/programming-grammar/) |
 | 10 | [Programming Expressions](./lessons/programming-expressions/) |
 | 11 | [Iterators](./lessons/iterators/) |
-| 12 | [Arrays, Hashes](./lessons/basic-data-structs/) |
+| 12 | [Arrays](./lessons/arrays) |
+| 13 | [Hashes](./lessons/hashes) |

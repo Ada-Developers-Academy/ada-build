@@ -2,25 +2,44 @@
 _Jump start: Lesson 9_
 
 ## Learning Goals
-- Vocabulary: variables, data types, comments, truncate
-- To identify the characteristics of different data types, namely: string, integer, and float
-- To store and access data in variables
-- To print values, variables, or a combination to the screen using both `print` and `puts`
-- To join strings using both string concatenation and string interpolation
-- To understand the difference between fixnum division (truncates) and float division (does not truncate)
-- To get information from the user using `gets.chomp`
-- To write and debug Ruby code
+* Understand different data types (string, integer, float)
+* Be able to use variables
+* Be able to print 
+* Understand and be able to use strings, string concatenation, and string interpolation
+* Be able to read input from the user
+* Practice writing and debugging Ruby code
 
-Ruby is pretty smart and understands lots of things in a way similar to how people do. Spoken languages are divided into part of speech (like verbs, adjectives, and nouns). Similarly, programming languages have their own grammar. The part of speech we will cover here are _values_, _types_, _variables_, _commands_, and _comments_.
+## Activities
+* Review [notes](./notes.md) on comments types, operators, variables, assignment statements, strings, and string operations
+* Watch [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)
+* Complete the [practice problems] and then check your answers using `irb`
+* Write a madlibs program
+  * First play a few on [eduplace](https://www.eduplace.com/tales/) to become familiar with the game
+  * Create a MadLib program that accepts input from the user and outputs a completed MadLib
+  * Use up to ten different parts of speech in order to fill in your MadLib
+  * Output should consist of a paragraph of output that has the user’s input substituted into the MadLib, we have provided an example run, but your madlib program should be unique to you
 
-## Resources
-1. [Notes: Values and Types](notes/values-types.md)
-1. [Notes: Variables](notes/variables.md)
-1. [Assignment: Variables Worksheet](assignments/variable-worksheet.md)
-1. [Notes: Commands](notes/commands.md)
-1. [Notes: Comments](notes/comments.md)
-1. [Assignment: Commands Worksheet](assignments/commands-worksheet.md)
-1. [Notes: String Slice and Concatenation](notes/more-strings.md)
-2. [Assignment: String Slice and Concatenation Worksheet](string-slicing-concatenation-worksheet.md)
-1. [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)
-1. [Assignment: Madlibs](assignments/madlibs.md)
+    ```ruby
+    Welcome to my MadLib program. Please enter in some information below:
+
+    name: Starr
+    adjective: huge
+    noun: tablecloth
+    adjective: dry
+    food (plural): tacos
+    noun (plural): packs
+    verb ending in -ed: ended
+    noun: jellyfish
+
+    HERE'S YOUR MADLIB.......
+
+    Come on over to Starr’s Pizza Parlor where you can enjoy your favorite huge-dish pizza`s.
+    You can try our famous tablecloth-lovers pizza,
+    or select from our list of dry toppings,
+    including delicious tacos, packs, and many more.
+    Our crusts are hand-ended and basted in jellyfish to make
+    them seem more Hand-made.
+    ```
+
+  * Your code should use comments throughout to explain the code, reuse at least one word, and as for at lease 1 number
+  * [Optional] Explore Ruby's built in methods for [String](http://ruby-doc.org/core-2.2.0/String.html) like `capitalize`, `downcase`, `upcase`
