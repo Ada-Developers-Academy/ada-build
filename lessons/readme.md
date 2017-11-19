@@ -16,7 +16,7 @@ In these lessons you will identify your learning style, learn the art of problem
 | 02 | [Problem Solving](problem-solving/) |
 | 03 | [Effective Internet Searching](effective-internet-searching/) |
 | 04 | [MacOSX Keyboard navigation](keyboard-navigation/) |
-| 05 | [Introduction to Programming](intro-programming/) |
+| 05 | [Ada programming languages](./ada-languages) |
 | 06 | [Terminal](terminal/) |
 | 07 | [Environment Setup](environment-setup/) |
 
