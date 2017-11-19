@@ -12,14 +12,14 @@ _Jump start: Lesson 9_
 ## Activities
 * Review [notes](./notes.md) on comments types, operators, variables, assignment statements, strings, and string operations
 * Watch [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)
-* Complete the [practice problems] and then check your answers using `irb`
+* Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
 * Write a madlibs program
   * First play a few on [eduplace](https://www.eduplace.com/tales/) to become familiar with the game
   * Create a MadLib program that accepts input from the user and outputs a completed MadLib
   * Use up to ten different parts of speech in order to fill in your MadLib
   * Output should consist of a paragraph of output that has the user’s input substituted into the MadLib, we have provided an example run, but your madlib program should be unique to you
 
-    ```ruby
+    ```
     Welcome to my MadLib program. Please enter in some information below:
 
     name: Starr
