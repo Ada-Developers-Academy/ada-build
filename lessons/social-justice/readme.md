@@ -1,4 +1,5 @@
-# 00 – Introduction to Social Justice
+# Introduction to Social Justice
+_Jump start: Lesson 0_
 
 In this lesson you’ll be asked to read and think about issues of identity, privilege, oppression, and social justice. This may be new to you, or it may be a huge piece of your daily, lived experience. Our goal here is to build some of the linguistic and conceptual skills that will start the work of having safe, productive, community-affirming conversations about systemic inequities.
 

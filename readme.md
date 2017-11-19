@@ -5,19 +5,19 @@ This repository contains the materials for the Jumpstart program as part of [Ada
 ## Introduction to Social Justice
 Ada is as much a social justice organization as it is a school where people learn to program. Our core values at Ada are building and contributing to a supportive community, creating and advocating for inclusivity, and teaching and practicing lifelong learning, all within Tech. Having a basic understanding of social justice is crucial to upholding these core values.
 
-| Introduction to Social Justice |
-| :--- |
-|[Lesson 00 – Social Justice](lessons/00-social-justice/) |
+| # | Content |
+| :--- | :--- |
+| 00 | [Social Justice](lessons/social-justice/) |
 
 ## Preparing to Code 
 In these lessons you will identify your learning style, learn the art of problem solving, and develop your work-flow.
 
-| Preparing to Code |
-| :--- |
-| [Lesson 01 – Learning Style](lessons/01-learning-style/) |
-| [Lesson 02 – Problem Solving](lessons/02-problem-solving/) |
-| [Lesson 03 – Keyboard Navigation](lessons/03-keyboard-navigation/) |
-| [Lesson 04 – Effective Internet Searching](lessons/04-effective-internet-searching/) |
+| # | Content |
+| :--- | :--- |
+| 01 | [Learning Styles](lessons/learning-styles/) |
+| 02 | [Problem Solving](lessons/problem-solving/) |
+| 03 | [Effective Internet Searching](lessons/effective-internet-searching/) |
+| 04 | [MacOSX Keyboard navigation](lessons/keyboard-navigation/) |
 
 ## Learning to Code
 These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.

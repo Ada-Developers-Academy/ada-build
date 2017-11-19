@@ -1,4 +1,5 @@
 # Problem Solving
+_Jump start: Lesson 2_
 
 ## Learning Goals
 * Understand what an algorithm is

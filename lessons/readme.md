@@ -1,15 +1,24 @@
 # Lessons
 
-| Introduction to Social Justice |
-| :--- |
-|[Lesson 00 – Social Justice](00-social-justice/) |
+## Introduction to Social Justice
+Ada is as much a social justice organization as it is a school where people learn to program. Our core values at Ada are building and contributing to a supportive community, creating and advocating for inclusivity, and teaching and practicing lifelong learning, all within Tech. Having a basic understanding of social justice is crucial to upholding these core values.
 
-| Preparing to Code |
-| :--- |
-| [Lesson 01 – Learning Style](01-learning-style/) |
-| [Lesson 02 – Problem Solving](02-problem-solving/) |
-| [Lesson 03 – Keyboard Navigation](03-keyboard-navigation/) |
-| [Lesson 04 – Effective Internet Searching](04-effective-internet-searching/) |
+| # | Content |
+| :--- | :--- |
+| 00 | [Social Justice](social-justice/) |
+
+## Preparing to Code 
+In these lessons you will identify your learning style, learn the art of problem solving, and develop your work-flow.
+
+| # | Content |
+| :--- | :--- |
+| 01 | [Learning Styles](learning-styles/) |
+| 02 | [Problem Solving](problem-solving/) |
+| 03 | [Effective Internet Searching](effective-internet-searching/) |
+| 04 | [MacOSX Keyboard navigation](keyboard-navigation/) |
+
+## Learning to Code
+These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
 | Learning to Code |
 | :--- |
