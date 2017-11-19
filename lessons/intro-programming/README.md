@@ -15,7 +15,7 @@ There are two main ways we can classify programming languages, by level and by c
 ### By level
 How close the language is to being [binary code](https://en.wikipedia.org/wiki/Binary_code). Low-level languages like C, tend to be more difficult for humans to read than other languages. High-level languages like Java, Pythin, and Ruby tend to be more abstract, easier for humans to read, and do a lot more for the software developer.
 
-### By compiled or interpretted
+### By compiled or interpreted
 Compiled languages are converted to binary code (e.g., C, C++, Java). Interpreted languages can be translated or directly executed (e.g., Ruby, Python). The code does not get directly converted to binary, the program that runs the program is the one that communicates with the computer.
 
 ![Compiled vs Interpreted](./images/compiled-interpreted.png)
@@ -38,6 +38,3 @@ Frameworks allow us to leverage the hard work of the software developers that ca
 
 ### Ruby on Rails
 Ruby on Rails, or Rails for short, is a Model-View Controller (MVC) framework which provides the default database, web service and web pages. Ruby on Rails allows you, as a developer, to create an entire web application without having to rely on someone else to create part of it for you.
-
-![Ruby Web Apps at a Glance](./images/rails.png)
-![Rails App Structure at a Glance](./images/rails-structure.jpg)
