@@ -8,7 +8,7 @@ Ada is as much a social justice organization as it is a school where people lear
 | 00 | [Social Justice](social-justice/) |
 
 ## Preparing to Code 
-In these lessons you will identify your learning style, learn the art of problem solving, and develop your work-flow.
+In these lessons you will identify your learning style, learn the art of problem solving, learn to navigate MaxOSX, get started in the terminal, and setup your environment.
 
 | Order | Lesson |
 | :--- | :--- |
@@ -21,7 +21,7 @@ In these lessons you will identify your learning style, learn the art of problem
 | 07 | [Environment Setup](environment-setup/) |
 
 ## Learning to Code
-These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
+These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
 | Order | Lesson |
 | :--- | :--- |
