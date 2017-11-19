@@ -5,7 +5,7 @@ _Jump start: Lesson 1_
 * Explore your learning style
 * Find strategies that allow you to consume and retain information quickly, and increase your understanding
 
-## Assignment
+## Activities
 Read through our notes on [learning styles](./learning-styles.md).
 
 As you learn how to program, remember that you are learning a new language. There will be lots of new vocabulary in addition to new concepts. Learning how to learn is one of the fundamental steps to becoming a successful software developer. As you work through this curriculum, you should try different strategies for absorbing the material and figure out what ways work best for you.
