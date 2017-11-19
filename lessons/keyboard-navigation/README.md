@@ -1,5 +1,6 @@
 # MacOSX Keyboard navigation
 _Jump start: Lesson 4_
+_Note: If you do not yet have a MAC, you can postpone this lesson until you do_
 
 ## Learning Goals
 * Become familiar with navigating the MacOSX environment
