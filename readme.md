@@ -18,15 +18,15 @@ In these lessons you will identify your learning style, learn the art of problem
 | 02 | [Problem Solving](lessons/problem-solving/) |
 | 03 | [Effective Internet Searching](lessons/effective-internet-searching/) |
 | 04 | [MacOSX Keyboard navigation](lessons/keyboard-navigation/) |
+| 05 | [Introduction to Programming](./lessons/intro-programming/) |
+| 06 | [Terminal](./lessons/terminal/) |
+| 07 | [Environment Setup](./lessons/environment-setup/) |
 
 ## Learning to Code
 These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
 | Order | Lesson |
 | :--- | :--- |
-| 05 | [Introduction to Programming](./lessons/intro-programming/) |
-| 06 | [Terminal](./lessons/terminal/) |
-| 07 | [Environment Setup](./lessons/environment-setup/) |
 | 08 | [Hello World](./lessons/hello-world/) |
 | 09 | [Programming Grammar](./lessons/programming-grammar/) |
 | 10 | [Programming Expressions](./lessons/programming-expressions/) |
