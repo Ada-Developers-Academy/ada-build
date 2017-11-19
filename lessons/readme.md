@@ -14,7 +14,7 @@ In these lessons you will identify your learning style, learn the art of problem
 | :--- | :--- |
 | 01 | [Learning Styles](learning-styles/) |
 | 02 | [Problem Solving](problem-solving/) |
-| 03 | [Effective Internet Searching](effective-internet-searching/) |
+| 03 | [Effective Internet Searching](internet-searching/) |
 | 04 | [MacOSX Keyboard navigation](keyboard-navigation/) |
 | 05 | [Ada programming languages](./ada-languages) |
 | 06 | [Terminal](terminal/) |
@@ -26,8 +26,8 @@ These lessons will introduce you to the fundamentals of programming including wr
 | Order | Lesson |
 | :--- | :--- |
 | 08 | [Hello, World!](hello-world/) |
-| 09 | [Programming Grammar](programming-grammar/) |
-| 10 | [Programming Expressions](programming-expressions/) |
+| 09 | [Comments, Data types, Precedence, Assignment, Keyboard input, Strings](grammar/) |
+| 10 | [Relational operators, Logical operators, Truth tables, Conditionals, Control flow](programming-expressions/) |
 | 11 | [Iterators](iterators/) |
 | 12 | [Arrays](./arrays) |
 | 13 | [Hashes](./hashes) |
