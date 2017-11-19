@@ -33,13 +33,11 @@ You can think of the HTML as the "skeleton" of a web page. The set up, and struc
 ### JavaScript
 JavaScript is a dynamically typed and interpreted programming language. JavaScript is used along side HTML and CSS as one of the most important languages in web programming. In many applications, we use JavaScript to provide a more dynamic and responsive experience for the end user.
 
-![HTML, CSS, and JS at a Glance](./images/html-css-js.jpg)
-
-## Frameworks
+### Frameworks
 Frameworks allow us to leverage the hard work of the software developers that came before us so that we can create software more quickly. Take some time to read [What is a Software Framework? And why should you like 'em?](http://info.cimetrix.com/blog/bid/22339/What-is-a-Software-Framework-And-why-should-you-like-em)
 
 ### Ruby on Rails
 Ruby on Rails, or Rails for short, is a Model-View Controller (MVC) framework which provides the default database, web service and web pages. Ruby on Rails allows you, as a developer, to create an entire web application without having to rely on someone else to create part of it for you.
 
-![Ruby Web Apps at a Glance](../images/rails.png)
-![Rails App Structure at a Glance](../images/rails-structure.jpg)
+![Ruby Web Apps at a Glance](./images/rails.png)
+![Rails App Structure at a Glance](./images/rails-structure.jpg)
