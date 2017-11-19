@@ -56,8 +56,6 @@ Logical operators allow you to combine or modify boolean expressions.
 | `true` | `false` |
 | `false` | `true` |
 
-### Truth tables
-![truth table](./images/truth-table.gif)
 
 ## Conditionals
 Conditional statements allow your programs to take different paths based on different inputs. You have already seen some version of conditional statements if you have ever seen a [flow diagram](./images/flow-control.png).
