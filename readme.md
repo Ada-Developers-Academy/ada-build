@@ -24,7 +24,7 @@ These lessons will introduce you to the fundamentals of programming including se
 
 | Learning to Code |
 | :--- |
-| [Lesson 05 – Big Picture](lessons/05-big-picture/) |
+| [Lesson 05 – Introduction to Programming](lessons/intro-programming/) |
 | [Lesson 06 – Terminal](lessons/06-terminal/) |
 | [Lesson 07 – Environment Setup](lessons/07-environment-setup/) |
 | [Lesson 08 – Hello World](lessons/08-hello-world/) |
