@@ -1,3 +1,14 @@
+# Hello world!
+_Jump start: Lesson 8_
+
+## Learning Goals
+- To introduce yourself to ruby with the canonical first program [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+- To write ruby code
+- To execute ruby code
+
+## Resources
+1. [Assignment: Hello World](assignments/hello-world.md)
+
 # Hello World
 
 A "Hello World" program is the first program that most programmers create to explore a new programming language. Be sure to read the [wikipedia](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) article which provides even more context about what this is and why we use it!

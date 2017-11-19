@@ -1,3 +1,100 @@
+# Loops and Iterators
+_Jump start: Lesson 11_
+
+## Learning Goals
+- Vocabulary: blocks, loops, iterator, iteration, iteration variable, counter-controlled, sentinel-controlled, loop table, times loop, range, while loop
+- To know the purpose for iteration in creating programs
+- To write loops in order to prevent code duplication and repetition
+- To understand how a loop will execute the statements inside and what the resulting output will be
+
+## Resources
+1. [Notes: Blocks](notes/blocks.md)
+1. [Notes: Loops](notes/loops.md)
+1. [Assignment: Loops Worksheet](assignments/loops-worksheet.md)
+1. [Notes: Each Iterator](notes/each-iterator.md)
+1. [Assignment: More Loops Worksheet](assignments/more-loops-worksheet.md)
+1. [Assignment: Election Time](assignments/election.md)
+
+# Blocks
+Blocks (also referred to as _closures_, especially in other languages like JavaScript) are not a unique features of Ruby, but they're one that many people talk about (and more people use without realizing it!) What is a block?
+
+>A section of code which is grouped together.
+
+Zzzzz....
+
+A block is a piece of code that _is not executed immediately_. Instead, it is stored in a variable or passed to a method as a parameter to be potentially executed at a later time.
+
+Sound complicated? Let's look at some Ruby.
+
+```ruby
+[1,2,3,4].each do |number|
+  puts number * 100 # <= this is a block. :)
+end
+
+[1,2,3,4].each { |number|
+  puts number * 100 # <= this is a block too! :D
+}
+```
+
+`number * 100` is a chunk of code, similar to what would be in a method, but in this case we don't need to go through all the trouble of creating a method just to iterate over some numbers.
+
+Block can be identified by either `do ... end` or `{ }`.
+
+Block arguments are defined using a pair of `|` (pipe) characters. They look like a slide, so I like to say that we slide arguments into the block. For example:
+
+```
+[1,2,3].each do |number|
+  puts number # wheeeee! Right down the slide!
+end
+```
+
+`number` is the _block argument_, this means that objects given to the block are going to be assigned to the `number` variable within the scope of the block. When the code in the block finishes execution, the block arguments are destroyed.
+
+# Notes: Each Iterator
+
+## Each
+The each iterator is used on a collection of data, like an Array, Hash or Range. This iterator will iterate over each element of the collection, one by one, and provide access to each element using the _iteration variable_. The each iterator will continue to execute until it has reached the end of the collection.
+
+The `each` iterator is comprised of three pieces:
+1. The collection to be iterated
+2. The _iteration variable_ to store each value
+3. The block of code to be executed in the iteration
+
+In the example below, this iterator will iterate over the `veggies` array. For each iteration, the `vegetable` variable will be assigned to the value of the next element in the array, starting with the first. The block of code will be executed for each `vegetable` variable, which will print out the name of the vegetable.
+
+```ruby
+# A list of veggies
+veggies = ["carrot", "yam", "zucchini", "spinach"]
+
+veggies.each do |vegetable|
+  puts "a vegetable: #{vegetable}"
+end
+```
+output:
+```
+a vegetable: carrot
+a vegetable: yam
+a vegetable: zucchini
+a vegetable: spinach
+```
+
+In the example below, this iterator will iterate over the `names` array. For each iteration, the `name` variable will be assigned to the value of the next element in the array, starting with the first. The block of code will be executed for each name, which will say hello to each person!
+
+```ruby
+# A list of names
+names = ["Rey", "Finn", "Han"]
+
+names.each do |name|
+  puts "Hello #{name}!"
+end
+```
+output:
+```
+Hello Rey!
+Hello Finn!
+Hello Han!
+```
+
 # Notes: Introduction to Loops
 Loops are programming constructs that help you repeat a code action an arbitrary number of times without copying and pasting the code. Another term for a **loop** is **iteration**. All high-level programming languages provide various forms of loops, which can be used to execute one or more statements repeatedly.
 
@@ -164,3 +261,4 @@ end
 
 puts "You guessed it!"
 ```
+

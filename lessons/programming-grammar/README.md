@@ -1,4 +1,5 @@
 # Programming Grammar
+_Jump start: Lesson 9_
 
 ## Learning Goals
 - Vocabulary: variables, data types, comments, truncate

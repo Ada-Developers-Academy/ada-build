@@ -20,13 +20,13 @@ In these lessons you will identify your learning style, learn the art of problem
 ## Learning to Code
 These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
-| Learning to Code |
-| :--- |
-| [Lesson 05 – Introduction to Programming](intro-programming/) |
-| [Lesson 06 – Terminal](06-terminal/) |
-| [Lesson 07 – Environment Setup](07-environment-setup/) |
-| [Lesson 08 – Hello World](08-hello-world/) |
-| [Lesson 09 – Programming Grammar](09-programming-grammar/) |
-| [Lesson 10 - Programming Expressions](10-programming-expressions/) |
-| [Lesson 11 – Iterators](11-iterators/) |
-| [Lesson 12 – Arrays, Hashes](12-basic-data-structs/) |
+| Order | Lesson |
+| :--- | :--- |
+| 05 | Introduction to Programming](intro-programming/) |
+| 06 | Terminal](terminal/) |
+| 07 | Environment Setup](environment-setup/) |
+| 08 | Hello World](hello-world/) |
+| 09 | Programming Grammar](programming-grammar/) |
+| 10 | Programming Expressions](programming-expressions/) |
+| 11 | Iterators](iterators/) |
+| 12 | Arrays, Hashes](basic-data-structs/) |

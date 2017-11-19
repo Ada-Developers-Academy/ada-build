@@ -1,4 +1,5 @@
 # Environment Setup
+_Jump start: Lesson 7_
 
 ## Learning Goals
 - __Vocabulary__: ruby, irb, text editor, package manager

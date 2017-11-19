@@ -1,4 +1,5 @@
 # Programming Expressions
+_Jump start: Lesson 10_
 
 ## Learning Goals
 - Vocabulary: expressions, relational operators, logical operators, truth tables, conditional statements, control flow

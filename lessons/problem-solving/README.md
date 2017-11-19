@@ -5,7 +5,7 @@ _Jump start: Lesson 2_
 * Understand what an algorithm is
 * Develop your own algorithm for a task, test, refine, and evaluate it
 
-## Assignments
+## Activities
 Start by reading through our notes on [algorithms](./algorithms.md).
 
 Write an algorithm for getting to the house of a family member or friend (you pick a specific person)? Make sure to include all 5 essential elements of an algorithm: input, output, finiteness, definiteness, and effectiveness.
