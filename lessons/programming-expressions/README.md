@@ -36,22 +36,22 @@ _Jump start: Lesson 10_
   * `nil` is the only "falsey" value in ruby
 
 ## Logical operators
-* Logical operators allow you to combine or modify boolean expressions
+Logical operators allow you to combine or modify boolean expressions.
 
-| __Operator__ | __Description__ | __Example__ | __Result__ |
+| Operator | Description | Example | Result |
 | :--- | :--- | :--- | :--- |
 | `&&` | and | `(2 == 3) && (-1 < 5)` | `false` |
 | `||` | or | `(2 == 3) || (-1 < 5)` | `true` |
 | `!` | not | `!(2 == 3)` | `true` |
 
-| __p__ | __q__ | __p && q__ | __p &#124;&#124; q__ |
+| p | q | p && q | p &#124;&#124; q |
 | :--- | :--- | :--- | :--- |
 | `true` | `true` | `true` | `true` |
 | `true` | `false` | `false` | `true` |
 | `false` | `true` | `false` | `true` |
 | `false` | `false` | `false` | `false` |
 
-| __p__ | __!p__ |
+| p | !p |
 | :--- | :--- |
 | `true` | `false` |
 | `false` | `true` |
