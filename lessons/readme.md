@@ -8,8 +8,8 @@
 | :--- |
 | [Lesson 01 – Learning Style](01-learning-style/) |
 | [Lesson 02 – Problem Solving](02-problem-solving/) |
-| [Lesson 03 – Work-flow Navigation](03-workflow/) |
-| [Lesson 04 – Effective Searching](04-effective-searching/) |
+| [Lesson 03 – Keyboard Navigation](03-keyboard-navigation/) |
+| [Lesson 04 – Effective Internet Searching](04-effective-internet-searching/) |
 
 | Learning to Code |
 | :--- |

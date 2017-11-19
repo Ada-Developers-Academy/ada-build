@@ -16,8 +16,8 @@ In these lessons you will identify your learning style, learn the art of problem
 | :--- |
 | [Lesson 01 – Learning Style](lessons/01-learning-style/) |
 | [Lesson 02 – Problem Solving](lessons/02-problem-solving/) |
-| [Lesson 03 – Work-flow Navigation](lessons/03-workflow/) |
-| [Lesson 04 – Effective Searching](lessons/04-effective-searching/) |
+| [Lesson 03 – Keyboard Navigation](lessons/03-keyboard-navigation/) |
+| [Lesson 04 – Effective Internet Searching](lessons/04-effective-internet-searching/) |
 
 ## Learning to Code
 These lessons will introduce you to the fundamentals of programming including setting up your environment, writing your first program, learning programming vocabulary, and learning to store and interact with data.
