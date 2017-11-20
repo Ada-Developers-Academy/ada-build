@@ -4,9 +4,9 @@ _Jump start: Lesson 0_
 In this lesson you’ll be asked to read and think about issues of identity, privilege, oppression, and social justice. This may be new to you, or it may be a huge piece of your daily, lived experience. Our goal here is to build some of the linguistic and conceptual skills that will start the work of having safe, productive, community-affirming conversations about systemic inequities.
 
 ## Learning goals
-- Develop an increased understanding of the impact of privilege and oppression on our communities, our careers, and our identities.
-- Move beyond thinking about individual, overt prejudice to thinking about larger systems of institutional oppression and privilege.
-- Develop a shared social justice vocabulary.
+* Gain some tools for thinking critically about power and privilege in tech communities
+* Begin approaching tech diversity initiatives with an intersectional lens
+* Gain familiarity with the concept of microaggressions, and develop some initial strategies for intervention
 
 
 ## Ada's statement of inclusivity
