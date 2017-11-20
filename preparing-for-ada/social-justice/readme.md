@@ -1,13 +1,14 @@
 # Introduction to Social Justice
 _Jump start: Lesson 0_
 
+Ada is as much a social justice organization as it is a school where people learn to program. Our core values at Ada are building and contributing to a supportive community, creating and advocating for inclusivity, and teaching and practicing lifelong learning, all within Tech. Having a basic understanding of social justice is crucial to upholding these core values.
+
 In this lesson you’ll be asked to read and think about issues of identity, privilege, oppression, and social justice. This may be new to you, or it may be a huge piece of your daily, lived experience. Our goal here is to build some of the linguistic and conceptual skills that will start the work of having safe, productive, community-affirming conversations about systemic inequities.
 
 ## Learning goals
 * Gain some tools for thinking critically about power and privilege in tech communities
 * Begin approaching tech diversity initiatives with an intersectional lens
 * Gain familiarity with the concept of microaggressions, and develop some initial strategies for intervention
-
 
 ## Ada's statement of inclusivity
 Students, staff, volunteers, TA's, and reps from our sponsor companies come to Ada Developers Academy with an incredible diversity of identity and experience. We strive to make Ada an inclusive, safe, and equitable space for every member of our community. We recognize and celebrate difference along many axes including, but not limited to, sexual orientation, gender identity and presentation, age, race, ethnicity, class, religion, physical appearance, ability, national origin, educational background, and parental status. Our community includes women and gender diverse people (people who identify as trans, non-binary, gender queer, gender fluid, and gender non-conforming).
