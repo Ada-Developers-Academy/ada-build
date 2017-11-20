@@ -123,75 +123,53 @@ i = 1.5
 
 ## String practice
 Determine the output of slice on your own and then check your answer using `irb`
-
-1. 
+ 
 ```ruby
+# problem 1
 my_string = "I love Seattle"
 my_string.slice(7) 
-```
 
-2.
-```ruby
+# problem 2
 my_string = "I love Seattle"
 my_string.slice(2, 4)
-```
 
-3.
-```ruby
+# problem 3
 my_string = "I love Seattle"
 my_string.slice("Seattle")
-```
 
-4.
-```ruby
+# problem 4
 my_string = "Ada"
 my_string + " Lovelace"
-```
 
-5.
-```ruby
+# problem 5
 my_string = "Ada"
 my_string << " codes" << " it!"
-```
 
-6.
-```ruby
+# problem 6
 my_string = "Ada"
 my_string.concat(" likes to code").slice(4...9)
-```
 
-7.
-```ruby
+# problem 7
 my_string = "Hello world"
 "Goodbye " + my_string.slice(6, 5) << "!"
-```
 
-8.
-```ruby
+# problem 8
 my_string = "Hello world!"
 my_string.slice(0...5).concat(", goodbye!")
-```
 
-9.
-```ruby
+# problem 9
 my_string = "Hello world!"
 my_string.slice(0) << "i" + "!"
-```
 
-10.
-```ruby
+# problem 10
 my_string = "I love ruby"
 my_string.slice(7, 4).concat(my_string.slice(2...6)) + my_string.slice(0)
-```
 
-11.
-```ruby
+# problem 11
 my_string = "I love ruby"
 "R".concat(my_string.slice(8, 3) + " rocks!")
-```
 
-12.
-```ruby
+# problem 12
 my_string = "I love ruby"
 my_string.slice(2, 4) << my_string.slice(7...11).concat(my_string.slice(2...6))
 ```

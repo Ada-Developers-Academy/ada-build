@@ -7,6 +7,8 @@ _Jump start: Lesson 5_
 ## Overview
 Throughout this section of the Jumpstart program, you will learn a number of different topics about the Ruby programming language. In this lesson, we will discuss the different languages that can be used along with Ruby and how those all play together in your journey in learning to program. In a discussion about programming languages, a preliminary question that one might ask is, why are there so many programming languages? Some languages are better at certain things than others.
 
+Programming languages exists so that humans can give instructions to computers. All computer programming exists so that humans may interact, on some level, with other humans. Fundamentally, programming is about communication. Programming languages are similar to human spoken languages. They have dialects, grammars, coloquialisms, idioms, and parts of speech.
+
 ## Classification
 There are two main ways we can classify programming languages, by level and by compiled or interpreted.
 
@@ -22,7 +24,9 @@ In Addition, these compiled and interpreted languages can be divided into dynami
 
 ## Languages
 ### Ruby
-Ruby is a high-level, dynamically typed language. Ruby is a programming language which was created to make developers have fun and be productive at the same time.
+Ruby is a high-level, dynamically typed language.  Ruby is different than other programming languages. It was written with human communication in mind, rather than computer optimization. Its creator wanted to create a programming language that was fun for programmers. Ruby is a programming language which was created to make developers have fun and be productive at the same time. Ruby was first written in 1993 by [Yukihiro "Matz" Matsumoto](https://twitter.com/yukihiro_matz). _"Ruby is for People. I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language."_ - Matz
+
+![Matz with Puppet Matz in 2014](https://pbs.twimg.com/media/B2575XuCIAE4BNB.jpg)
 
 ### HTML & CSS
 HTML (Hyper-Text Markup Language) is a [markup language](https://en.wikipedia.org/wiki/Markup_language). CSS (Cascading Style Sheets) is a [stylesheet language](https://en.wikipedia.org/wiki/Style_sheet_language). These two technologies work together for structuring and styling the content on a web page.

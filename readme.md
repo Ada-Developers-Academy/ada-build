@@ -28,8 +28,8 @@ These lessons will introduce you to the fundamentals of programming including wr
 | Order | Lesson |
 | :--- | :--- |
 | 08 | [Hello World](./lessons/hello-world/) |
-| 09 | [Comments, Data types, Precedence, Assignment, Keyboard input, Strings](./lessons/grammar/) |
-| 10 | [Relational operators, Logical operators, Truth tables, Conditionals, Control flow](./lessons/programming-expressions/) |
+| 09 | [Comments, Data types, Mathematical operators, Keyboard input, Strings](./lessons/grammar/) |
+| 10 | [Relational operators, Logical operators, Conditionals](./lessons/programming-expressions/) |
 | 11 | [Iterators](./lessons/iterators/) |
 | 12 | [Arrays](./lessons/arrays) |
 | 13 | [Hashes](./lessons/hashes) |
