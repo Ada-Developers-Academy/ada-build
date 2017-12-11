@@ -4,7 +4,7 @@ _Jump start: Lesson 10_
 ## Conditional practice
 1. Use your new knowledge of conditionals to recreate this flow control diagram using conditionals in code.  
 Assume that the `x` and `y` variable data comes from user input prior to the conditional execution.  
-![flow control assignment](../images/flow-control-assignment.png)
+![flow control assignment](./images/flow-control-assignment.png)  
 
 2. Now we will go the other way! Using the code below create the flow control diagram that would represent it.
 
