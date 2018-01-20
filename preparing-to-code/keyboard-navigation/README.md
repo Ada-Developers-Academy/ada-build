@@ -51,14 +51,14 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 
 ## Practice tasks
 1. Use Spotlight to open the finder
-		* What does tab do in finder?
-		* What does shift + tab do in finder?
-2. Do the following commands using only the keyboard:
-		1. Open your web browser
-		1. Navigate to adadevelopersacademy.org
-		1. Keeping the Ada browser tab open, open a new tab
-		1. Navigate to google.com
-		1. Navigate back to the Ada tab
-		1. Refresh the web page
-		1. Quit out of the web browser (don't just close the tabs, close the whole application)
-3. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
+    * What does tab do in finder?
+    * What does shift + tab do in finder?
+1. Do the following commands using only the keyboard:
+    1. Open your web browser
+    1. Navigate to adadevelopersacademy.org
+    1. Keeping the Ada browser tab open, open a new tab
+    1. Navigate to google.com
+    1. Navigate back to the Ada tab
+    1. Refresh the web page
+    1. Quit out of the web browser (don't just close the tabs, close the whole application)
+1. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
