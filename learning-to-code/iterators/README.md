@@ -241,7 +241,7 @@ The above code will output the values of i until i is equal to 4, resulting in t
 2
 3
 ```
-![until loop](../images/until-loop.png)
+![until loop](./images/until-loop.png)
 
 
 You can read the condition and execute of the `until` loop as _until condition is **true** do..._
