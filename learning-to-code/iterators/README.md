@@ -7,6 +7,12 @@ _Jump start: Lesson 11_
 - To write loops in order to prevent code duplication and repetition
 - To understand how a loop will execute the statements inside and what the resulting output will be
 
+## Activities
+* Review the notes in this section
+* Complete [Loops Worksheet](assignments/loops-worksheet.md)
+* Complete [More Loops Worksheet](assignments/more-loops-worksheet.md)
+* Complete [Election Time](assignments/election.md)
+
 ## Notes
 ### Blocks
 Blocks (also referred to as _closures_, especially in other languages like JavaScript) are not a unique features of Ruby, but they're one that many people talk about (and more people use without realizing it!) What is a block?
@@ -252,8 +258,3 @@ end
 
 puts "You guessed it!"
 ```
-
-## Assignments
-1. [Assignment: Loops Worksheet](assignments/loops-worksheet.md)
-1. [Assignment: More Loops Worksheet](assignments/more-loops-worksheet.md)
-1. [Assignment: Election Time](assignments/election.md)
