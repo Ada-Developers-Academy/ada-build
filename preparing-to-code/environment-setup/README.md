@@ -38,7 +38,7 @@ _OS X_ is the name of the operating system found on Apple computers. Apple likes
 
 To check your version of OS X, click the Apple icon at the far left edge of toolbar at the top of the screen. From there, choose _About This Mac_. That'll open a window with lots and lots of information about your computer. Right at the top, in big type, is the current version of _OS X_.
 
-![About This Mac](../images/about-this-mac.png)
+![About This Mac](./images/about-this-mac.png)
 
 ![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-sierra-about-this-mac-overview-build.jpg)
 
