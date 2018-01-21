@@ -95,8 +95,5 @@ Installing Ruby can take awhile, so feel free to take a break or go for a walk w
 
 When it's done, you can verify that everything succeeded by typing `$ ruby -v` into your terminal. The return should say something like `ruby 2.4.1p111 (2017-03-22 revision 53290) [x86_64-darwin16]`.
 
-#### You did it!
-Awesome! Your environment is ready to go! In the next lesson, we'll put that environment to good use and write our first program!
-
-##### Sources
+##### References
 * http://blog.teamtreehouse.com/which-text-editor-should-i-use

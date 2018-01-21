@@ -1,7 +1,7 @@
 # MacOSX Keyboard navigation
 _Jump start: Lesson 4_
 
-_Note: If you do not yet have a Mac, you can postpone this lesson until you do_
+_Note: You can postpone this lesson until you have a Mac computer_
 
 ## Learning Goals
 * Become familiar with navigating the MacOSX environment
@@ -11,7 +11,7 @@ _Note: If you do not yet have a Mac, you can postpone this lesson until you do_
 * Effectively manage open applications 
 
 ## Overview
-Most software developers rely heavily on their keyboards and less so on their mice. This information and activities will help you get comfortable using your keyboard to navigate in MaxOSX.
+Most software developers rely heavily on their keyboards and less so on their pointing devices (e.g., mouse, trackpad). This lesson will help you get comfortable using your keyboard to navigate in MaxOSX.
 
 ## Common MacOSX shortcuts
 Fill in the table below with the matching MacOSX shortcuts, if you don't know them use an internet search to find them.

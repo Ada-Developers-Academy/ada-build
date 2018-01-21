@@ -1,9 +1,8 @@
 # Ada Developers Academy Jump Start Curriculum
-
-This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/). These materials are free and open to everyone. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
+This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).
 
 ## [Preparing for Ada](./preparing-for-ada)
-These lessons will expose you to our core values, identify your learning styles, learn the art of problem solving.
+These lessons will expose you to our core values, help you identify your learning styles, and teach you the art of problem solving
 
 | Order | Lesson |
 | :--- | :--- |
@@ -13,7 +12,7 @@ These lessons will expose you to our core values, identify your learning styles,
 | 02 | [Problem Solving](./preparing-for-ada/problem-solving/) |
 
 ## [Preparing to Code](./preparing-to-code)
-These lessons you will learn how to navigate MaxOSX, learn about the languages that Ada teaches, start using the terminal, and setup your development environment.
+In these lessons you will learn how to navigate MaxOSX, learn about the languages that Ada teaches, start using the terminal, and setup your development environment
 
 | Order | Lesson |
 | :--- | :--- |

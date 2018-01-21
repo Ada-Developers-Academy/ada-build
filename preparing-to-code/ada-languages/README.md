@@ -7,10 +7,10 @@ _Jump start: Lesson 5_
 ## Overview
 Throughout this section of the Jumpstart program, you will learn a number of different topics about the Ruby programming language. In this lesson, we will discuss the different languages that can be used along with Ruby and how those all play together in your journey in learning to program. In a discussion about programming languages, a preliminary question that one might ask is, why are there so many programming languages? Some languages are better at certain things than others.
 
-Programming languages exists so that humans can give instructions to computers. All computer programming exists so that humans may interact, on some level, with other humans. Fundamentally, programming is about communication. Programming languages are similar to human spoken languages. They have dialects, grammars, coloquialisms, idioms, and parts of speech.
+Programming languages exist so that humans can give instructions to computers. Fundamentally, programming is about communication. Programming languages are similar to human spoken languages, they have dialects, grammars, colloquialisms, idioms, and parts of speech.
 
 ## Classification
-There are two main ways we can classify programming languages, by level and by compiled or interpreted.
+There are two main ways we can classify programming languages, by level and by type (compiled or interpreted).
 
 ### By level
 The level describes how close the language is to being [binary code](https://en.wikipedia.org/wiki/Binary_code). Low-level languages like C, tend to be more difficult for humans to read than other languages. High-level languages like Java, Python, and Ruby tend to be more abstract, easier for humans to read. High-level languages also do a lot more of the background tasks for the software developer.
@@ -29,7 +29,7 @@ Ruby is a high-level, dynamically typed language.  Ruby is different than other 
 ![Matz with Puppet Matz in 2014](https://pbs.twimg.com/media/B2575XuCIAE4BNB.jpg)
 
 ### HTML & CSS
-HTML (Hyper-Text Markup Language) is a [markup language](https://en.wikipedia.org/wiki/Markup_language). CSS (Cascading Style Sheets) is a [stylesheet language](https://en.wikipedia.org/wiki/Style_sheet_language). These two technologies work together for structuring and styling the content on a web page.
+HTML (Hyper-Text Markup Language) is a [markup language](https://en.wikipedia.org/wiki/Markup_language). CSS (Cascading Style Sheets) is a [style sheet language](https://en.wikipedia.org/wiki/Style_sheet_language). These two technologies work together for structuring and styling the content on a web page.
 
 You can think of the HTML as the "skeleton" of a web page. The set up, and structure for how each piece is organized. The CSS is the "clothes" of the skeleton. How each piece looks, colors, sizes, styles and relationship to other elements on the page.
 
