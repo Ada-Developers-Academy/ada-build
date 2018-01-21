@@ -50,7 +50,7 @@ We can utilize the syntax for both of the above to initialize a new Array _with 
 ```ruby
 numbers = [1, 2, 3, 4]
 ```
-![numbers array](../images/array-1.png)
+![numbers array](./images/array-1.png)
 
 We can do something similar when creating an array using `Array.new`. When passing parameters into `new`, the first parameter will be the size of the desired array. The second parameter will be the default value for all element within the array.
 
@@ -58,13 +58,13 @@ We can do something similar when creating an array using `Array.new`. When passi
 empty_array = Array.new(3)
 empty_array # => [nil, nil, nil]
 ```
-![empty_array](../images/array-2.png)
+![empty_array](./images/array-2.png)
 
 ```ruby
 default_array = Array.new(3, "def")
 default_array # => ["def", "def", "def"]
 ```
-![default_array](../images/array-3.png)
+![default_array](./images/array-3.png)
 
 ### Indices
 Arrays are integer-indexed starting at __zero__. All counting in computer science [begins with zero](http://skillcrush.com/2013/01/17/why-programmers-start-counting-at-zero/). This means that **each item** in the array corresponds to an **integer value**, and that integer is used to access an object within the `Array`. The first object is assigned 0 and increments up from there.
@@ -78,7 +78,7 @@ numbers[3] # => 50
 numbers[4] # => 2
 numbers[5] # => 7
 ```
-![my_array](../images/array-4.png)
+![my_array](./images/array-4.png)
 
 ### Data Types
 Arrays can store all sorts of data. Usually, it makes the most sense to have a single data type in an array, but in Ruby, it is not a requirement.
