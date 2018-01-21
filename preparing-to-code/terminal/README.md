@@ -1,4 +1,4 @@
-# The Terminal
+# Terminal
 _Jump start: Lesson 6_
 
 ## Learning Goals
