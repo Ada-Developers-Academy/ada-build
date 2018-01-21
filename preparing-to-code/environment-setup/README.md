@@ -38,7 +38,7 @@ _OS X_ is the name of the operating system found on Apple computers. Apple likes
 
 To check your version of OS X, click the Apple icon at the far left edge of toolbar at the top of the screen. From there, choose _About This Mac_. That'll open a window with lots and lots of information about your computer. Right at the top, in big type, is the current version of _OS X_.
 
-![About This Mac](../images/about-this-mac.png)
+![About This Mac](./images/about-this-mac.png)
 
 ![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-sierra-about-this-mac-overview-build.jpg)
 
@@ -95,8 +95,5 @@ Installing Ruby can take awhile, so feel free to take a break or go for a walk w
 
 When it's done, you can verify that everything succeeded by typing `$ ruby -v` into your terminal. The return should say something like `ruby 2.4.1p111 (2017-03-22 revision 53290) [x86_64-darwin16]`.
 
-#### You did it!
-Awesome! Your environment is ready to go! In the next lesson, we'll put that environment to good use and write our first program!
-
-##### Sources
+##### References
 * http://blog.teamtreehouse.com/which-text-editor-should-i-use

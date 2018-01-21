@@ -7,15 +7,14 @@ _Jump start: Lesson 11_
 - To write loops in order to prevent code duplication and repetition
 - To understand how a loop will execute the statements inside and what the resulting output will be
 
-## Resources
-1. [Notes: Blocks](notes/blocks.md)
-1. [Notes: Loops](notes/loops.md)
-1. [Assignment: Loops Worksheet](assignments/loops-worksheet.md)
-1. [Notes: Each Iterator](notes/each-iterator.md)
-1. [Assignment: More Loops Worksheet](assignments/more-loops-worksheet.md)
-1. [Assignment: Election Time](assignments/election.md)
+## Activities
+* Review the notes in this section
+* Complete [Loops Worksheet](assignments/loops-worksheet.md)
+* Complete [More Loops Worksheet](assignments/more-loops-worksheet.md)
+* Complete [Election Time](assignments/election.md)
 
-# Blocks
+## Notes
+### Blocks
 Blocks (also referred to as _closures_, especially in other languages like JavaScript) are not a unique features of Ruby, but they're one that many people talk about (and more people use without realizing it!) What is a block?
 
 >A section of code which is grouped together.
@@ -50,9 +49,7 @@ end
 
 `number` is the _block argument_, this means that objects given to the block are going to be assigned to the `number` variable within the scope of the block. When the code in the block finishes execution, the block arguments are destroyed.
 
-# Notes: Each Iterator
-
-## Each
+### Each
 The each iterator is used on a collection of data, like an Array, Hash or Range. This iterator will iterate over each element of the collection, one by one, and provide access to each element using the _iteration variable_. The each iterator will continue to execute until it has reached the end of the collection.
 
 The `each` iterator is comprised of three pieces:
@@ -95,7 +92,7 @@ Hello Finn!
 Hello Han!
 ```
 
-# Notes: Introduction to Loops
+### Loops
 Loops are programming constructs that help you repeat a code action an arbitrary number of times without copying and pasting the code. Another term for a **loop** is **iteration**. All high-level programming languages provide various forms of loops, which can be used to execute one or more statements repeatedly.
 
 For example, if we wanted to print out "hello" five hundred times, we could write:
@@ -123,7 +120,7 @@ There are 2 categories of loops:  **counter-controlled** and **sentinel-controll
 
 **There are four types of loops in Ruby that we will start with: `times`, `range-each`, `while`, and `until`.**
 
-## Times
+#### Times
 You use the `times` iterator to run a block of code `N` times.
 
 You can use a `times` loops with or without an _iteration variable_. This variable is denoted between the vertical bars (pipe character) `|` and is used to store data associated with the iteration.
@@ -153,7 +150,7 @@ output:
 1
 ```
 
-## Ranges
+#### Ranges
 The main use of ranges is to express a sequence. Sequences have a start point, an end point, and a way to produce successive values in the sequence.
 
 Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value. The `each` loop using a range uses an _iteration variable_ (again passed to the _block_ between `|` characters), `num` in this example.
@@ -187,7 +184,7 @@ end
 8
 ```
 
-## While Loops
+#### While Loops
 The `while` loop is useful when you want to continue doing an action while a certain condition is `true` but you may not know how many times you'll need to complete that action. It is an example of a _sentinel-controlled loop_. As soon as the condition stops being true, the loop will terminate.
 
 ```ruby
@@ -224,7 +221,7 @@ end
 ```
 
 
-## Until Loops
+#### Until Loops
 The `until` loop acts as an inverse of the `while` loop. The loop will execute _until_ the condition evaluates as `true`.
 
 
@@ -244,7 +241,7 @@ The above code will output the values of i until i is equal to 4, resulting in t
 2
 3
 ```
-![until loop](../images/until-loop.png)
+![until loop](./images/until-loop.png)
 
 
 You can read the condition and execute of the `until` loop as _until condition is **true** do..._
@@ -261,4 +258,3 @@ end
 
 puts "You guessed it!"
 ```
-

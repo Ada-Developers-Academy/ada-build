@@ -1,35 +1,35 @@
 # Ada Developers Academy Jump Start Curriculum
+This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).
 
-This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/). These materials are free and open to everyone. These materials and concepts will provide an introduction into programming tools, concepts and processes to assist in getting to the first step in your programming journey.
-
-## Introduction to Social Justice
-Ada is as much a social justice organization as it is a school where people learn to program. Our core values at Ada are building and contributing to a supportive community, creating and advocating for inclusivity, and teaching and practicing lifelong learning, all within Tech. Having a basic understanding of social justice is crucial to upholding these core values.
-
-| Order | Lesson |
-| :--- | :--- |
-| 00 | [Social Justice](lessons/social-justice/) |
-
-## Preparing to Code 
-In these lessons you will identify your learning style, learn the art of problem solving, learn to navigate MaxOSX, get started in the terminal, and setup your environment.
+## [Preparing for Ada](./preparing-for-ada)
+These lessons will expose you to our core values, help you identify your learning styles, and teach you the art of problem solving
 
 | Order | Lesson |
 | :--- | :--- |
-| 01 | [Learning Styles](lessons/learning-styles/) |
-| 02 | [Problem Solving](lessons/problem-solving/) |
-| 03 | [Effective Internet Searching](lessons/internet-searching/) |
-| 04 | [MacOSX Keyboard navigation](lessons/keyboard-navigation/) |
-| 05 | [Ada programming languages](./lessons/ada-languages) |
-| 06 | [Terminal](./lessons/terminal/) |
-| 07 | [Environment Setup](./lessons/environment-setup/) |
+| -1 | [Applying to Ada](./preparing-for-ada/applying-to-ada) |
+| 00 | [Social Justice](./preparing-for-ada/social-justice/) |
+| 01 | [Learning Styles](./preparing-for-ada/learning-styles/) |
+| 02 | [Problem Solving](./preparing-for-ada/problem-solving/) |
 
-## Learning to Code
-These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data.
+## [Preparing to Code](./preparing-to-code)
+In these lessons you will learn how to navigate MaxOSX, learn about the languages that Ada teaches, start using the terminal, and setup your development environment
 
 | Order | Lesson |
 | :--- | :--- |
-| 08 | [Hello World](./lessons/hello-world/) |
-| 09 | [Comments, Data types, Mathematical operators, Keyboard input, Strings](./lessons/grammar/) |
-| 10 | [Relational operators, Logical operators, Conditionals](./lessons/programming-expressions/) |
-| 11 | [Iterators](./lessons/iterators/) |
-| 12 | [Arrays](./lessons/arrays) |
-| 13 | [Hashes](./lessons/hashes) |
+| 03 | [Effective Internet Searching](./preparing-to-code/internet-searching/) |
+| 04 | [MacOSX Keyboard navigation](./preparing-to-code/keyboard-navigation/) |
+| 05 | [Ada programming languages](./preparing-to-code/ada-languages) |
+| 06 | [Terminal](./preparing-to-code/terminal/) |
+| 07 | [Environment Setup](./preparing-to-code/environment-setup/) |
+
+## [Learning to Code](./learning-to-code)
+These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
+
+| Order | Lesson |
+| :--- | :--- |
+| 08 | [Hello World](./learning-to-code/hello-world/) |
+| 09 | [Comments, Data types, Mathematical operators, Keyboard input, Strings](./learning-to-code/grammar/) |
+| 10 | [Relational operators, Logical operators, Conditionals](./learning-to-code/programming-expressions/) |
+| 11 | [Iterators](./learning-to-code/iterators/) |
+| 12 | [Arrays](./learning-to-code/arrays) |
+| 13 | [Hashes](./learning-to-code/hashes) |
