@@ -6,7 +6,7 @@ These lessons will expose you to our core values, help you identify your learnin
 
 | Order | Lesson |
 | :--- | :--- |
-| ?? | [Applying to Ada]() |
+| -1 | [Applying to Ada](./preparing-for-ada/applying-to-ada) |
 | 00 | [Social Justice](./preparing-for-ada/social-justice/) |
 | 01 | [Learning Styles](./preparing-for-ada/learning-styles/) |
 | 02 | [Problem Solving](./preparing-for-ada/problem-solving/) |
