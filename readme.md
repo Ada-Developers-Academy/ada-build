@@ -22,8 +22,8 @@ In these lessons you will learn how to navigate MaxOSX, learn about the language
 | 06 | [Terminal](./preparing-to-code/terminal/) |
 | 07 | [Environment Setup](./preparing-to-code/environment-setup/) |
 
-## Learning to Code
-These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data.
+## [Learning to Code](./learning-to-code)
+These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
 
 | Order | Lesson |
 | :--- | :--- |

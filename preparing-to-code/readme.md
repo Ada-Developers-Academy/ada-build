@@ -1,7 +1,7 @@
 # Ada Developers Academy Jump Start Curriculum
 
 ## Preparing to Code 
-These lessons you will learn how to navigate MaxOSX, learn about the languages that Ada teaches, start using the terminal, and setup your development environment.
+In these lessons you will learn how to navigate MaxOSX, learn about the languages that Ada teaches, start using the terminal, and setup your development environment
 
 | Order | Lesson |
 | :--- | :--- |
