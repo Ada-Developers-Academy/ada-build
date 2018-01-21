@@ -1,4 +1,4 @@
-# Basic Data Structures: Arrays and Hashes
+# Arrays
 _Jump start: Lesson 12_
 
 ## Learning Goals

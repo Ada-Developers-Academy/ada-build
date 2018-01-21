@@ -1,5 +1,5 @@
-# Basic Data Structures: Arrays and Hashes
-_Jump start: Lesson 12_
+# Hashes
+_Jump start: Lesson 13_
 
 ## Learning Goals
 - Vocabulary: data structure, array, index, value, hash, key-value pair, default value
