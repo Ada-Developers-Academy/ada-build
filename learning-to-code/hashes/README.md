@@ -2,13 +2,12 @@
 _Jump start: Lesson 13_
 
 ## Learning Goals
-- Vocabulary: data structure, array, index, value, hash, key-value pair, default value
+- Vocabulary: data structure, hash, key-value pair, default value
 - To understand what a data structure is and how it can be used
-- To be able to create a new array and hash data structure
-- To be able to access data in an array and hash
-- To be able to add data to an array and hash
+- To be able to create a new hash data structure
+- To be able to access data in a hash
+- To be able to add data to a hash
 - To understand the difference between an array and a hash
-- To know the syntax needed to create a new array and hash
 
 ## Activities
 * Review the notes in this section
