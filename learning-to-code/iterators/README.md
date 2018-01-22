@@ -204,7 +204,7 @@ The above code will output the values of i until i is no longer less than 4, res
 2
 3
 ```
-![while loop](../images/while-loop.png)
+![while loop](./images/while-loop.png)
 
 You can read the condition and execute of the `while` loop as _while condition is **true** do..._
 
