@@ -2,10 +2,10 @@
 _Jump start: Lesson 6_
 
 ## Learning Goals
-- Vocabulary: Terminal, command line, commands
+- Understand the terms `Terminal`, `command line`, `commands`
 - To know advantages of the command line and why programmers use it
 - To utilize the terminal to navigate, create, delete, and modify files and folders
-- To know and utilize basic terminal commands including: `ls`, `cd`, `touch`, `mkdir`, `rm`, `mv`, `cp`, `man`, `pwd`, `whoami`, `cat`
+- To know and utilize terminal commands including: `ls`, `cd`, `touch`, `mkdir`, `rm`, `mv`, `cp`, `man`, `pwd`, `whoami`, `cat`
 
 ## Activities
 * Review the notes
@@ -16,28 +16,25 @@ _Jump start: Lesson 6_
 ### Folder Setup
 When you are writing code, it is good to have a folder structure which is logical to you so you can quickly find the code and files you are looking for.
 
-1. Create a new folder called `ada` inside of your __home directory__ to store Ada-related folders and files. Once the folder is created, switch into that new folder.
+1. Create a new folder called `ada` inside of your home directory (you can get to your home directory by typing `cd ~`) to store Ada-related folders and files; once the folder is created, switch into that new folder.
 ```bash
 cd ~
 mkdir ada
 cd ada
 ```
-1. Create a new folder called `jumpstart` which will store all folders and files related to this Jumpstart work. Once the folder is created, switch into that new folder.
+
+1. Create a new folder called `jumpstart` inside of your new `ada` folder which will store all folders and files related to this Jumpstart work. Once the folder is created, switch into that new folder.
 ```bash
 mkdir jumpstart
 cd jumpstart
 ```
-1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your user name and end with `/ada/jumpstart`.
+
+1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your home directory and end with `/ada/jumpstart`.
 
 ### The Command Line
-
-As a programmer, you should become fluent with your computer's __command line__, in O SX that command line application is called __Terminal__. A command line approach is much more effective for many tasks in programming.
-
-#### How to get started
-- Find the program 'Terminal' on your computer, add it to your dock, and then and open it
+As a programmer, you should become fluent with your computer's __command line__, in O SX that command line application is called __Terminal__. To get started find the application named 'Terminal', add it to your dock, and then open it.
 
 #### Terminal Terminology
-
 |  Term | Definition |
 | :--- | :--- |
 | Console | The system as a whole |
@@ -46,7 +43,7 @@ As a programmer, you should become fluent with your computer's __command line__,
 | Prompt | This is the beginning of the command line, it usually provides some contextual information like who you are, where you are and other useful info; after the prompt is where you will be typing commands |
 | Terminal | The software application we use to interact with the console |
 
-### How the command line works
+#### How the command line works
 The terminal operates in a repeating sequence of steps:
 
 1. Displays a single line of text (called a prompt)
@@ -55,14 +52,14 @@ The terminal operates in a repeating sequence of steps:
 1. Displays output (not all commands display output)
 1. Repeats, starting from step 1
 
-### Running a Command
+#### Parts of a command
 Commands almost usually have 3 parts
 
 ```
 [command] [options] [arguments]
 ```
 
-### Commands
+#### Sample commands
 Try out these commands first, and record what happened.
 
 | Command | What happened? |
@@ -74,8 +71,7 @@ Try out these commands first, and record what happened.
 | `cd ~` | |
 | `cd .` | |
 | `cd ..` | |
-| 'cd -' | |
-
+| `cd -` | |
 
 Then use `man` to explore these commands.
 
@@ -94,176 +90,123 @@ Then use `man` to explore these commands.
 | `cat` | Print the contents of the argument to the screen (no scrolling) |
 | `whoami` | Tells you what user you are currently working as |
 
+### Practice making files and folders (i.e., directories)
 
-### Example Commands
+#### Overview
+Each practice example will first list the `commands` followed by the `directory structure` those commands created, followed by any `notes` relative to that example.
 
-#### Making and navigating directories
+1. market
+    ##### Commands
+    ```
+    $ mkdir market
+    $ cd market
+    $ mkdir fruits
+    $ mkdir vegetables
+    $ mkdir sweets
+    $ cd sweets
+    $ mkdir chocolate
+    $ cd ..
+    $ cd fruits
+    $ mkdir apples
+    $ mkdir lychee
+    $ cd ..
+    $ cd vegetables
+    $ mkdir carrots
+    $ mkdir celery
+    $ cd ..
+    $ cd sweets
+    $ mkdir caramels
+    $ pwd
+    ```
 
-The following series of commands
-```
-$ mkdir market
-$ cd market
-$ mkdir fruits
-$ mkdir vegetables
-$ mkdir sweets
-$ cd sweets
-$ mkdir chocolate
-$ cd ..
-$ cd fruits
-$ mkdir apples
-$ mkdir lychee
-$ cd ..
-$ cd vegetables
-$ mkdir carrots
-$ mkdir celery
-$ cd ..
-$ cd sweets
-$ mkdir caramels
-$ pwd
-```
+    ##### Directory structure
+    ```
+    market/
+    market/fruits/
+    market/fruits/apples/
+    market/fruits/lychee/
+    market/vegetables/
+    market/vegetables/carrots/
+    market/vegetables/celery/
+    market/sweets/
+    market/sweets/caramels/
+    market/sweets/chocolate/
+    ```
 
-Creates the following folder structure
-```
-market/
-market/fruits/
-market/fruits/apples/
-market/fruits/lychee/
-market/vegetables/
-market/vegetables/carrots/
-market/vegetables/celery/
-market/sweets/
-market/sweets/caramels/
-market/sweets/chocolate/
-```
+    ##### Notes
+    * `pwd` at the end of the commands should result in `market/sweets/`
+    
+1. lessons
+    ##### Commands
+    ```
+    $ mkdir lessons
+    $ cd lessons
+    $ mkdir 00-learning-style
+    $ mkdir 00-learning-style/assignments
+    $ mkdir 00-learning-style/notes
+    $ touch 00-learning-style/assignments/things-to-try.md
+    $ cd 00-learning-style/notes
+    $ touch learning-styles.md
+    $ cat learning-styles.md
+    $ cd ../..
+    ```
 
-`pwd` at the end of the commands, would result in `market/sweets/`
+    ##### Directory structure
+    ```
+    lessons/
+    lessons/assignments/
+    lessons/assignments/things-to-try.md
+    lessons/notes/
+    lessons/notes/learning-styles.md
+    ```
+1. songs
+    ##### Commands
+    ```
+    $ mkdir songs
+    $ touch songs/song1.md
+    $ touch songs/song2.md
+    $ touch songs/song10.md
+    $ rm songs/*1*
+    $ cp song2.md song3.md
+    $ touch song4.md
+    $ mv song4.md song1.md
+    ```
 
-#### Creating and printing files
+    ##### Directory structure
+    ```
+    songs/
+    songs/song1.md
+    songs/song2.md
+    songs/song3.md
+    ```
 
-##### Commands
-```
-$ mkdir lessons
-$ cd lessons
-$ mkdir 00-learning-style
-$ mkdir 00-learning-style/assignments
-$ mkdir 00-learning-style/notes
-$ touch 00-learning-style/assignments/things-to-try.md
-$ cd 00-learning-style/notes
-$ touch learning-styles.md
-$ cat learning-styles.md
-$ cd ../..
-```
+1. card games
+    ##### Commands
+    ```
+    $ mkdir card-games
+    $ cd card-games
+    $ mkdir war
+    $ touch war/rules.md
+    $ touch war/game.txt
+    $ cp -r war hearts
+    $ cp -r war blackjack
+    $ pwd
+    $ ls
+    $ rm hearts/*.md
+    $ rm -r blackjack
+    ```
 
-##### File/folder structure
-```
-lessons/
-lessons/assignments/
-lessons/assignments/things-to-try.md
-lessons/notes/
-lessons/notes/learning-styles.md
-```
+    ##### Directory structure
+    ```
+    card-games/
+    card-games/hearts/
+    card-games/hearts/game.txt
+    card-games/war/
+    card-games/war/game.txt
+    card-games/war/rules.md
+    ```
 
-#### Removing, moving (renaming), and copying files
-
-##### Commands
-```
-$ mkdir songs
-$ touch songs/song1.md
-$ touch songs/song2.md
-$ touch songs/song10.md
-```
-
-##### File/folder structure
-```
-songs/
-songs/song1.md
-songs/song2.md
-songs/song10.md
-```
-
-##### Command
-```
-rm songs/*1*
-```
-
-##### File/folder structure
-```
-songs/
-songs/song2.md
-```
-
-##### Commands
-```
-$ cp song2.md song3.md
-$ touch song4.md
-```
-
-##### File/folder structure
-```
-songs/
-songs/song2.md
-songs/song3.md
-songs/song4.md
-```
-
-##### Command
-```
-$ mv song4.md song1.md
-```
-
-##### File/folder structure
-```
-songs/
-songs/song1.md
-songs/song2.md
-songs/song3.md
-```
-
-####  Listing, removing, moving (renaming), and copying  directories
-
-##### Commands
-```
-$ mkdir card-games
-$ cd card-games
-$ mkdir war
-$ touch war/rules.md
-$ touch war/game.txt
-$ cp -r war hearts
-$ cp -r war blackjack
-$ pwd
-$ ls
-```
-
-##### File/folder structure
-```
-card-games/
-card-games/blackjack/
-card-games/blackjack/game.txt
-card-games/blackjack/rules.md
-card-games/hearts/
-card-games/hearts/game.txt
-card-games/hearts/rules.md
-card-games/war/
-card-games/war/game.txt
-card-games/war/rules.md
-```
-
-##### Commands
-```
-rm hearts/*.md
-rm -r blackjack
-```
-
-##### File/folder structure
-```
-card-games/
-card-games/hearts/
-card-games/hearts/game.txt
-card-games/war/
-card-games/war/game.txt
-card-games/war/rules.md
-```
-
-The flag `-r` means __recursive__.
-
-Note that we used the wild card (`*`) here to delete any files inside the `hearts` directory that end with '.md'. In this case there was only one file that met this criteria, but if there had been more files with '.md' at their end, they would also have been removed. Relatedly, we can also use multiple wildcards in a command, like `rm *rules*`, which would remove any files with 'rules' in them: for example all of the following (had they exsisted): rules1.md, all-the-rules.txt, somerules.md, rules.doc, ...
+    ##### Notes
+    * The flag `-r` means __recursive__
+    * The wild card (`*`) deletes any files inside the `hearts` directory that end with '.md'; in this case there was only one file that met this criteria, but if there had been more files with '.md' at their end, they would also have been removed
+    
