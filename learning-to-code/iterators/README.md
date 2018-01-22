@@ -204,7 +204,14 @@ The above code will output the values of i until i is no longer less than 4, res
 2
 3
 ```
-![while loop](./images/while-loop.png)
+
+| Iteration | i | i < 4 | Output |
+| :--- | :--- | :--- | :--- |
+| 1 | 0 | True | 0 |
+| 2 | 1 | True | 1 |
+| 3 | 2 | True | 2 |
+| 4 | 3 | True | 3 |
+| 5 | 4 | False | \<None\> |
 
 You can read the condition and execute of the `while` loop as _while condition is **true** do..._
 
@@ -241,7 +248,14 @@ The above code will output the values of i until i is equal to 4, resulting in t
 2
 3
 ```
-![until loop](./images/until-loop.png)
+
+| Iteration | i | i == 4 | Output |
+| :--- | :--- | :--- | :--- |
+| 1 | 0 | False | 0 |
+| 2 | 1 | False | 1 |
+| 3 | 2 | False | 2 |
+| 4 | 3 | False | 3 |
+| 5 | 4 | True | \<None\> |
 
 
 You can read the condition and execute of the `until` loop as _until condition is **true** do..._
