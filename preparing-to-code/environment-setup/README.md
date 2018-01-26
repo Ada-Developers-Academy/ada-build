@@ -57,11 +57,14 @@ If you're reading this, you're already using a web browser (software used to acc
 To install _Chrome_, download it from [Google's website](https://www.google.com/chrome/browser/desktop/index.html). Open the downloaded application package and follow the instructions to complete the installation.
 
 #### Atom
-Writing software requires software! Way back when, writing software required stacks of [thin balsa wood or cardstock cards](https://en.wikipedia.org/wiki/Punched_card), but these days we use a _text editor_ instead. Word processors are software tools geared towards making composition of prose easier. _Text Editors_ are programs geared towards making code generation easier.
+At Ada we will be using [Atom](https://atom.io/), a text editor to write our code.
 
-For Ada, we'll use [Atom](https://atom.io/). From the website, download the installer package. Then run the installer. There's not much to _Atom_ out of the box, but it's enough to get us started writing code in the next lesson.
-
-__Note:__ Many folks in the Ruby sphere use either _Atom_ or _Sublime Text_ as their primary editor. Either is fine for the classroom, but if you don't already have _Sublime Text_ or any other _text editor_, go with _Atom_.
+##### Atom installation steps
+* Navigate to the [Atom](https://atom.io/) website
+* Download the zip to your Applications folder
+* Unzip the folder, by double-clicking, or right-click _Open_ 
+* Drag Atom to your dock and open it up
+* Navigate to the Atom menu (at the top of your screen) and select _Install Shell Commands_.
 
 #### Homebrew Packager Manager
 
