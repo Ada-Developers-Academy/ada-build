@@ -57,7 +57,7 @@ If you're reading this, you're already using a web browser (software used to acc
 To install _Chrome_, download it from [Google's website](https://www.google.com/chrome/browser/desktop/index.html). Open the downloaded application package and follow the instructions to complete the installation.
 
 #### Atom
-At Ada we will be using [Atom](https://atom.io/), a text editor to write our code.
+At Ada we will be using [Atom](https://atom.io/), a text editor, to write our code.
 
 ##### Atom installation steps
 * Navigate to the [Atom](https://atom.io/) website
