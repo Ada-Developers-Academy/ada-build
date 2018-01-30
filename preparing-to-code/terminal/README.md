@@ -17,17 +17,17 @@ _Jump start: Lesson 6_
 When you are writing code, it is good to have a folder structure which is logical to you so you can quickly find the code and files you are looking for.
 
 1. Create a new folder called `ada` inside of your home directory (you can get to your home directory by typing `cd ~`) to store Ada-related folders and files; once the folder is created, switch into that new folder.
-```bash
-cd ~
-mkdir ada
-cd ada
-```
+    ```bash
+    cd ~
+    mkdir ada
+    cd ada
+    ```
 
 1. Create a new folder called `jumpstart` inside of your new `ada` folder which will store all folders and files related to this Jumpstart work. Once the folder is created, switch into that new folder.
-```bash
-mkdir jumpstart
-cd jumpstart
-```
+    ```bash
+    mkdir jumpstart
+    cd jumpstart
+    ```
 
 1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your home directory and end with `/ada/jumpstart`.
 
