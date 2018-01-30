@@ -52,9 +52,12 @@ We'll use the Terminal to install the _Command Line Tools_. Open Terminal and st
 After it finishes, verify the installation by typing `xcode-select -p`. It should respond with something very similar to `/Library/Developer/CommandLineTools` (the directory where they were installed).
 
 #### Google Chrome
-If you're reading this, you're already using a web browser (software used to access and visualize information on the internet). Unless you've intentionally switched, you're using Apple's web browser, _Safari_. There's nothing wrong with _Safari_; it's a fine browser. However, there are a few things that Google's competing browser, _Chrome_, can do for developers that makes for super fun times in the Ada classroom. You don't have to switch to _Chrome_ for all your day-to-day internet use; I'd just like for you to have it available when we're in class.
+We will use the Chrome web browser by Google in class, because it provides more developer tools for us to use.
 
-To install _Chrome_, download it from [Google's website](https://www.google.com/chrome/browser/desktop/index.html). Open the downloaded application package and follow the instructions to complete the installation.
+##### Google Chrome installation steps
+* Download [Chrome](https://www.google.com/chrome/browser/desktop/index.html) to your Applications folder
+* Open the downloaded application package and follow the instructions
+* Drag Chrome to your dock
 
 #### Atom
 At Ada we will be using [Atom](https://atom.io/), a text editor, to write our code.
