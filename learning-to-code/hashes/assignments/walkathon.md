@@ -3,13 +3,13 @@ You are going to create a program for tracking a walk-a-thon.
 
 ## Primary Requirements
 1. Create a walk-a-thon program that accepts the following _input_ from the user:
-  - Earning goal for the walk-a-thon
-  - Amount earned per lap completed (per person)
-  - Number of laps completed for 5 people
+    - Earning goal for the walk-a-thon
+    - Amount earned per lap completed (per person)
+    - Number of laps completed for 5 people
 2. Have the walk-a-thon program calculate and _output_ the following:
-  - Who earned the most money
-  - Total amount earned in the walk-a-thon
-  - Whether or not the earning goal was met
+    - Who earned the most money
+    - Total amount earned in the walk-a-thon
+    - Whether or not the earning goal was met
 
 ## Example Output
 Below is an example program output. User input is indicated in ~~ (tildes).
