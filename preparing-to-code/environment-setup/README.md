@@ -31,7 +31,7 @@ The purpose of these notes is to help you install and configure the software we 
 * [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
 * [Atom (text editor)](https://atom.io/)
 * [Ruby Version Manager (rvm) (package manager)](https://rvm.io/)
-* [Ruby 2.3.0](https://www.ruby-lang.org/en/)
+* [Ruby 2.4.1](https://www.ruby-lang.org/en/)
 
 #### OS X _El Capitan_ or _Sierra_
 _OS X_ is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the two most recent versions are _Sierra_ and _El Capitan_. For Ada, your computer must be running one of these two versions of _OS X_, with preference given to _El Capitan_.
@@ -65,7 +65,7 @@ At Ada we will be using [Atom](https://atom.io/), a text editor, to write our co
 ##### Atom installation steps
 * Navigate to the [Atom](https://atom.io/) website
 * Download the zip to your Applications folder
-* Unzip the folder, by double-clicking, or right-click _Open_ 
+* Unzip the folder, by double-clicking, or right-click _Open_
 * Drag Atom to your dock and open it up
 * Navigate to the Atom menu (at the top of your screen) and select _Install Shell Commands_.
 
@@ -86,7 +86,7 @@ Run `$ brew doctor`. Brew is super great at telling you what else it may need. S
 
 Installing _rvm_ is done in the Terminal: `$ \curl -sSL https://get.rvm.io | bash -s stable`
 
-The installation won't take long. When it's done, close your Terminal (⌘-Q) and then reopen it. You can find the ⌘ or 'Command' key next to your spacebar.    On a Mac pressing both command and 'Q' will quit the active application. 
+The installation won't take long. When it's done, close your Terminal (⌘-Q) and then reopen it. You can find the ⌘ or 'Command' key next to your spacebar.    On a Mac pressing both command and 'Q' will quit the active application.
 
 Verify all's well by running `$ rvm -v`. You should see something like `rvm 1.28.0 (latest)`.
 
