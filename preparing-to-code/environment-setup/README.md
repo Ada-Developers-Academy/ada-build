@@ -31,7 +31,7 @@ The purpose of these notes is to help you install and configure the software we 
 * [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
 * [Atom (text editor)](https://atom.io/)
 * [Ruby Version Manager (rvm) (package manager)](https://rvm.io/)
-* [Ruby 2.4.1](https://www.ruby-lang.org/en/)
+* [Ruby (latest stable version of Ruby)](https://www.ruby-lang.org/en/)
 
 #### OS X _El Capitan_ or _Sierra_
 _OS X_ is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the two most recent versions are _Sierra_ and _El Capitan_. For Ada, your computer must be running one of these two versions of _OS X_, with preference given to _El Capitan_.
