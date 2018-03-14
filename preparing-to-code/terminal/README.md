@@ -9,7 +9,7 @@ _Jump start: Lesson 6_
 
 ## Activities
 * Review the notes
-* Complete [Learn the Command Line](https://www.codecademy.com/en/courses/learn-the-command-line/)
+* Complete [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 * (Optional) Read [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 ## Notes
