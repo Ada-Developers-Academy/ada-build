@@ -40,7 +40,7 @@ To check your version of macOS/OS X, click the Apple icon at the far left edge o
 
 ![About This Mac](./images/about-this-mac.png)
 
-![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-sierra-about-this-mac-overview-build.jpg)
+![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-high-sierra-about-this-mac-overview-version-build.jpg)
 
 If your Mac isn't running _High Sierra_, _Sierra_, or _El Capitan_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
 
