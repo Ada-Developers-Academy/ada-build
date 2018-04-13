@@ -34,7 +34,7 @@ numbers = [1, 2, 3, 4]
 ```
 ![numbers array](../images/array-1.png)
 
-We can do something similar when creating an array using `Array.new`. When passing parameters into `new`, the first parameter will be the size of the desired array. The second parameter will be the default value for all element within the array.
+We can do something similar when creating an array using `Array.new`. When passing parameters into `new`, the first parameter will be the size of the desired array. The second parameter will be the default value for all elements within the array.
 
 ```ruby
 empty_array = Array.new(3)
