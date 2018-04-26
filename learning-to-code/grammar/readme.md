@@ -210,7 +210,7 @@ str = "hello \"person\""
 puts str # prints hello "person"
 
 str = 'hello \nworld'
-puts str # prints hello \\nworld
+puts str # prints hello \nworld
 ```
 
 #### String Interpolation
