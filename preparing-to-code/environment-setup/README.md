@@ -26,26 +26,26 @@ The purpose of these notes is to help you install and configure the software we 
 
 ### Required software
 
-* [OS X _El Capitan_ (or OS X _Sierra_)](http://www.apple.com/osx/whats-new/)
+* [OS X El Capitan] (https://support.apple.com/en-us/HT206886) or newer ([macOS Sierra] (https://support.apple.com/en-us/HT208202) or [macOS High Sierra](https://www.apple.com/macos/high-sierra/))
 * [Xcode Command Line Tools](#xcode-command-line-tools)
 * [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
 * [Atom (text editor)](https://atom.io/)
 * [Ruby Version Manager (rvm) (package manager)](https://rvm.io/)
 * [Ruby (latest stable version of Ruby)](https://www.ruby-lang.org/en/)
 
-#### OS X _El Capitan_ or _Sierra_
-_OS X_ is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the two most recent versions are _Sierra_ and _El Capitan_. For Ada, your computer must be running one of these two versions of _OS X_, with preference given to _El Capitan_.
+#### _macOS High Sierra_, _macOS Sierra_, or _OS X El Capitan_
+_macOS_ (previously called _OS X_ and _Mac OS X_) is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the three most recent versions are _macOS High Sierra_, _macOS Sierra_, and _OS X El Capitan_. For Ada, your computer must be running one of these versions of macOS/OS X, with preference given to _El Capitan_.
 
-To check your version of OS X, click the Apple icon at the far left edge of toolbar at the top of the screen. From there, choose _About This Mac_. That'll open a window with lots and lots of information about your computer. Right at the top, in big type, is the current version of _OS X_.
+To check your version of macOS/OS X, click the Apple icon at the far left edge of toolbar at the top of the screen. From there, choose _About This Mac_. That'll open a window with lots and lots of information about your computer. Right at the top, in big type, is the current version of macOS/OS X.
 
 ![About This Mac](./images/about-this-mac.png)
 
-![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-sierra-about-this-mac-overview-build.jpg)
+![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-high-sierra-about-this-mac-overview-version-build.jpg)
 
-If your Mac isn't running _Sierra_ or _El Capitan_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
+If your Mac isn't running _High Sierra_, _Sierra_, or _El Capitan_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
 
 #### Xcode Command Line Tools
-_Xcode_ is the name of the collection of software tools used to create programs for _OS X_ and _iOS_ (the operating system on Apple's mobile devices like the iPhone and iPad). We'll need some parts of _Xcode_, but not the whole thing. The part we need is called the _Xcode Command Line Tools_. We won't be using them during the Jumpstart curriculum, but it makes sense to install them now. They can take a long time to download and install, so doing it now will save us lots of time in the classroom later.
+_Xcode_ is the name of the collection of software tools used to create programs for _macOS_ and _iOS_ (the operating system on Apple's mobile devices like the iPhone and iPad). We'll need some parts of _Xcode_, but not the whole thing. The part we need is called the _Xcode Command Line Tools_. We won't be using them during the Jumpstart curriculum, but it makes sense to install them now. They can take a long time to download and install, so doing it now will save us lots of time in the classroom later.
 
 We'll use the Terminal to install the _Command Line Tools_. Open Terminal and start the installation by typing `$ xcode-select --install`. Follow the instructions and wait for the installation to finish (Protip: have a snack and maybe go for a walk while it's downloading and installing).
 
@@ -88,7 +88,7 @@ Installing _rvm_ is done in the Terminal: `$ \curl -sSL https://get.rvm.io | bas
 
 The installation won't take long. When it's done, close your Terminal (⌘-Q) and then reopen it. You can find the ⌘ or 'Command' key next to your spacebar.    On a Mac pressing both command and 'Q' will quit the active application.
 
-Verify all's well by running `$ rvm -v`. You should see something like `rvm 1.28.0 (latest)`.
+Verify all's well by running `$ rvm -v`. You should see something like `rvm 1.29.2 (latest)`.
 
 #### Ruby
 Finally! Whew! Ruby is the first programming language we'll learn in the classroom. It's also my personal favorite, but that's just a happy accident.
