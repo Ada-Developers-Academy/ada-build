@@ -44,6 +44,6 @@ For this example the algorithm is considered _finite_ because it will eventually
 
 Once we have an algorithm, we want to test it out. This is done by having someone else (or the computer) follow the instructions we have provided and see if the result is what we intended.
 
-Even if the instructions worked for one particular case, we should consider how the algorithm would fair if given different inputs. What if we didn't start our morning routine algorithm form home, would the instructions still produce the desired result.
+Even if the instructions worked for one particular case, we should consider how the algorithm would fair if given different inputs. What if we didn't start our morning routine algorithm from home, would the instructions still produce the desired result.
 
 Often times some of our test cases fail or our desired output is reached but not in the most efficient way possible (e.g., we arrive late). This can be caused by a variety of reasons, and means that while our algorithm might work, it doesn't work well. Refining, or refactoring, involves making our algorithm better, so that it works for more test cases or more efficiently solves our problem. In order to do this, we have to rewrite our steps to be more clear and consider more inputs.
