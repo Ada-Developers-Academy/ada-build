@@ -11,7 +11,7 @@ _Jump start: Lesson 9_
 
 ## Activities
 * Review notes within this section
-* Watch [Video: Values, Variables, Commands and Comments](https://vimeo.com/channels/1001988)
+* Watch [Video: Now we're programming!](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df0c8ab-64fc-4186-a9e2-a8c4014a4b4b)
 * Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
 * Write a madlibs program
   * First play a few on [eduplace](https://www.eduplace.com/tales/) to become familiar with the game
