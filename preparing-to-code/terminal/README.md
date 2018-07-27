@@ -155,10 +155,11 @@ Each practice example will first list the `commands` followed by the `directory 
     ##### Directory structure
     ```
     lessons/
-    lessons/assignments/
-    lessons/assignments/things-to-try.md
-    lessons/notes/
-    lessons/notes/learning-styles.md
+    lessons/00-learning-style/
+    lessons/00-learning-style/assignments/
+    lessons/00-learning-style/assignments/things-to-try.md
+    lessons/00-learning-style/notes/
+    lessons/00-learning-style/notes/learning-styles.md
     ```
 1. songs
     ##### Commands
