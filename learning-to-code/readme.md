@@ -1,7 +1,7 @@
 # Ada Developers Academy Jump Start Curriculum
 
 ## Learning to Code
-These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
+These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
 | Order | Lesson |
 | :--- | :--- |
@@ -11,3 +11,5 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 11 | [Iterators](./iterators/) |
 | 12 | [Arrays](./arrays) |
 | 13 | [Hashes](./hashes) |
+
+If you are a visual learner or are just looking for additional reinforcing lessons and exercises, you may find the [JumpStart Live lessons](https://github.com/Ada-Developers-Academy/jump-start-live#lessons) a good companion to the lessons above.

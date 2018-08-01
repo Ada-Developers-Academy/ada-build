@@ -1,3 +1,3 @@
-Applicants who have completed this JumpStart curriculum including all the coding exercises, are better prepared for the application process and therefore becoming a new student at Ada Developers Academy.
+Applicants who have completed this JumpStart curriculum including all the coding exercises, are better prepared for the application process and therefore becoming a new student at Ada Developers Academy. All admitted students are expected to be well-versed with the concepts covered in the Jump Start curriculum on the first day of their cohort. This includes conditional flows, loops, arrays, hashes and Ruby basics. During Phase 2 of the application process, we assess for the applicant’s ability to grasp the fundamentals of coding and for Day 1 readiness.
 
 Learn more about the application process for Ada Developers Academy on [this site](https://www.adadevelopersacademy.org/applicants).
