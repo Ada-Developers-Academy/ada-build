@@ -69,7 +69,7 @@ aa = 3234
 bb = 2398
 cc = 0
 dd = (aa + bb) / cc
-# what value does d now hold?
+# what value does dd now hold?
 
 yy = 7
 zz = yy % 2
