@@ -12,12 +12,12 @@ These lessons will expose you to our core values, help you identify your learnin
 | 02 | [Problem Solving](./preparing-for-ada/problem-solving/) |
 
 ## [Preparing to Code](./preparing-to-code)
-In these lessons you will learn how to navigate MaxOSX, learn about the languages that Ada teaches, start using the terminal, and setup your development environment
+In these lessons you will learn how to navigate macOS, learn about the languages that Ada teaches, start using the terminal, and setup your development environment
 
 | Order | Lesson |
 | :--- | :--- |
 | 03 | [Effective Internet Searching](./preparing-to-code/internet-searching/) |
-| 04 | [MacOSX Keyboard navigation](./preparing-to-code/keyboard-navigation/) |
+| 04 | [macOS Keyboard navigation](./preparing-to-code/keyboard-navigation/) |
 | 05 | [Ada programming languages](./preparing-to-code/ada-languages) |
 | 06 | [Terminal](./preparing-to-code/terminal/) |
 | 07 | [Environment Setup](./preparing-to-code/environment-setup/) |
