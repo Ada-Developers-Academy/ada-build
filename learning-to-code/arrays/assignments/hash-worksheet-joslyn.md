@@ -23,6 +23,8 @@ person = {
 
 puts person.length
 puts person["last_name"]
+# => 3
+# => "lovelace"  
 ```
 
 2.
@@ -35,6 +37,8 @@ animals = {
 animals["cat"] = "feline"
 puts animals["dog"]
 puts animals["donkey"]
+# => "canine"
+# => ""
 ```
 
 3.
@@ -47,6 +51,7 @@ chuck_norris = {
 
 chuck_norris["kick"] = 25
 puts chuck_norris["kick"]
+# => 25
 ```
 
 4.
@@ -58,6 +63,9 @@ menu["tea"] = "green"
 puts menu.length
 puts menu["burger"]
 puts menu["tater_tots"]
+# => 3
+# => "bleu sun"
+# => ""
 ```
 
 

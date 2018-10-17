@@ -4,7 +4,7 @@ _Jump start: Lesson 9_
 ## Learning Goals
 * Understand different data types (string, integer, float)
 * Be able to use variables
-* Be able to print 
+* Be able to print
 * Understand and be able to use strings, string concatenation, and string interpolation
 * Be able to read input from the user
 * Practice writing and debugging Ruby code
@@ -41,7 +41,7 @@ _Jump start: Lesson 9_
     them seem more Hand-made.
     ```
 
-  * Your code should use comments throughout to explain the code, reuse at least one word, and as for at lease 1 number
+  * Your code should use comments throughout to explain the code, reuse at least one word, and ask for at least 1 number
   * [Optional] Explore Ruby's built in methods for [String](http://ruby-doc.org/core-2.2.0/String.html) like `capitalize`, `downcase`, `upcase`
 
 ## Notes
@@ -89,7 +89,7 @@ puts word.class #String
 ```
 
 ### Mathematical operations
-| Operation | Ruby symbol | Example | 
+| Operation | Ruby symbol | Example |
 | :--- | :--- | :--- |
 | addition |  `+` | `2 + 3` |
 | subtraction | `-` | `4 - 5` |
@@ -199,7 +199,7 @@ If you use double quotes, you can also use string interpolation and escape seque
 
 #### Common Escape Sequences
 
-| Escape Sequence | Description | 
+| Escape Sequence | Description |
 | :--- | :--- |
 | `\n` | A new line (moves down to the next line)
 | `\\` | A single backslash |

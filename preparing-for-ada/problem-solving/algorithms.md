@@ -10,6 +10,8 @@ In [The Art of Computer Programming (Knuth)](https://en.wikipedia.org/wiki/The_A
 
 When we initially write an algorithm, we attempt to be as precise as necessary to produce our intended output. It is important to address all 5 properties of an algorithm.
 
+ > stop giving me fascinating tangents!
+
 ### Input
 An algorithm starts its computation from an initial state. This state may be expressed as input values given to the algorithm before it starts.
 

@@ -65,13 +65,13 @@ Try out these commands first, and record what happened.
 
 | Command | What happened? |
 | :--- | :--- |
-| `ls -a .` | my terminal (powershell) said the command "-a" was too ambiguous, and it gave me a few possible commands. One of these commands was "-Hidden."|
-| `man ls` | this lists the Help files. This did not fully work on my computer. Using "Update-Help" also did not fully work.|
-| `q` | error: not recognized as the name of a cmdlet |
+| `ls -a .` | my terminal (powershell) said the command "-a" was too ambiguous, and it gave me a few possible commands. One of these commands was "-Hidden." Hidden worked on my computer instead of the -a argument|
+| `man ls` | was a custom cmdlet help file. Gives information on syntax, usage, etc.|
+| `q` | quit - let me leave the  help file (: |
 | `pwd` |prints the current file path |
 | `cd ~` | goes back to the home directory|
 | `cd .` |doesn't appear to do anything, but it didn't give an error |
-| `cd ..` | this went up one directory|
+| `cd ..` | this goes up one directory|
 | `cd -` | another "object not found" error |
 
 Then use `man` to explore these commands.
@@ -83,11 +83,11 @@ Then use `man` to explore these commands.
 | `ls`  | List Directory: Display all of the child files and directories for the current location |
 | `cd` | Change Directory: Move to a different location, all further commands execute at that location |
 | `mkdir` | Make Directory: Create a new directory with the name specified |
-| `touch` | Create new file or update timestamp of existing file: If the file argument does not exist, create it as an empty  |file. If the file argument does exist, 'touch' it's timestamp (last modified date/time) to be the current date/time. |
+| `touch` | Create new file or update timestamp of existing file: If the file argument does not exist, create it as an empty file. |If the file argument does exist, 'touch' it's timestamp (last modified date/time) to be the current date/time. |
 | `cp` | Copy: Copy argument1 to argument2 |
 | `mv` | Move: Move argument1 to argument2 (removes argument1). This is like renaming. |
 | `rm` | Remove: Delete the file or folder passed to `rm` |
-| `less` | Print the contents of the argument to the screen with the ability to scroll through (also [`more`; less is more, more or less](https://en.wikipedia.org/wiki/Less_(Unix))) |
+| `less` | Print the contents of the argument to the screen with the ability to scroll through (also [`more`; less is more, more or less](https://en.wikipedia.org/wiki/Less_(Unix)))  "less > more" ... fascinating stuff ... |
 | `cat` | Print the contents of the argument to the screen (no scrolling) |
 | `whoami` | Tells you what user you are currently working as |
 

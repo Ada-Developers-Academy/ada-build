@@ -47,6 +47,7 @@ Assume that the `x` and `y` variable data comes from user input prior to the con
       ```
 
 ![flow control diagram](./images/flow-control-diagram.png)
+this image has an error, it should show (1..4) not (1...4)
 
 3. Read the code in each section, draw a corresponding flow chart and then predict the output. Check your answers by running the code snippets in Terminal.
 
