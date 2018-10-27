@@ -9,11 +9,11 @@ email_number = []
 puts "Please enter 5 student names (First Last)"
 
 # gathers 5 names and makes all uppercase, formats names for email generation
-5.times do |count|
-  print "  Student ##{count + 1}: " # helps user count number of students they've input
+5.times do 
+
   name = gets.chomp.to_s.upcase!
   names.push(name)
-  name = name.split(" ")
+  name = name.split
   name = name[0][0] + name[1]
   # YAY!
   # first letter of first name and all of last name
