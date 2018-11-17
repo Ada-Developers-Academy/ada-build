@@ -23,9 +23,7 @@ Then read and reflect on these articles
 
 
 ## Reflection
-Note: If you have been accepted into Ada you should email your reflection directly to Sarah Ervin, Ada's Student Counselor and Diversity Trainer.
-
-Take some time to reflect on the readings. This reflection can take on whatever form works best for you, you might want to have conversations with people about what you read, spend some time free form writing, create a video sharing what you learned or maybe produce a piece of art. It is totally up to you and what works best for you. 
+We suggest that you do some personal journaling, or explore these topics in conversation with a close friend or family member. Your responses to the following questions or to the articles themselves may be personal, and we don't ask that you share you thoughts with us. However, if you would like to be in conversation with us or have any follow-up questions, you can reach out to Sarah via email or slack. 
 
 ### Reflection questions
 We are including a few reflection questions which you can use as a guide if you are having trouble getting started. You can address all of our prompts, choose only a few, or come up with your own.
