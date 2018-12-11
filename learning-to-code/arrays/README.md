@@ -12,7 +12,6 @@ _JumpStart: Lesson 12_
 * Review the [notes](#Notes) in this section
 * Complete the [Array Worksheet](assignments/array-worksheet.md)
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
-* Complete the [Planet information assignment](#planet-information-assignment)
 * Complete the [Student Account Generator assignment](assignments/account-generator.md) using arrays
 * [Optional] For additional learning and practice, look at the lessons and exercises of [Day 5 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day5#lessons)
 
@@ -107,7 +106,7 @@ puts default_array # => ["def", "def", "def"]
 
 
 ### Data Types
-Arrays can store all sorts of data. In most programming languages, arrays are _homogeneous_ data structures. This means that in most programming lanaguages, the same type of data is stored in each element of the array. e.g. an array of integers, an array of strings etc. However, in Ruby, it is not a requirement for all elements in the array to be of the same type.
+Arrays can store all sorts of data including but not limited to integers, floats and strings. In Ruby, it is not a requirement that all items stored in the Array be of the same type. i.e. you may create an Array with string as the first element, an integer as the second element and so on. Often times, however, to solve a problem, a programmer may choose to make an array of the same data type.
 
 ```ruby
 # array of strings
@@ -140,11 +139,12 @@ puts animals[0] # => "parrot"
 puts animals # => ["parrot", "horse", "cat", "monkey"]
 ```
 
+
 ### Using Built-In Methods
 
 Array is an in-built class available in Ruby. Arrays have a few important built-in methods that we can utilize.
 
-**length**  
+**length**
 This method returns the number of elements in the array.
 
 ```ruby
@@ -152,7 +152,7 @@ animals = ["bird", "horse", "cat", "monkey"]
 puts animals.length # => 4
 ```
 
-**push** or **<<**   
+**push** or **<<**
 These two methods perform the same operation in Ruby. `<<` is pronounced _shovel_. These methods add (append) a given object to the __end__ of an array. The fact that it adds to the end of the array is important since arrays are _ordered_.
 
 See the below example of this, extended from the `animals` example from above.
@@ -169,10 +169,10 @@ puts animals.length  # => 6
 puts animals[5]      # => "lizard"
 ```
 
-**first**  
+**first**
 This method will return the first element, or the element at the zero index, in an array.
 
-**last**  
+**last**
 This method will return the last element in the array. The index of this element will depend solely on how many items are in the array. The index of the last element in any array will always be one less than it's length.
 
 See the below example of this method used, extended from the `animals` example above.
@@ -195,6 +195,100 @@ cats = ["grumpy"]
 cats.first # => "grumpy"
 cats.last # => "grumpy"
 ```
+
+### Looping over an array
+Earlier, in the lesson on iterators, we looked at how different iterators and loops work. Now, let's take a closer look at how loops or iterators work together with Arrays.
+
+Let's consider some examples of arrays:
+```ruby
+  # veggies is an array of strings. Each string holds the value of name of one vegetable
+  veggies = ["carrot", "yam", "zucchini", "spinach"]
+
+  # names is an array of strings. Each string holds the value of name of one person
+  names = ["Rey", "Finn", "Han"]
+
+  # scores is an array of integers. Each element in the array is an integer representing a score.
+  scores = [42, 21, 7, 34, 9, 68]
+```
+
+#### Times loop and Arrays
+Recall the `.times` loop from the previous lesson.
+
+We can leverage the fact that the `.times` loop with index begins counting at `0` and the index of the first element in an array is also `0`. Combining this knowledge and utilizing the in-built method in Arrays to get the count of elements in the array, `.length`, we can retrieve the value of each element in the array like so:
+```ruby
+# An array of veggies
+veggies = ["carrot", "yam", "zucchini", "spinach"]
+veggie_count = veggies.length
+# the value of 4 will get assigned to variable veggie_count
+
+veggie_count.times do |i|
+  puts "Vegetable #{i+1}: #{veggies[i]}"
+end
+```
+output:
+```
+Vegetable 1: carrot
+Vegetable 2: yam
+Vegetable 3: zucchini
+Vegetable 4: spinach
+```
+
+In the example below, we determine the length of the `names` array. Then, we use the `.times` loop to retrieve the index of each element in the array. In the body of the loop, we use the index to retrieve the value of the element in the array at that index.
+
+```ruby
+# An array of names
+names = ["Rey", "Finn", "Han"]
+
+names.length.times do |i|
+  puts "Hello #{names[i]}!"
+end
+```
+output:
+```
+Hello Rey!
+Hello Finn!
+Hello Han!
+```
+
+
+#### .Each Iterator and Arrays
+In the previous lesson, we looked at how `.each` iterator could work over a Range. We can also use the `.each` iterator to retrieve the value of each element in a collection like Arrays.
+
+In the example below, the `.each` iterator will iterate over the `veggies` array. For each iteration, the `vegetable` variable will be assigned to the value of the next element in the array, starting with the first.
+
+```ruby
+# An array of veggies
+veggies = ["carrot", "yam", "zucchini", "spinach"]
+
+veggies.each do |vegetable|
+  puts "a vegetable: #{vegetable}"
+end
+```
+output:
+```
+a vegetable: carrot
+a vegetable: yam
+a vegetable: zucchini
+a vegetable: spinach
+```
+
+In the example below, the iterator will iterate over the `names` array. For each iteration, the `name` variable will be assigned to the value of the next element in the array, starting with the first. The block of code will be executed for each name, which will say hello to each person!
+
+```ruby
+# An array of names
+names = ["Rey", "Finn", "Han"]
+
+names.each do |name|
+  puts "Hello #{name}!"
+end
+```
+output:
+```
+Hello Rey!
+Hello Finn!
+Hello Han!
+```
+
 
 ## Numbers problem assignment
 * Throughout this course we will be working with the **Numbers program**. Here's the fourth version of the program:
@@ -235,55 +329,3 @@ cats.last # => "grumpy"
    The maximum value in the array is 582.
    The average of all the values in the array is 159.4.
 ```
-
-## Planet Information Assignment
-* Create two _synchronized_ arrays.
-  * In one array, save the names of the planets in our solar system in the order of their distance from the sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
-  * In the other array, save the radius of each planet at the corresponding index.
-  e.g. At index 2, the planet names array will have "Earth". At index 2,  the radius array will have Earth's radius, which is 6378 km.
-  * In a loop, ask the user if they'd like to learn more information on any of the planets and get the planet name from the user. Print out the radius information for the planet entered by the user.
-  * Continue the loop as long as the user responds positively.
-  * Think about your algorithm using paper and pencil before you start coding.
-  * Here's the information (source: [NinePlanets.org](https://nineplanets.org/data1.html)) of the radius of all planets:
-
-| Name    | Radius |
-| :-----  | :----- |
-| Mercury | 2440   |
-| Venus   | 6052   |
-| Earth   | 6378   |
-| Mars    | 3397   |
-| Jupiter | 71492  |
-| Saturn  | 60268  |
-| Uranus  | 25559  |
-| Neptune | 24766  |
-
-  * Example output:
-      * _Note_: User input is indicated in ~~ (tildes).
-
-```
-Would you like to know about the radius of any planet in our solar system?
-~Y~
-Which planet would you like to learn about?
-~Earth~
-Earth is the 3rd planet from the sun and has a radius of 6378 kms.
-
-Would you like to know about the radius of any planet in our solar system?
-~y~
-Which planet would you like to learn about?
-~mars~
-Mars is the 4th planet from the sun and has a radius of 3397 kms.
-
-Would you like to know about the radius of any planet in our solar system?
-~y~
-Which planet would you like to learn about?
-~milk way~
-Sorry that's not a planet in our solar system!
-Which planet would you like to learn about?
-~nePtune~
-Neptune is the 8th planet from the sun and has a radius of 24766 kms.
-
-Would you like to know about the radius of any planet in our solar system?
-~r~
-Thank you for joining us on learning about the planets.
-```
-  * **Note**: This program maintains two arrays that are _synchronized_ by index. We know that at the same index in both arrays, we will find information that is related to the same planet. With this knowledge, we can devise our algorithm.

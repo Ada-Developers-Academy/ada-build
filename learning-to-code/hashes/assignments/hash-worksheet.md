@@ -40,14 +40,14 @@ puts animals["donkey"]
 
 3.
 ```ruby
-matrix_person = {
-  "punch" => 99,
-  "kick" => 98,
-  "stops_bullets_with_hands" => false
+workout_summary = {
+  "squats" => 99,
+  "lunges" => 98,
+  "yoga" => false
 }
 
-matrix_person["kick"] = 25
-puts matrix_person["kick"]
+workout_summary["lunges"] = 101
+puts workout_summary["lunges"]
 ```
 
 4.
@@ -77,63 +77,38 @@ puts person[:last_name]
 
 6.
 ```ruby
-animal_kingdom = {
-  mammals: ["rats", "dogs", "cats", "humans"],
-  reptiles: ["alligator", "crocodile"],
-  birds: ["crow", "sparrow", "parrot", "hawk", "eagle"]
+human_being = {
+  species: "Sapiens",
+  genus: "Homo",
+  tribe: "Hominini",
+  meaning: "wise man"
 }
 
-puts animal_kingdom.length
-puts animal_kingdom[:mammals].length
-puts animal_kingdom[:reptiles]
-puts animal_kingdom[:birds][2]
-puts animal_kingdom[:mammals][0]
-puts animal_kingdom[:birds].last
-
-animal_kingdom[:mammals] << "bats"
-puts animal_kingdom[:mammals].length
-puts animal_kingdom[:mammals]
+puts human_being.length
+puts "The only living species of genus #{human_being[:genus]} are #{human_being[:species]}."
+puts human_being[:meaning].length
 ```
 
 7.
 ```ruby
-# hash of hashes
-# the value of each key is another hash.
-cookies_menu = {
-  chocolate_chip: {
-    gluten_free: true,
-    dairy_free: false,
-    non_gmo: true,
-    vegan: false,
-    allergens: ["diary", "eggs"]
-  },
-  oatmeal_raisin: {
-    gluten_free: true,
-    dairy_free: true,
-    non_gmo: true,
-    vegan: true,
-    allergens: ["nuts"]
-  }
+oatmeal_raisin = {
+  gluten_free: false,
+  dairy_free: true,
+  non_gmo: true,
+  vegan: true,
+  allergens: "nuts"
 }
 
-puts cookies_menu.length
-puts cookies_menu[:chocolate_chip].length
-puts cookies_menu[:oatmeal_raisin][:vegan]
-puts cookies_menu[:chocolate_chip][:allergens].length
-puts cookies_menu[:chocolate_chip][:allergens]
+puts oatmeal_raisin.length
 
-if cookies_menu[:chocolate_chip][:dairy_free] || cookies_menu[:oatmeal_raisin][:dairy_free]
-  puts "There is a dairy free option in cookies."
+if oatmeal_raisin[:dairy_free]
+  puts "Oatmeal raisin cookies are dairy free."
 end
 
-cookies_menu[:short_bread] = {}
-cookies_menu[:short_bread][:gluten_free] = false
-cookies_menu[:short_bread][:non_gmo] = true
-cookies_menu[:short_bread][:dairy_free] = false
-cookies_menu[:short_bread][:allergens] = ["dairy", "wheat"]
-cookies_menu[:short_bread][:vegan] = false
+oatmeal_raisin[:allergens] += ", soy"
+puts oatmeal_raisin[:allergens]
 
-puts cookies_menu.length
-puts cookies_menu.keys
-puts "Short bread cookies contain wheat" if cookies_menu[:short_bread][:allergens].include? "wheat"
+if !oatmeal_raisin[:gluten_free] || !oatmeal_raisin[:vegan]
+  puts "The oatmeal raisin cookie is either not gluten free or not vegan."
+end
 ```

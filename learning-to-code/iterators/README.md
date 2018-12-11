@@ -225,53 +225,7 @@ The `each` iterator is comprised of three pieces:
 
 We have already seen some examples of `each` iterator on [ranges](#Ranges).
 
-We will discuss _arrays_ in more detail in the lesson to come. For the purpose of understanding how `each` iteration works on arrays, let's consider a couple of examples.
-Here are some examples of arrays:
-```ruby
-  # veggies is an array of strings. Each string holds the value of name of one vegetable
-  veggies = ["carrot", "yam", "zucchini", "spinach"]
-
-  # names is an array of strings. Each string holds the value of name of one person
-  names = ["Rey", "Finn", "Han"]
-
-  # scores is an array of integers. Each element in the array is an integer representing a score.
-  scores = [42, 21, 7, 34, 9, 68]
-```
-
-In the example below, the iterator will iterate over the `veggies` array. For each iteration, the `vegetable` variable will be assigned to the value of the next element in the array, starting with the first.
-
-```ruby
-# An array of veggies
-veggies = ["carrot", "yam", "zucchini", "spinach"]
-
-veggies.each do |vegetable|
-  puts "a vegetable: #{vegetable}"
-end
-```
-output:
-```
-a vegetable: carrot
-a vegetable: yam
-a vegetable: zucchini
-a vegetable: spinach
-```
-
-In the example below, the iterator will iterate over the `names` array. For each iteration, the `name` variable will be assigned to the value of the next element in the array, starting with the first. The block of code will be executed for each name, which will say hello to each person!
-
-```ruby
-# An array of names
-names = ["Rey", "Finn", "Han"]
-
-names.each do |name|
-  puts "Hello #{name}!"
-end
-```
-output:
-```
-Hello Rey!
-Hello Finn!
-Hello Han!
-```
+We will discuss how `each` iterator works with _arrays_ and _hashes_ in the lessons to come.
 
 ### Blocks
 In programming, a *block* is a section of code which is grouped together and intended to be executed if a certain condition is satisfied.
@@ -291,7 +245,7 @@ Example:
    # multiple is an undefined variable
 ```
 
-In Ruby, one way to identify some of the blocks is to identify code statements surrounded by either `do ... end` or `{ }`.
+In Ruby, one way to identify some of the blocks is to identify code statements surrounded by either `do ... end` or `{ }`. Aside: At Ada Developers Academy, we prefer using `do ... end` over `{ }` in our code.
 
 ```ruby
 [1,2,3,4].each do |number|

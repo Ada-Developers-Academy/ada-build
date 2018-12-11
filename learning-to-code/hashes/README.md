@@ -12,7 +12,6 @@ _JumpStart: Lesson 13_
 ## Activities
 * Review the [notes](#notes) in this section
 * Complete [Hash Worksheet](assignments/hash-worksheet.md)
-* Complete the [Planet information assignment](#planet-information-assignment)
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
 * Complete [Account Generator Continued](assignments/account-generator-cont.md)  
 * Complete [Walk-a-thon](assignments/walkathon.md)
@@ -56,7 +55,7 @@ my_dog = {
   "age" => 3
 }
 ```
-The above hash is called `my_dog`. It has three key-value pairs. All the keys are string objects. The values associated with `"name"` and `"breed"` are string objects, `"barkly"` and `"beagle"` respectively. The third key, `"age"` has a value of `2`, which is of type integer. In general, the value may be a more complex data structure and of any data type.
+The above hash is called `my_dog`. It has three key-value pairs. All the keys are string objects. The values associated with `"name"` and `"breed"` are string objects, `"barkly"` and `"spaniel"` respectively. The third key, `"age"` has a value of `2`, which is of type integer. In general, the value may be a more complex data structure and of any data type.
 
 The above hash, `my_dog` uses what is known as the _hash rocket string notation_ approach to defining the hash. In this approach, all keys are _strings_.
 
@@ -171,66 +170,12 @@ puts your_dog.values #=> ["barkly", "beagle", 2]
 ```
 
 
-## Planet Information Assignment
-* Create a hash to maintain the information of the right planets in our solar system.
-  * For each planet, save the following information:
-    * Name of the planet
-    * The position of the planet starting from the sun. e.g. Earth will have the value of 3. Neptune will have the value of 8/
-     The radius of the planet in kms. e.g. for Earth, the value will be 6378.
-  * In a loop, ask the user if they'd like to learn more information on any of the planets and get the planet name from the user. Print out the radius information for the planet entered by the user.
-  * Continue the loop as long as the user responds positively.
-  * Think about your algorithm using paper and pencil before you start coding.
-  * Compare your solution using hashes, with the program you created in the lesson on Arrays.
-  * Here's the information (source: [NinePlanets.org](https://nineplanets.org/data1.html)) of the radius of all planets:
-
-| Name    | Position | Radius |
-| :-----  | :------- | :----- |
-| Mercury | 1        | 2440   |
-| Venus   | 2        | 6052   |
-| Earth   | 3        | 6378   |
-| Mars    | 4        | 3397   |
-| Jupiter | 5        | 71492  |
-| Saturn  | 6        | 60268  |
-| Uranus  | 7        | 25559  |
-| Neptune | 8        | 24766  |
-
-  * Example output:
-      * _Note_: User input is indicated in ~~ (tildes).
-
-```
-Would you like to know about the radius of any planet in our solar system?
-~Y~
-Which planet would you like to learn about?
-~Earth~
-Earth is the 3rd planet from the sun and has a radius of 6378 kms.
-
-Would you like to know about the radius of any planet in our solar system?
-~y~
-Which planet would you like to learn about?
-~mars~
-Mars is the 4th planet from the sun and has a radius of 3397 kms.
-
-Would you like to know about the radius of any planet in our solar system?
-~y~
-Which planet would you like to learn about?
-~milk way~
-Sorry that's not a planet in our solar system!
-Which planet would you like to learn about?
-~nePtune~
-Neptune is the 8th planet from the sun and has a radius of 24766 kms.
-
-Would you like to know about the radius of any planet in our solar system?
-~r~
-Thank you for joining us on learning about the planets.
-```
-
-
 ## Numbers problem assignment
 * Throughout this course we will be working with the **Numbers program**. Here's the fifth version of the program:
   * Leveraging your learnings from the notes you read (different ways of organizing data in arrays and hashes), write a program that does the following:
     * Create a hash.
-      * Add one key-value pair in the hash. The value should be an array of five randomly generated integers between 12 and 21, both inclusive.
-      * Create another key-value pair in the hash. The value should be an array of five positive integers that the program receives as user input, also in the range of 12 and 21, both inclusive.
+      * Add one key-value pair in the hash. The key should be `:random_numbers`. The value should be an array of five randomly generated integers between 12 and 21, both inclusive.
+      * Create another key-value pair in the hash. The key should be `:user_input`. The value should be an array of five positive integers that the program receives as user input, also in the range of 12 and 21, both inclusive.
     * Create a second hash.
       * The keys in this hash are the numbers, either entered by the user or generated randomly by the program.
       * The value holds information of:
