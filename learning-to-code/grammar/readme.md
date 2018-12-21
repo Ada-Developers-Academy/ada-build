@@ -370,5 +370,5 @@ name.concat(" likes to code!") # "Ada Lovelace likes to code!"
     them seem more Hand-made.
     ```
 
-  * Your code should use comments throughout to explain the code, reuse at least one word, and as for at lease 1 number
+  * Your code should use comments throughout to explain the code, reuse at least one word, and ask for at least 1 number
   * Explore Ruby's built in methods for [String](http://ruby-doc.org/core-2.2.0/String.html) like `capitalize`, `downcase`, `upcase`
