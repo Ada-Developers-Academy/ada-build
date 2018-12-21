@@ -1,5 +1,5 @@
 # Learning Styles
-_Jump start: Lesson 1_
+_JumpStart: Lesson 1_
 
 ## Learning goals
 * Explore your learning style

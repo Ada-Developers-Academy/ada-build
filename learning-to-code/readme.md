@@ -1,4 +1,4 @@
-# Ada Developers Academy Jump Start Curriculum
+# Ada Developers Academy JumpStart Curriculum
 
 ## Learning to Code
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data.
