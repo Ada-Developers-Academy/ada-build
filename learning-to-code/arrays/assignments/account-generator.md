@@ -14,16 +14,26 @@ We are going to write a program that generates some student information. This ex
 
 2. Write a `times` loop that asks the user to enter in 5 student names (first and last name) and store those values in the first array in **all uppercase** even if the information is not entered by the user in uppercase.  
 Example output:
-![student names](../images/student-names.png)
+
+| Value |  "ROSIE MARTINEZ"  |  "JOE LIU" |  "SALLY SUE" |  "BOB JOHNSON" | "DELIA AGHO"   |
+| :---- | :-- | :-- | :-- | :-- | :-- |
+| Index | [0] | [1] | [2] | [3] | [4] |
+
 
 3. Write a `times` loop to generate random student ID numbers from 111111 to 999999 and put these values to the student ID number array.  
 Example output:
-![student IDS](../images/student-ids.png)
+
+| Value |  123256  |  349222 | 999999 | 111112 | 726488   |
+| :---- | :-- | :-- | :-- | :-- | :-- |
+| Index | [0] | [1] | [2] | [3] | [4] |
 
 4. Write a `times` loop to generate student email addresses in the format:
   (first inital)+(last name)+(last 3 digits of student ID number)@adadevelopersacademy.org  
   Example output:
-  ![student emails](../images/student-emails.png)
+
+| Value |  "RMARTINEZ256@adadevelopersacademy.org"  |  "JLIU222@adadevelopersacademy.org" |  "SSUE999@adadevelopersacademy.org" |  "BJOHNSON112@adadevelopersacademy.org" | "DAGHO488@adadevelopersacademy.org"   |
+  | :---- | :-- | :-- | :-- | :-- | :-- |
+  | Index | [0] | [1] | [2] | [3] | [4] |
 
 5. Write the code which will print out all the student names, ID numbers, and email addresses in parallel.
 

@@ -1,24 +1,23 @@
 # Programming Expressions
-_Jump start: Lesson 10_
+_JumpStart: Lesson 10_
 
-## Learning goals
+## Learning Goals
 - Understand and be able to use relational operators
 - Understand and be able to use truth tables for logical operators
 - Understand and be able to use conditional statements
 - Understand the control flow of a program
 
 ## Activities
-* Review the notes in this section
+* Review the [notes](#notes) in this section
 * Complete the [practice problems](./practice-problems.md)
-* Complete the candy machine assignment
+* Complete the next version of the [number's assignment](#numbers-problem-assignment)
+* Complete the [candy machine assignment](#candy-machine-assignment)
+* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 2 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day2#lessons)
 
 ## Notes
 ### Relational operators
-* Relational operators allow you to compare two values
-* In ruby you can use relational operators on all numbers and strings, additionally you can use equals and does not equal on arrays and hashes
-* The opposite of `>` is `<=` and the opposite of `<` is `>=`
-* `=` is the assignment operator, which is very different than `==` which is the equality operator
-* The result of a relational operator is either `true` or `false`, also known as a boolean
+* Relational operators allow you to compare two values.
+* Here is a list of different relational operators:
 
 | __Operator__ | __Description__ | __Example__ | __Result__ |
 | :--- | :--- | :--- | :--- |
@@ -29,12 +28,17 @@ _Jump start: Lesson 10_
 | `<=` | less than or equal to | `126 <= 100` | `false` |
 | `>=` | greater than or equal to | `5.0 >= 5.0` | `true` |
 
+* In Ruby, you can use relational operators on all numbers and strings. Additionally you can use equals and does not equal on arrays and hashes. (Note: We'll learn more about *Arrays* and *Hashes* later in this curriculum.)
+* The opposite of `>` (greater than) is `<=` (less than or equal to). Similarly, the opposite of `<` (less than) is `>=` (greater than or equal to).
+* `=` is the assignment operator, which is very different than `==` which is the equality operator.
+* The result of a relational operator is either `true` or `false`, also known as a boolean.
+
 #### Boolean values
 * The two possible values of a boolean data type are `true` and `false`
 * A non-boolean value that evaluates to true, is called "truthy"
-  * Everything in ruby is "truthy" except for `nil` 
+  * Everything in Ruby is "truthy" except for `nil`
 * A non-boolean value that evaluates to false, is called "falsey", also sometimes "falsy"
-  * `nil` is the only "falsey" value in ruby
+  * `nil` is the only "falsey" value in Ruby
 
 ### Logical operators
 Logical operators allow you to combine or modify boolean expressions.
@@ -59,23 +63,28 @@ Logical operators allow you to combine or modify boolean expressions.
 
 
 ### Conditionals
-Conditional statements allow your programs to take different paths based on different inputs. You have already seen some version of conditional statements if you have ever seen a [flow diagram](./images/flow-control.png).
+Conditional statements allow your programs to take different paths based on different inputs. You have already seen some version of conditional statements if you have ever seen a flow diagram like the one below.
 
-To create conditional statements use `if`, `elsif`, and `else` to control the flow of a program. It is important to property indent conditional statements. Indentation is not required for a program to execute it is absolutely necessary to be able to correctly read your program.
+![flow diagram](./images/flow-control.png).
+
+To create conditional statements use `if`, `elsif`, and `else` to control the flow of a program. It is important to property indent conditional statements. Indentation is not required for a program to execute, however, it is absolutely necessary to be able to correctly read your program.
 
 #### Syntax
 ```ruby
 if <boolean expression>
   # conditional body
   # this code only executes if the <boolean expression> evaluates as true
+  # the conditional body is indented one more than the if and end statements
 end
 ```
 
 ```ruby
 if <boolean expression>
   # conditional body
+  # the conditional body is indented one more than the if, else and end statements
 else
   # else body
+  # the else body is indented one more than the if, else and end statements
 end
 ```
 
@@ -128,6 +137,25 @@ end
 puts "Thanks for playing the favorite animal game!"
 ```
 
+## Numbers problem assignment
+* Throughout this course we will be working with the **Numbers program**. Here's the second version of the program:
+  * Leveraging your learnings from the notes you read, write a program that does the following:
+    *  Do the following three times:
+      * Ask the user to input a positive integer value
+      * If the number is greater than or equal to 20, display a message to share so and a different message otherwise.
+    * Example output:
+        * *Note*: User input is indicated in ~~ (tildes).
+
+```
+   This program will ask you to enter numbers and share if the number is less than 20.
+   Enter the 1st number: ~34~
+   34 is greater than or equal to 20.
+   Enter the 2nd number: ~20~
+   20 is greater than or equal to 20.
+   Enter the 3rd number: ~12~
+   12 is less than 20.
+```
+
 ## Candy machine assignment
 
 ### Overview
@@ -142,7 +170,7 @@ This challenge is to build a computer candy machine. You’ve got some money and
 
 ### Example output
 ```
-Welcome to Ada's Computer Candy Machine!
+Welcome to Ada Developers Academy's Computer Candy Machine!
 (All candy provided is virtual.)
 
 How much money do ya got? > $1.00
@@ -164,7 +192,7 @@ Please take your candy, and your $0.25 change!
 
 
 ```
-Welcome to Ada’s Computer Candy Machine!
+Welcome to Ada Developers Academy’s Computer Candy Machine!
 (All candy provided is virtual.)
 
 How much money do ya got? > $0.50

@@ -1,6 +1,6 @@
 # Array Worksheet
 
-Read the code in each section, then write exactly what the code prints out.
+Read the code in each section, then write exactly what you think the code will print out. Save the problem in a _.rb_ file using Atom. Run the ruby file on the terminal and compare your answer with what you see on the terminal.
 
 Each problem stands alone. Variables from previous problems do not exist.
 

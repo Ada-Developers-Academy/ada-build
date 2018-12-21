@@ -1,5 +1,5 @@
 # Terminal
-_Jump start: Lesson 6_
+_JumpStart: Lesson 6_
 
 ## Learning Goals
 - Understand the terms `Terminal`, `command line`, `commands`
