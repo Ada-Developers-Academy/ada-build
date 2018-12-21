@@ -1,7 +1,7 @@
-# Ada Developers Academy Jump Start Curriculum
+# Ada Developers Academy JumpStart Curriculum
 
 ## Preparing for Ada
-These lessons will expose you to our core values, help you identify your learning styles, and teach you the art of problem solving
+These lessons will expose you to our core values, help you identify your learning styles, and teach you the art of problem solving.
 
 | Order | Lesson |
 | :--- | :--- |

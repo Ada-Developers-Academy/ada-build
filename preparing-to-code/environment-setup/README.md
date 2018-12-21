@@ -1,5 +1,5 @@
 # Environment Setup
-_Jump start: Lesson 7_
+_JumpStart: Lesson 7_
 
 ## Learning Goals
 * To setup a development environment
@@ -28,10 +28,11 @@ The purpose of these notes is to help you install and configure the software we 
 
 * [OS X El Capitan] (https://support.apple.com/en-us/HT206886) or newer ([macOS Sierra] (https://support.apple.com/en-us/HT208202) or [macOS High Sierra](https://www.apple.com/macos/high-sierra/))
 * [Xcode Command Line Tools](#xcode-command-line-tools)
-* [Google Chrome (web browser)](https://www.google.com/chrome/browser/desktop/index.html)
-* [Atom (text editor)](https://atom.io/)
-* [Ruby Version Manager (rvm) (package manager)](https://rvm.io/)
-* [Ruby (latest stable version of Ruby)](https://www.ruby-lang.org/en/)
+* [Google Chrome (web browser)](#google-chrome)
+* [Atom (text editor)](#atom)
+* [Homebrew Package Manager](#homebrew-packager-manager)
+* [Ruby Version Manager (rvm) (package manager)](#ruby-version-manager)
+* [Ruby (latest stable version of Ruby)](#ruby)
 
 #### _macOS High Sierra_, _macOS Sierra_, or _OS X El Capitan_
 _macOS_ (previously called _OS X_ and _Mac OS X_) is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the three most recent versions are _macOS High Sierra_, _macOS Sierra_, and _OS X El Capitan_. For Ada, your computer must be running one of these versions of macOS/OS X, with preference given to _El Capitan_.
@@ -60,7 +61,7 @@ We will use the Chrome web browser by Google in class, because it provides more 
 * Drag Chrome to your dock
 
 #### Atom
-At Ada we will be using [Atom](https://atom.io/), a text editor, to write our code.
+At Ada Developers Academy, we will be using [Atom](https://atom.io/), a text editor, to write our code.
 
 ##### Atom installation steps
 * Navigate to the [Atom](https://atom.io/) website
@@ -69,7 +70,7 @@ At Ada we will be using [Atom](https://atom.io/), a text editor, to write our co
 * Drag Atom to your dock and open it up
 * Navigate to the Atom menu (at the top of your screen) and select _Install Shell Commands_.
 
-#### Homebrew Packager Manager
+#### Homebrew Package Manager
 
 [Homebrew Package Manager](http://brew.sh) makes it easy to install a variety of software packages, and is used by the following Ruby Version Manager (rvm).  
 
