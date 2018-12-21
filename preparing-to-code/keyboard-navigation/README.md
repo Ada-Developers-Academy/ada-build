@@ -1,5 +1,5 @@
 # macOS Keyboard navigation
-_Jump start: Lesson 4_
+_JumpStart: Lesson 4_
 
 _Note: You can postpone this lesson until you have a Mac computer_
 
@@ -8,7 +8,7 @@ _Note: You can postpone this lesson until you have a Mac computer_
 * Understand why and how to utilize multiple tabs, application windows, and desktops
 * Start using application shortcuts and hotkeys
 * Effectively find applications, folders, and files
-* Effectively manage open applications 
+* Effectively manage open applications
 
 ## Overview
 Most software developers rely heavily on their keyboards and less so on their pointing devices (e.g., mouse, trackpad). This lesson will help you get comfortable using your keyboard to navigate in macOS.

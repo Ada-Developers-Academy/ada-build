@@ -1,5 +1,5 @@
 # Practice problems
-_Jump start: Lesson 9_
+_JumpStart: Lesson 9_
 
 ## Overview
 Complete each section by hand, then check your answers using `irb`
@@ -43,10 +43,10 @@ m = 3
 n = j + k + m
 # what value does n now hold?
 
-p = "moo"
+l = "moo"
 q = "quack"
-p  = q
-# what value does p now hold?
+l  = q
+# what value does l now hold?
 
 r = "moo"
 s = "quack"
@@ -122,12 +122,12 @@ i = 1.5
 | 8 % 1 | | | |
 
 ## String practice
-Determine the output of slice on your own and then check your answer using `irb`
- 
+Determine the output for each of the following problems on your own and then check your answer using `irb`
+
 ```ruby
 # problem 1
 my_string = "I love Seattle"
-my_string.slice(7) 
+my_string.slice(7)
 
 # problem 2
 my_string = "I love Seattle"
@@ -139,7 +139,7 @@ my_string.slice("Seattle")
 
 # problem 4
 my_string = "Ada"
-my_string + " Lovelace"
+my_string += " Lovelace"
 
 # problem 5
 my_string = "Ada"
@@ -162,14 +162,18 @@ my_string = "Hello world!"
 my_string.slice(0) << "i" + "!"
 
 # problem 10
-my_string = "I love ruby"
-my_string.slice(7, 4).concat(my_string.slice(2...6)) + my_string.slice(0)
+my_string = "I love Ruby"
+my_string.slice(7, 4).concat(my_string.slice(2..5)) + my_string.slice(0)
 
 # problem 11
-my_string = "I love ruby"
-"R".concat(my_string.slice(8, 3) + " rocks!")
+my_string = "I love Ruby"
+my_string.slice(7, 4).concat(my_string.slice(2...6)) + my_string.slice(0)
 
 # problem 12
-my_string = "I love ruby"
+my_string = "I love Ruby"
+"R".concat(my_string.slice(8, 3) + " rocks!")
+
+# problem 13
+my_string = "I love Ruby"
 my_string.slice(2, 4) << my_string.slice(7...11).concat(my_string.slice(2...6))
 ```

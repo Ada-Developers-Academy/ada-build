@@ -1,5 +1,5 @@
 # Practice problems
-_Jump start: Lesson 10_
+_JumpStart: Lesson 10_
 
 ## Conditional practice
 1. Use your new knowledge of conditionals to recreate this flow control diagram using conditionals in code.  
