@@ -227,14 +227,14 @@ String interpolation allows Ruby code to appear within a string. The code is eva
  puts "1 + 2 = #{1 + 2}"    # prints 1 + 2 = 3
 
  num = 9
- puts "My lucky number is #{9}." # prints My lucky number is 9.
+ puts "My lucky number is #{num}." # prints My lucky number is 9.
 
  str = "hello"
 
  # string interpolation can be used with double quotes
- puts "#{str} world" # prints hello world
+ puts "#{str}, world" # prints hello, world
  # string interpolation cannot be used with single quotes
- puts '#{str} world' # prints #{str} world
+ puts '#{str}, world' # prints #{str}, world
  ```
 
 #### Common Escape Sequences
