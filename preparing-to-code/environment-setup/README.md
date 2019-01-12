@@ -30,7 +30,7 @@ The purpose of these notes is to help you install and configure the software we 
 * [Xcode Command Line Tools](#xcode-command-line-tools)
 * [Google Chrome (web browser)](#google-chrome)
 * [Atom (text editor)](#atom)
-* [Homebrew Package Manager](#homebrew-packager-manager)
+* [Homebrew Package Manager](#homebrew-package-manager)
 * [Ruby Version Manager (rvm) (package manager)](#ruby-version-manager)
 * [Ruby (latest stable version of Ruby)](#ruby)
 
