@@ -33,7 +33,7 @@ When you are writing code, it is good to have a folder structure which is logica
 1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your home directory and end with `/ada/jumpstart`.
 
 ### The Command Line
-As a programmer, you should become fluent with your computer's __command line__, in O SX that command line application is called __Terminal__. To get started find the application named 'Terminal', add it to your dock, and then open it.
+As a programmer, you should become fluent with your computer's __command line__, in OSX that command line application is called __Terminal__. To get started find the application named 'Terminal', add it to your dock, and then open it.
 
 #### Terminal Terminology
 |  Term | Definition |
@@ -65,7 +65,7 @@ Try out these commands first, and record what happened.
 
 | Command | What happened? |
 | :--- | :--- |
-| `ls -a .` | | 
+| `ls -a .` | |
 | `man ls` | |
 | `q` | |
 | `pwd` | |
@@ -74,7 +74,7 @@ Try out these commands first, and record what happened.
 | `cd ..` | |
 | `cd -` | |
 
-Then use `man` to explore these commands.
+Then use `man` to explore these commands.  For example try `man ls` in terminal.  You can exit with the `q` key.
 
 | Command | Explanation |
 | :--- | :--- |
@@ -84,8 +84,8 @@ Then use `man` to explore these commands.
 | `cd` | Change Directory: Move to a different location, all further commands execute at that location |
 | `mkdir` | Make Directory: Create a new directory with the name specified |
 | `touch` | Create new file or update timestamp of existing file: If the file argument does not exist, create it as an empty  |file. If the file argument does exist, 'touch' it's timestamp (last modified date/time) to be the current date/time. |
-| `cp` | Copy: Copy argument1 to argument2 |
-| `mv` | Move: Move argument1 to argument2 (removes argument1). This is like renaming. |
+| `cp` | Copy file: Copy argument1 to argument2 |
+| `mv` | Move file: Move argument1 to argument2 (removes argument1). This can be used for renaming. |
 | `rm` | Remove: Delete the file or folder passed to `rm` |
 | `less` | Print the contents of the argument to the screen with the ability to scroll through (also [`more`; less is more, more or less](https://en.wikipedia.org/wiki/Less_(Unix))) |
 | `cat` | Print the contents of the argument to the screen (no scrolling) |
