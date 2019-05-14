@@ -65,7 +65,7 @@ Try out these commands first, and record what happened.
 
 | Command | What happened? |
 | :--- | :--- |
-| `ls -a .` | | 
+| `ls -a .` | |
 | `man ls` | |
 | `q` | |
 | `pwd` | |
@@ -84,8 +84,8 @@ Then use `man` to explore these commands.  For example try `man ls` in terminal.
 | `cd` | Change Directory: Move to a different location, all further commands execute at that location |
 | `mkdir` | Make Directory: Create a new directory with the name specified |
 | `touch` | Create new file or update timestamp of existing file: If the file argument does not exist, create it as an empty  |file. If the file argument does exist, 'touch' it's timestamp (last modified date/time) to be the current date/time. |
-| `cp` | Copy: Copy argument1 to argument2 |
-| `mv` | Move: Move argument1 to argument2 (removes argument1). This is like renaming. |
+| `cp` | Copy file: Copy argument1 to argument2 |
+| `mv` | Move file: Move argument1 to argument2 (removes argument1). This can be used for renaming. |
 | `rm` | Remove: Delete the file or folder passed to `rm` |
 | `less` | Print the contents of the argument to the screen with the ability to scroll through (also [`more`; less is more, more or less](https://en.wikipedia.org/wiki/Less_(Unix))) |
 | `cat` | Print the contents of the argument to the screen (no scrolling) |
