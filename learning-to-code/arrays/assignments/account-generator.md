@@ -7,10 +7,10 @@ We are going to write a program that generates some student information. This ex
 1. You will start by creating three arrays:
     - An array that will contain student names
     - An array that will store student ID numbers
-    - An array that will contain student email addresses   
+    - An array that will contain student email addresses
 
     **Note** Make sure to name your variables appropriately so that it is easy to deduce the information stored in each array and that this information is not singular. e.g.  
-    `flowers = ["lily", "rose", "gardenia", "daisy"] vs. flower = "tulip"`
+    `flowers = ["lily", "rose", "gardenia", "daisy"]` vs. `flower = "tulip"`
 
 2. Write a `times` loop that asks the user to enter in 5 student names (first and last name) and store those values in the first array in **all uppercase** even if the information is not entered by the user in uppercase.  
 Example output:
