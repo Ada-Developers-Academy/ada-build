@@ -32,19 +32,19 @@ In Addition, these compiled and interpreted languages can be divided into dynami
 
 ### Ruby
 
-Ruby is a high-level, dynamically typed language.  Ruby is different than other programming languages. It was written with human communication in mind, rather than computer optimization. Its creator wanted to create a programming language that was fun for programmers. Ruby is a programming language which was created to make developers have fun and be productive at the same time. Ruby was first written in 1993 by [Yukihiro "Matz" Matsumoto](https://twitter.com/yukihiro_matz). _"Ruby is for People. I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language."_ - Matz
+[Ruby](https://www.ruby-lang.org/en/) is a high-level, dynamically typed language.  Ruby is different than other programming languages. It was written with human communication in mind, rather than computer optimization. Its creator wanted to create a programming language that was fun for programmers. Ruby is a programming language which was created to make developers have fun and be productive at the same time. Ruby was first written in 1993 by [Yukihiro "Matz" Matsumoto](https://twitter.com/yukihiro_matz). _"Ruby is for People. I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language."_ - Matz
 
 ![Matz with Puppet Matz in 2014](https://pbs.twimg.com/media/B2575XuCIAE4BNB.jpg)
 
 ### HTML & CSS
 
-HTML (Hyper-Text Markup Language) is a [markup language](https://en.wikipedia.org/wiki/Markup_language). CSS (Cascading Style Sheets) is a [style sheet language](https://en.wikipedia.org/wiki/Style_sheet_language). These two technologies work together for structuring and styling the content on a web page.
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) (Hyper-Text Markup Language) is a [markup language](https://en.wikipedia.org/wiki/Markup_language). CSS (Cascading Style Sheets) is a [style sheet language](https://en.wikipedia.org/wiki/Style_sheet_language). These two technologies work together for structuring and styling the content on a web page.
 
 You can think of the HTML as the "skeleton" of a web page. The set up, and structure for how each piece is organized. The CSS is the "clothes" of the skeleton. How each piece looks, colors, sizes, styles and relationship to other elements on the page.
 
 ### JavaScript
 
-JavaScript is a dynamically typed and interpreted programming language. JavaScript is used along side HTML and CSS as one of the most important languages in web programming. In many applications, we use JavaScript to provide a more dynamic and responsive experience for the end user.
+[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) is a dynamically typed and interpreted programming language. JavaScript is used along side HTML and CSS as one of the most important languages in web programming. In many applications, we use JavaScript to provide a more dynamic and responsive experience for the end user.
 
 ### Frameworks
 
