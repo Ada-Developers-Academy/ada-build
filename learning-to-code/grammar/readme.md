@@ -1,7 +1,9 @@
 # Programming Grammar
+
 _JumpStart: Lesson 9_
 
 ## Learning Goals
+
 * Understand different data types (string, integer, float)
 * Be able to use variables
 * Be able to print
@@ -10,12 +12,15 @@ _JumpStart: Lesson 9_
 * Practice writing and debugging Ruby code
 
 ## Activities
+
 * Review [notes](#notes) within this section
 * Watch [Video: Now we're programming!](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df0c8ab-64fc-4186-a9e2-a8c4014a4b4b)
 * Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
 * Complete the [MadLib assignment](#madlib-assignment)
 * [Optional] For additional learning and practice, look at the lessons and exercises of [Day 1 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day1#lessons)
+
+<!-- TODO Update Video Link -->
 
 ## Notes
 
@@ -204,9 +209,10 @@ Strings in Ruby are objects that hold a sequence of characters. You can create a
 > *Classes* usually provide some functionality that allow for different operations on the data in the objects.
 > Whilst we will learn more on *classes* and *objects* later during
 > our classroom curriculum, do take a look at the *methods available
-> in the String class* here: https://ruby-doc.org/core-2.4.0/String.html
+> in the String class* here: https://ruby-doc.org/core-2.6.3/String.html
 
 The String class in Ruby provides some useful methods.
+
 ```ruby
 # ask the user for the name of a state
 puts "What is state do you live in?"
@@ -221,6 +227,7 @@ puts "#{state_name} is a nice place to live!"
 If you use double quotes, you can also use string interpolation and escape sequences. If you use single quotes you cannot use string interpolation, and you can only use the escape sequence `\\`.
 
 #### String Interpolation
+
 String interpolation allows Ruby code to appear within a string. The code is evaluated, and the result appears in the string.
 
 ```ruby
@@ -256,6 +263,7 @@ String interpolation allows Ruby code to appear within a string. The code is eva
  ```
 
 #### String Concatenation
+
 * When combining strings, you can use the `+` operator, or the `<<` operator
 * When using the `+` operator, Ruby creates a new string in memory, when using `<<` Ruby modifies the original string (this is super important when working with lots of data! Knowing whether you need to save the orginal string unaltered is important. `+` is super slow).
 
@@ -292,7 +300,9 @@ puts output
 ```
 
 #### % Notation
+
 The % notation is a method for creating arrays of strings.
+
 * Use %w to create a non-interpolated array of strings
 * Use %W to create an interpolated array of strings
 
@@ -306,9 +316,10 @@ oranges = 2
 ```
 
 #### Slicing
+
 `slice` allows you to split a string into smaller pieces. The output from slice is either a string, or `nil`. When using slice, you can pass a single number, two numbers, or a range. String indexes start at 0 (not 1).
 
-##### Example
+##### Slicing Example
 
 ```ruby
 name = "Ada Lovelace"
@@ -319,12 +330,15 @@ name.slice(0...8) # "Ada Love"
 name.slice("ace") # "ace"
 name.slice("Seattle") # nil
 ```
+
 **Note**: As you can see in the examples above, in programming, we start counting with 0. The index of the first character in the string is always 0.
 
 #### Concatenation
+
 Concatenation allows you to combine strings. There are three ways to concatenate `+`, `<<`, and `.concat`.
 
 ##### Example
+
 ```ruby
 name = "Ada Lovelace"
 name + " codes it!" # "Ada Lovelace codes it!"
@@ -333,15 +347,17 @@ name.concat(" likes to code!") # "Ada Lovelace likes to code!"
 ```
 
 ## Numbers problem assignment
+
 * Throughout this course we will be working with the **Numbers program**. Here's the first version:
   * Leveraging your learnings from the notes you read, write a program that does the following:
-    *  Do the following three times:
+    * Do the following three times:
       * Ask the user to input a positive integer value
       * Convert the user input to an integer and save the value in a variable.
     * Add 20 to each of the three numbers and print this new value for each to the console. The output should look something like `Twenty added to the numbers you entered gives us 24, 73 and 42.`
 
 
 ## MadLib assignment
+
 * Write a MadLib program
   * First play a few on [eduplace](https://www.eduplace.com/tales/) to become familiar with the game
   * Create a MadLib program that accepts input from the user and outputs a completed MadLib
@@ -371,4 +387,4 @@ name.concat(" likes to code!") # "Ada Lovelace likes to code!"
     ```
 
   * Your code should use comments throughout to explain the code, reuse at least one word, and ask for at least 1 number
-  * Explore Ruby's built in methods for [String](http://ruby-doc.org/core-2.2.0/String.html) like `capitalize`, `downcase`, `upcase`
+  * Explore Ruby's built in methods for [String](http://ruby-doc.org/core-2.6.3/String.html) like `capitalize`, `downcase`, `upcase`
