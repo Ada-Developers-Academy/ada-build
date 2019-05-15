@@ -25,6 +25,7 @@ _JumpStart: Lesson 9_
 ## Notes
 
 ### Comments
+
 Comments allow you to leave notes along with your code. These notes will help you when you return to your code later, as well as anyone else that looks at your code. Beginning a line using the `#` character is a comment. Comments are not executed and are ignored when running your program. Following Ruby style guidelines, it is good practice to enter a space following `#`.
 
 #### Example
@@ -41,6 +42,7 @@ puts "But this isn't."
 ```
 
 ### Data types
+
 | Data Type | Description | Example |
 | :--- | :--- | :--- |
 | String | Anything surrounded by single or double quotes | `"hello"`, `'hello'` |
@@ -59,6 +61,7 @@ puts "But this isn't."
 
 
 #### Determining the type
+
 To determine the type of an object you can use `.class`
 
 ```ruby
@@ -70,6 +73,7 @@ puts word.class # String
 ```
 
 ### Mathematical operations
+
 | Operation | Ruby symbol | Example |
 | :--- | :--- | :--- |
 | addition |  `+` | `2 + 3` |
@@ -79,10 +83,12 @@ puts word.class # String
 | remainder (modulus) | `%` | `15 % 5` |
 
 #### Important notes
+
 * Integer division (division involving only integers) results in the decimal result being truncated (everything after the decimal is lost). Whenever a float is involved (even only one) than the decimal is not truncated.
 * Modulus (or mod, for short) returns the remainder of dividing one number by another number. e.g. `15 % 10` will return `5`.
 
 ### Precedence
+
 Also commonly called order-of-operations, is the order in which operations are completed.
 
 | __Priority__ | __Operation__ |
@@ -97,9 +103,11 @@ Also commonly called order-of-operations, is the order in which operations are c
 | 8 | or |
 
 ### Assignment Statements
+
 In programming, we often need to save values. We may want to refer to the values later, or only have to do a calculation once. Variables have a name and a value. We assign a value to a variable using an assignment statement. Assignment statements are read from right-to-left, not from left-to-right. Use phrases like _assigns_, or _stores the value_, instead of _equals_, or _equal to_.
 
 #### Examples
+
 As you go through the examples below, read the comments to understand how to talk in programming terms.
 
 ```ruby
@@ -134,9 +142,11 @@ cat_age  = 11
 ```
 
 #### Compound assignment statements
+
 It is possible to perform an operation and assign a value all in the same step. To add and assign you can use `+=`, to subtract and assign you can use `-=`, to divide and assign you can use `/=` and to multiply and assign you can use `*=`.
 
 ##### Examples
+
 `x += 3`  assigns the value of `x + 3` to the variable `x`  
 `x += y + 3` assigns the value of `x + (y + 3)` to the variable `x`  
 `x -= 2`  assigns the value of `x – 2` to the variable `x`  
@@ -146,15 +156,19 @@ It is possible to perform an operation and assign a value all in the same step. 
 `x %= y`  assigns the value of `x % y` to the variable `x`  
 
 ### Keyboard Input
+
 Keyboard input is a way to accept input from the user, when running the program in the terminal.
 
 #### `gets`
+
 `gets` accepts a single line of data from the keyboard. A line is something that ends in `\n`. `gets` is short for _get string_ which means whatever the user enters (even if it is a number) will be stored as a string.
 
 #### `chomp`
+
 When the user enters the data and then presses enter (or return) a `\n` (also called a newline character) is added to the end of the line. In some cases, you don't want this character at the end, `chomp` removes that newline character.
 
 #### `puts`
+
 As we saw in our first, `hello, world` program, `puts` allows us to output a statement on the terminal. `puts` is short for _put string_ which outputs a single line of string to the terminal followed by newline character.
 
 ```ruby
@@ -178,9 +192,11 @@ name = gets.chomp
 ```
 
 ### Converting user input
+
 `gets` gives you back a string, no matter what the user enters, even if they enter a number. Two common methods for converting that string into a number are `to_i` and `to_f`.
 
 #### `to_i`
+
 Converts a string into an `integer` (e.g., ..., 2, -1, 0, 1, 2, ...). If there is not a valid `integer` at the beginning of the string, then `0` is given instead. Any extra characters at the end that are not part of the `integer` are ignored.
 
 ```ruby
@@ -191,6 +207,7 @@ puts "a".to_i # prints 0
 ```
 
 #### `to_f`
+
 Converts a string into a `float`, which is a decimal value. If there is not a valid `float` at the beginning of the string, then `0.0` is given instead. Any extra characters at the end that are not part of the `float` are ignored.
 
 ```ruby
@@ -202,6 +219,7 @@ puts "a".to_f   # prints 0.0
 ```
 
 ### Strings
+
 Strings in Ruby are objects that hold a sequence of characters. You can create a string by surrounding the sequence of characters with double or single quotes, both `"hello"` and `'hello'` are strings.
 
 > **Aside**: Almost every data in Ruby is saved as *objects*.
@@ -337,7 +355,7 @@ name.slice("Seattle") # nil
 
 Concatenation allows you to combine strings. There are three ways to concatenate `+`, `<<`, and `.concat`.
 
-##### Example
+##### Example Concatenation
 
 ```ruby
 name = "Ada Lovelace"
@@ -356,7 +374,7 @@ name.concat(" likes to code!") # "Ada Lovelace likes to code!"
     * Add 20 to each of the three numbers and print this new value for each to the console. The output should look something like `Twenty added to the numbers you entered gives us 24, 73 and 42.`
 
 
-## MadLib assignment
+## MadLib Assignment
 
 * Write a MadLib program
   * First play a few on [eduplace](https://www.eduplace.com/tales/) to become familiar with the game
