@@ -1,7 +1,9 @@
 # Arrays
+
 _JumpStart: Lesson 12_
 
 ## Learning Goals
+
 - Vocabulary: data structure, array, index, value
 - To understand what a data structure is and how it can be used
 - To be able to create a new array
@@ -9,6 +11,7 @@ _JumpStart: Lesson 12_
 - To be able to add data to an array
 
 ## Activities
+
 * Review the [notes](#Notes) in this section
 * Complete the [Array Worksheet](assignments/array-worksheet.md)
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
@@ -16,7 +19,9 @@ _JumpStart: Lesson 12_
 * [Optional] For additional learning and practice, look at the lessons and exercises of [Day 5 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day5#lessons)
 
 ## Notes
+
 ### Overview
+
 Arrays are the most common data type used to create collections in Ruby.
 
 An `Array` is an _ordered_ collection of objects.
@@ -27,9 +32,11 @@ Array Example:
 ```
 
 ### Creating Arrays
+
 An array can be created to be empty to begin with or with an initial set of values. Regardless of whether we are creating an empty array or an array with data, there are two different ways to create a new Array.
 
 ### Empty
+
 In the first way, we initialize an empty `Array` by using `[]`. An array can be assigned to a variable like any other data type:
 
 ```ruby
@@ -45,6 +52,7 @@ my_array = Array.new
 ```
 
 ### With Data
+
 We can utilize the syntax for both of the above to initialize a new Array _with data_.
 
 ```ruby
@@ -64,6 +72,7 @@ default_array # => ["def", "def", "def"]
 ```
 
 ### Indices
+
 Arrays are integer-indexed starting at __zero__. All counting in computer science [begins with zero](http://skillcrush.com/2013/01/17/why-programmers-start-counting-at-zero/). This means that **each item** in the array corresponds to an **integer value**, and that integer is used to access an object within the `Array`. The first object is at index 0, the second object is at index 1 and so on.
 
 ```ruby
@@ -106,6 +115,7 @@ puts default_array # => ["def", "def", "def"]
 
 
 ### Data Types
+
 Arrays can store all sorts of data including but not limited to integers, floats and strings. In Ruby, it is not a requirement that all items stored in the Array be of the same type. i.e. you may create an Array with string as the first element, an integer as the second element and so on. Often times, however, to solve a problem, a programmer may choose to make an array of the same data type.
 
 ```ruby
@@ -120,6 +130,7 @@ random = [7, "fourteen", 13.2, "horse", 1]
 ```
 
 ### Data Assignment
+
 Arrays allow you to assign and reassign values within an array.
 
 Each spot in the array acts like a variable. You can see what object is referenced by a particular index in the array. You can also change a particular index to refer to a different object.
@@ -197,6 +208,7 @@ cats.last # => "grumpy"
 ```
 
 ### Looping over an array
+
 Earlier, in the lesson on iterators, we looked at how different iterators and loops work. Now, let's take a closer look at how loops or iterators work together with Arrays.
 
 Let's consider some examples of arrays:
@@ -212,6 +224,7 @@ Let's consider some examples of arrays:
 ```
 
 #### Times loop and Arrays
+
 Recall the `.times` loop from the previous lesson.
 
 We can leverage the fact that the `.times` loop with index begins counting at `0` and the index of the first element in an array is also `0`. Combining this knowledge and utilizing the in-built method in Arrays to get the count of elements in the array, `.length`, we can retrieve the value of each element in the array like so:
@@ -252,6 +265,7 @@ Hello Han!
 
 
 #### .Each Iterator and Arrays
+
 In the previous lesson, we looked at how `.each` iterator could work over a Range. We can also use the `.each` iterator to retrieve the value of each element in a collection like Arrays.
 
 In the example below, the `.each` iterator will iterate over the `veggies` array. For each iteration, the `vegetable` variable will be assigned to the value of the next element in the array, starting with the first.
@@ -291,23 +305,30 @@ Hello Han!
 
 
 ## Numbers problem assignment
-* Throughout this course we will be working with the **Numbers program**. Here's the fourth version of the program:
-  * Leveraging your learnings from the notes you read (use at least two different types of loops, and an array to hold information), write a program that does the following:
-    * Ask the user for the count of numbers.
-    * Create an array to hold the numbers that the user will input
-    * Do the following count number of times:
-      * Ask the user to input a positive integer value
-      * Save the user input as an integer value into the next location in the array.
-    * Go through each value in the array and compare each value to the last number entered by the user. Based on the comparison print the following:
-      * If the value in the array is less than the value of the last number entered, print to the terminal that the value at that index is less than the value at the last index.
-      * If the value in the array is greater than the value of the last number entered, print to the terminal that the value at that index is greater than the value at the last index.
-      * If the value in the array is equal to the value of the last number entered, print to the terminal that the value at that index is equal to the value at the last index.
-    * Print the following three to the terminal:
-      * The minimum value in the array. _Note_: The minimum value is the lowest value in the array.
-      * The maximum value in the array. _Note_: The maximum value is the highest value in the array.
-      * The average of all the elements in the array. _Note_: The average is calculated as the _(the sum of elements) / (the count of all elements)_.
-    * Example output:
-        * _Note_: User input is indicated in ~~ (tildes).
+
+Throughout this course we will be working with the **Numbers program**. Here's the fourth version of the program:
+
+### Numbers Program v4 Requirements
+
+Leveraging your learnings from the notes you read (use at least two different types of loops, and an array to hold information), write a program that does the following:
+
+- Ask the user for the count of numbers.
+  - Create an array to hold the numbers that the user will input
+- Do the following count number of times:
+  - Ask the user to input a positive integer value
+  - Save the user input as an integer value into the next location in the array.
+  - Go through each value in the array and compare each value to the last number entered by the user. Based on the comparison print the following:
+    - If the value in the array is less than the value of the last number entered, print to the terminal that the value at that index is less than the value at the last index.
+    - If the value in the array is greater than the value of the last number entered, print to the terminal that the value at that index is greater than the value at the last index.
+    - If the value in the array is equal to the value of the last number entered, print to the terminal that the value at that index is equal to the value at the last index.
+- Print the following three to the terminal:
+  - The minimum value in the array. _Note_: The minimum value is the lowest value in the array.
+  - The maximum value in the array. _Note_: The maximum value is the highest value in the array.
+  - The average of all the elements in the array. _Note_: The average is calculated as the _(the sum of elements) / (the count of all elements)_.
+  
+**Example output:**
+
+__Note_: User input is indicated in ~~ (tildes)__.
 
 ```
    Let's play a numbers game. How many numbers would you like to enter?
