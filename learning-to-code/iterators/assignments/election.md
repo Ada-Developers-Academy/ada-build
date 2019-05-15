@@ -1,12 +1,16 @@
 # Assignment: Election Time
+
 You are going to create an electronic election program that tracks votes, total votes, and determines a winner.
 
 ## Primary Requirements
+
 Create an election program that accepts input from the user and outputs the winner of the election
+
   - *Input*: Poll 10 people for their election vote
   - *Output*: Print the total votes cast as well as the winner of the election
 
 ## Example Output
+
 Below is an example program output. User input is indicated in &lt;&gt; (angle brackets).
 
 ```
@@ -34,7 +38,9 @@ Below is an example program output. User input is indicated in &lt;&gt; (angle b
 
   WINNER: Minnie Mouse!
 ```
+
 ## Optional Enhancements
+
 Some of these enhancements are better solved after having knowledge from [lesson 12](https://github.com/Ada-Developers-Academy/jump-start/tree/master/learning-to-code/arrays), so you can try some and then come back and do others after lesson 12.
 
 - Handle ties for a winner appropriately
