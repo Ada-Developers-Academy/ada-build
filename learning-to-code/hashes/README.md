@@ -70,7 +70,7 @@ The above hash is called `my_dog`. It has three key-value pairs. All the keys ar
 
 The above hash, `my_dog` uses what is known as the _hash rocket notation_ approach to defining the hash. In this approach, all keys are _strings_.
 
-The keys in a hash are not expected to change through the lifetime of the program. Therefore, instead of using _strings_ for hash keys, using _symbols_ is more efficient. _Symbols_ are more efficient because they are memory-efficient and are often faster to retrieve in a Ruby program. This is why [Rubyist often prefer the _symbol notation_ to define a hash](https://github.com/rubocop-hq/ruby-style-guide#symbols-as-keys) over the _hash rocket string notation_. Below is an example of a hash defined by using the _symbol notation_:
+The keys in a hash are not expected to change through the lifetime of the program. Therefore, instead of using _strings_ for hash keys, using _symbols_ is more efficient. _Symbols_ are more efficient because they are often faster to retrieve in a Ruby program and consume less memory. This is why [Rubyist often prefer the _symbol notation_ to define a hash](https://github.com/rubocop-hq/ruby-style-guide#symbols-as-keys) over the _hash rocket string notation_. Below is an example of a hash defined by using the _symbol notation_:
 
 ```ruby
 your_dog = {
@@ -92,7 +92,7 @@ your_dog[:age] = 2
 your_dog[:gibberish] # will have a value of nil
 ```
 
-The above example uses _symbols_ to define the keys. Keys must be consistently _symbols_ or _strings_.
+The above example uses _symbols_ to define the keys. Keys are normally _symbols_ or _strings_.
 
 ```ruby
 my_hash = Hash.new("def")
