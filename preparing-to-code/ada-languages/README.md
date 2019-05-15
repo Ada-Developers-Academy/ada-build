@@ -44,7 +44,7 @@ You can think of the HTML as the "skeleton" of a web page. The set up, and struc
 
 ### JavaScript
 
-[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) is a dynamically typed and interpreted programming language. JavaScript is used along side HTML and CSS as one of the most important languages in web programming. In many applications, we use JavaScript to provide a more dynamic and responsive experience for the end user.
+[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) is a another high-level dynamically typed language. JavaScript is used along side HTML and CSS as one of the most important languages in web programming. In many applications, we use JavaScript to provide a more dynamic and responsive experience for the end user.
 
 ### Frameworks
 
