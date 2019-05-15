@@ -13,12 +13,12 @@ _JumpStart: Lesson 13_
 
 ## Activities
 
-* Review the [notes](#notes) in this section
-* Complete [Hash Worksheet](assignments/hash-worksheet.md)
-* Complete the [Numbers problem assignment](#numbers-problem-assignment)
-* Complete [Account Generator Continued](assignments/account-generator-cont.md)  
-* Complete [Walk-a-thon](assignments/walkathon.md)
-* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 6 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day6#lessons)
+- Review the [notes](#notes) in this section
+- Complete [Hash Worksheet](assignments/hash-worksheet.md)
+- Complete the [Numbers problem assignment](#numbers-problem-assignment)
+- Complete [Account Generator Continued](assignments/account-generator-cont.md)  
+- Complete [Walk-a-thon](assignments/walkathon.md)
+- [Optional] For additional learning and practice, look at the lessons and exercises of [Day 6 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day6#lessons)
 
 ## Notes
 
@@ -27,6 +27,7 @@ _JumpStart: Lesson 13_
 A `Hash` is another very popular collection type in Ruby. It is similar to an Array, except that indexing is done via unordered _keys_ of any object type, and _not an ordered integer index_. `Hash` is a useful data structure to consider if you are looking to organize data in a way that makes it easy to look up information for a certain _key_.
 
 Below is an example of a `hash` in Ruby with two keys and values associated with each of the two keys.
+
 ```ruby
 { "key1" => "key1sAssociatedValue", "key2" => "key2sAssociatedValue"}
 ```
@@ -65,9 +66,9 @@ my_dog = {
 }
 ```
 
-The above hash is called `my_dog`. It has three key-value pairs. All the keys are string objects. The values associated with `"name"` and `"breed"` are string objects, `"barkly"` and `"spaniel"` respectively. The third key, `"age"` has a value of `2`, which is of type integer. In general, the value may be a more complex data structure and of any data type.
+The above hash is called `my_dog`. It has three key-value pairs. All the keys are string objects. The values associated with `"name"` and `"breed"` are string objects, `"barkly"` and `"spaniel"` respectively. The third key, `"age"` has a value of `3`, which is of type integer. In general, the value may be a more complex data structure and of any data type.
 
-The above hash, `my_dog` uses what is known as the _hash rocket string notation_ approach to defining the hash. In this approach, all keys are _strings_.
+The above hash, `my_dog` uses what is known as the _hash rocket notation_ approach to defining the hash. In this approach, all keys are _strings_.
 
 The keys in a hash are not expected to change through the lifetime of the program. Therefore, instead of using _strings_ for hash keys, using _symbols_ is more efficient. _Symbols_ are more efficient because they are memory-efficient and are often faster to retrieve in a Ruby program. This is why [Rubyist often prefer the _symbol notation_ to define a hash](https://github.com/rubocop-hq/ruby-style-guide#symbols-as-keys) over the _hash rocket string notation_. Below is an example of a hash defined by using the _symbol notation_:
 
