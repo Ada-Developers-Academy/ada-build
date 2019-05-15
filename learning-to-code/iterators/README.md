@@ -5,6 +5,7 @@ _JumpStart: Lesson 11_
 ## Learning Goals
 
 By the end of this lesson you should be able to:
+
 - Discuss the following vocabulary
   - loops
   - iterator
