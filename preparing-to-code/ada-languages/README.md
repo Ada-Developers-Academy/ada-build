@@ -52,7 +52,7 @@ Frameworks allow us to leverage the hard work of the software developers that ca
 
 ### Ruby on Rails
 
-[Ruby on Rails](https://guides.rubyonrails.org/), or Rails for short, is a Model-View Controller (MVC) framework which provides the default database, web service and web pages. Ruby on Rails allows software developers to create an entire web application.
+[Ruby on Rails](https://guides.rubyonrails.org/), or Rails for short, is a [Model-View Controller](https://en.wikipedia.org/wiki/Model-view-controller) (MVC) framework which provides the default database, web service and web pages. Ruby on Rails allows software developers to create an entire web application.
 
 ### ReactJS
 
