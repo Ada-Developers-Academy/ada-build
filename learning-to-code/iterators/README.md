@@ -1,13 +1,29 @@
 # Loops and Iterators
+
 _JumpStart: Lesson 11_
 
 ## Learning Goals
-- Vocabulary: loops, iterator, iteration, iteration variable, counter-controlled, sentinel-controlled, loop table, times loop, range, while loop, blocks, scope
-- To know the purpose for iteration in creating programs
-- To write loops in order to prevent code duplication and repetition
-- To understand how a loop will execute the statements inside and what the resulting output will be
+
+By the end of this lesson you should be able to:
+- Discuss the following vocabulary
+  - loops
+  - iterator
+  - iteration
+  - iteration variable
+  - counter-controlled
+  - sentinel-controlled
+  - loop table
+  - times loop
+  - range
+  - while loop
+  - blocks
+  - scope
+- Know the purpose for iteration in creating programs
+- Write loops in order to prevent code duplication and repetition
+- Understand how a loop will execute the statements inside and what the resulting output will be
 
 ## Activities
+
 * Review the [notes](#notes) in this section
 * Complete [Loops Worksheet](assignments/loops-worksheet.md)
 * Complete [More Loops Worksheet](assignments/more-loops-worksheet.md)
@@ -16,10 +32,13 @@ _JumpStart: Lesson 11_
 * [Optional] For additional learning and practice, look at the lessons and exercises of [Day 3 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day3#lessons) and [Day 4 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day4#lessons)
 
 ## Notes
+
 ### Loops
+
 Loops are programming constructs that help you repeat a code action a certain number of times based on the algorithmic logic, without needing to copy and paste the code. Another term for a **loop** is **iteration**. All high-level programming languages provide various forms of loops, which can be used to execute one or more statements repeatedly.
 
 For example, if we wanted to print out "hello" five hundred times, we could write:
+
 ```ruby
 puts "hello! "
 puts "hello! "
@@ -30,12 +49,15 @@ puts "hello! "
 ```
 
 Using a loop, we could re-write this as:
+
 ```ruby
 500.times do
   puts "hello! "
 end
 ```
+
 The above program leverages the `times` loop, which is a counter-controlled loop as we will soon see. The same loop may be written using different programming constructs and syntax. For example, we could achieve the same result using a `while` loop, which is a sentinel-controlled loop, as we will soon see. Here's a program using a `while`  loop to achieve the same result:
+
 ```ruby
 i = 0
 while i < 500
@@ -53,6 +75,7 @@ There are 2 categories of loops:  **counter-controlled** and **sentinel-controll
 There are four types of loops in Ruby that we will start with: `times`, `range-each`, `while`, and `until`.
 
 #### Times
+
 You use the `times` iterator to run a block of code `n` times.
 
 You can use a `times` loops with or without an _iteration variable_. This variable is denoted between the vertical bars (pipe character) `|` and is used to store data associated with the iteration.
@@ -84,6 +107,7 @@ output:
 **Note**: As you can see in the example above, in programming, we start counting with 0. The first time the loop executes, the value of the iteration variable will be 0.
 
 #### Ranges
+
 The main use of ranges is to express a sequence. Sequences have a start point, an end point, and a way to produce successive values in the sequence.
 
 Ruby creates these sequences using the `..` and `...` range operators. The two-dot form creates an _inclusive_ range, while the three-dot form creates a range that _excludes_ the specified high value. The `each` loop using a range uses an _iteration variable_, `num` in this example.
@@ -121,6 +145,7 @@ The above code will output the following:
 ```
 
 #### While Loops
+
 The `while` loop is useful when you want to continue doing an action while a certain condition is `true` but you may not know how many times you'll need to complete that action. It is an example of a _sentinel-controlled loop_. As soon as the condition stops being true, the loop will terminate.
 
 ```ruby
@@ -165,8 +190,8 @@ while again == "yes"
 end
 ```
 
-
 #### Until Loops
+
 The `until` loop acts as an inverse of the `while` loop. The loop will execute _until_ the condition evaluates as `true`.
 
 
@@ -214,6 +239,7 @@ puts "You guessed it!"
 ```
 
 ### Each
+
 The `each` iterator is used on a collection of data, like a Range, Array or Hash. We have already come across Range and we will learn more about Arrays and Hashes in later lessons. This iterator will iterate over each element of the collection, one by one, and provide access to each element using the _iteration variable_. The `each` iterator will continue to execute until it has reached the end of the collection.
 
 The `each` iterator is comprised of three pieces:
@@ -228,6 +254,7 @@ We have already seen some examples of `each` iterator on [ranges](#Ranges).
 We will discuss how `each` iterator works with _arrays_ and _hashes_ in the lessons to come.
 
 ### Blocks
+
 In programming, a *block* is a section of code which is grouped together and intended to be executed if a certain condition is satisfied.
 
 A variable defined inside a block is only available within the block and not outside. In other words, the definition of the variable is _scoped_ to the block.
@@ -267,17 +294,21 @@ end
 
 `number` is the _block argument_, this means that objects given to the block are going to be assigned to the `number` variable within the scope of the block. When the code in the block finishes execution, the block arguments are _out of scope_.
 
+## Numbers Problem v3
 
-## Numbers problem assignment
-* Throughout this course we will be working with the **Numbers program**. Here's the third version of the program:
-  * Leveraging your learnings from the notes you read (use at least one loop), write a program that does the following:
-    * Ask the user for the count of numbers.
-    * Do the following count number of times:
-      * Ask the user to input a positive integer value
-      * If the number is divisible by 3, display a message to share so and a different message otherwise.
-    * Once you have a working program, refactor your code to use a different type of loop. e.g. if you used a `while` loop to begin with, change it to an `times` loop with iteration variable.
-    * Example output:
-        * _Note_: User input is indicated in ~~ (tildes).
+Throughout this course we will be working with the **Numbers program**. Here's the third version of the program:
+
+Leveraging your learnings from the notes you read (use at least one loop), write a program that does the following:
+
+* Ask the user for the count of numbers.
+  * Do the following count number of times:
+    * Ask the user to input a positive integer value
+    * If the number is divisible by 3, display a message to share so and a different message otherwise.
+* Once you have a working program, refactor your code to use a different type of loop. e.g. if you used a `while` loop to begin with, change it to an `times` loop with iteration variable.
+
+
+Example output:
+_Note_: User input is indicated in ~~ (tildes).
 
 ```
    Let's play a numbers game. How many numbers would you like to enter?
