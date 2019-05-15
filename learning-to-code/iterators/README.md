@@ -25,12 +25,12 @@ By the end of this lesson you should be able to:
 
 ## Activities
 
-* Review the [notes](#notes) in this section
-* Complete [Loops Worksheet](assignments/loops-worksheet.md)
-* Complete [More Loops Worksheet](assignments/more-loops-worksheet.md)
-* Complete the [Numbers problem assignment](#numbers-problem-assignment)
-* Complete [Election Time assignment](assignments/election.md)
-* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 3 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day3#lessons) and [Day 4 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day4#lessons)
+- Review the [notes](#notes) in this section
+- Complete [Loops Worksheet](assignments/loops-worksheet.md)
+- Complete [More Loops Worksheet](assignments/more-loops-worksheet.md)
+- Complete the [Numbers problem assignment](#numbers-problem-assignment)
+- Complete [Election Time assignment](assignments/election.md)
+- [Optional] For additional learning and practice, look at the lessons and exercises of [Day 3 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day3#lessons) and [Day 4 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day4#lessons)
 
 ## Notes
 
@@ -82,6 +82,7 @@ You use the `times` iterator to run a block of code `n` times.
 You can use a `times` loops with or without an _iteration variable_. This variable is denoted between the vertical bars (pipe character) `|` and is used to store data associated with the iteration.
 
 In the example below, `n` is equal to three. This example _does not_ use an iteration variable.
+
 ```ruby
 3.times do
   puts "hello! "
@@ -95,6 +96,7 @@ hello!
 ```
 
 In the example below, `n` is equal to two. This example _does_ use an iteration variable, `i`, which will correspond to value of the iteration.
+
 ```ruby
 2.times do |i|
   puts i
@@ -105,6 +107,7 @@ output:
 0
 1
 ```
+
 **Note**: As you can see in the example above, in programming, we start counting with 0. The first time the loop executes, the value of the iteration variable will be 0.
 
 #### Ranges
@@ -166,6 +169,7 @@ The above code will output the values of i until i is no longer less than 4, res
 2
 3
 ```
+
 Here's the loop table for the above program:
 
 | Iteration | i | i < 4 | Output |
@@ -180,6 +184,7 @@ You can read the condition and execution of the `while` loop as _while condition
 
 Another example of `while` loop:
 This loop repeats while the user enters "yes".
+
 ```ruby
 again = "yes"
 
@@ -244,11 +249,30 @@ puts "You guessed it!"
 The `each` iterator is used on a collection of data, like a Range, Array or Hash. We have already come across Range and we will learn more about Arrays and Hashes in later lessons. This iterator will iterate over each element of the collection, one by one, and provide access to each element using the _iteration variable_. The `each` iterator will continue to execute until it has reached the end of the collection.
 
 The `each` iterator is comprised of three pieces:
+
 1. The collection to be iterated
 2. The _iteration variable_ to store each value
 3. The block of code to be executed in the iteration
 
-**Note**: With the `times` loop, the value of the _iteration variable_ begins at `0` and increments by one in each subsequent iteration to the next value: `0`, `1`, `2` and so on. In the `each` iterator, the value of the _iteration variable_ begins with the value of first element in the range or array or collection and then moves on to the value of the next element in the range or array or collection as we will see in examples below.
+**Note**: With the `times` loop, the value of the _iteration variable_ begins at `0` and increments by one in each subsequent iteration to the next value: `0`, `1`, `2` and so on. In the `each` iterator, the value of the _iteration variable_ begins with the value of first element in the range or array or collection and then moves on to the value of the next element in the range or array or collection as we will see in example below.
+
+```ruby
+list = ['Ada', 'Grace', 'Charles']
+
+list.each do |person|
+  puts person
+end
+```
+
+The above program results in:
+
+```bash
+Ada
+Grace
+Charles
+```
+
+As the loop above runs `person` becomes the 1st, then 2nd and then 3rd element of the array.
 
 We have already seen some examples of `each` iterator on [ranges](#Ranges).
 
@@ -261,6 +285,7 @@ In programming, a *block* is a section of code which is grouped together and int
 A variable defined inside a block is only available within the block and not outside. In other words, the definition of the variable is _scoped_ to the block.
 
 Example:
+
 ```ruby
    i = 0
    while i < 4 do
@@ -273,7 +298,7 @@ Example:
    # multiple is an undefined variable
 ```
 
-In Ruby, one way to identify some of the blocks is to identify code statements surrounded by either `do ... end` or `{ }`. Aside: At Ada Developers Academy, we prefer using `do ... end` over `{ }` in our code.
+In Ruby, one way to identify some of the blocks is to identify code statements surrounded by either `do ... end` or `{ }`. _Aside:_ At Ada Developers Academy, we prefer using `do ... end` over `{ }` in our code.
 
 ```ruby
 [1,2,3,4].each do |number|
@@ -293,7 +318,7 @@ Block arguments are defined using a pair of `|` (pipe) characters. For example:
 end
 ```
 
-`number` is the _block argument_, this means that objects given to the block are going to be assigned to the `number` variable within the scope of the block. When the code in the block finishes execution, the block arguments are _out of scope_.
+`number` is the _block argument_, this means that objects given to the block are going to be assigned to the `number` variable within the scope of the block. When the code in the block finishes execution, the block arguments are _out of scope_, and no longer available to the program.
 
 ## Numbers Problem v3
 
