@@ -16,4 +16,6 @@
 | Prints the total earned, including 1.5 times for hours worked over 40, unless the hours worked exceeds 60 | 
 | If hours worked exceeds 60, not including 60 print `please see manager` |
 
+## Summary
+
 
