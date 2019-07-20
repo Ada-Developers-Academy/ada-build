@@ -2,7 +2,7 @@
 
 | Requirement | Comments
 |---|---
-| Well formatted code | 
+| Well formatted code |  
 | Evaluate a number greater than 70 |  
 | Prompt for string, prints Go for green, otherwise STOP | 
 | Even or Odd Number detection | 
@@ -17,5 +17,4 @@
 | If hours worked exceeds 60, not including 60 print `please see manager` |
 
 ## Summary
-
 
