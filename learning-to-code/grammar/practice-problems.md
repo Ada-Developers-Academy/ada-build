@@ -1,7 +1,9 @@
 # Practice problems
+
 _JumpStart: Lesson 9_
 
 ## Overview
+
 Complete each section by hand, then check your answers using `irb`
 
 ## Variables and assignment practice
@@ -86,6 +88,7 @@ hh = zz % 3
 ```
 
 ## Operators practice
+
 Consider the following variable assignments and then fill in the tables
 
 ```ruby
@@ -122,6 +125,7 @@ i = 1.5
 | 8 % 1 | | | |
 
 ## String practice
+
 Determine the output for each of the following problems on your own and then check your answer using `irb`
 
 ```ruby

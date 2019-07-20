@@ -22,6 +22,8 @@ _JumpStart: Lesson 9_
 
 <!-- TODO Update Video Link -->
 
+<!-- TODO Update Video Link -->
+
 ## Notes
 
 ### Comments
