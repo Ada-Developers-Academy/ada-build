@@ -18,7 +18,9 @@ _JumpStart: Lesson 9_
 * Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
 * Complete the [MadLib assignment](#madlib-assignment)
-* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 1 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day1#lessons)
+* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 1 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day1#lessons).  
+
+<!-- TODO Update Video Link -->
 
 <!-- TODO Update Video Link -->
 
