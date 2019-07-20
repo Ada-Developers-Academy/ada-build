@@ -1,7 +1,9 @@
 # Assignment: Walk-a-thon
+
 You are going to create a program for tracking a walk-a-thon.
 
 ## Primary Requirements
+
 1. Create a walk-a-thon program that accepts the following _input_ from the user:
     - Earning goal for the walk-a-thon
     - Amount earned per lap completed (per person)
@@ -12,6 +14,7 @@ You are going to create a program for tracking a walk-a-thon.
     - Whether or not the earning goal was met
 
 ## Example Output
+
 Below is an example program output. User input is indicated in ~~ (tildes).
 
 ```
@@ -40,6 +43,7 @@ Goal Met? NO :-(
 ```
 
 ## Optional Enhancements
+
 - Display all money formatted to two decimal places
 - Display by how much the goal was missed by or was beaten by, in the event that the goal was not achieved exactly (e.g. "The goal was missed by $217.50")
 - Display multiple walkers as highest earning, in the event of a tie for highest earners
