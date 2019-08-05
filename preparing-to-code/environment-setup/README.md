@@ -18,7 +18,7 @@ _JumpStart: Lesson 7_
 
 ### Interactive Ruby
 
-Interactive Ruby (`irb`) is a computer program that allows the user to enter Ruby code and get results of that code immediately. It is a feature known as a REPL(read, evaluate, print loop). These kinds of programs are great for trying out new commands, practicing syntax, and evaluating solutions to small problems. It's one of the two primary ways to use Ruby to interact with a computer. The other is to put Ruby code into a file and then ask the computer to read and execute the code in the file. We will do lots of both.
+Interactive Ruby (`irb`) is a computer program that allows the user to enter Ruby code and get results of that code immediately. It is a feature known as a REPL (read, evaluate, print loop). These kinds of programs are great for trying out new commands, practicing syntax, and evaluating solutions to small problems. It's one of the two primary ways to use Ruby to interact with a computer. The other is to put Ruby code into a file and then ask the computer to read and execute the code in the file. We will do lots of both.
 
 ### Text Editors
 
@@ -37,10 +37,10 @@ The purpose of these notes is to help you install and configure the software we 
 * [Google Chrome (web browser)](#google-chrome)
 * [VS Code (text editor)](#vscode)
 * [Homebrew Package Manager](#homebrew-package-manager)
-* [Ruby Version Manager (rvm) (package manager)](#ruby-version-manager)
-* [Ruby (latest stable version of Ruby)](#ruby)
+* [RuBy ENVironment (rbenv) (package manager)](#ruby-environment)
+* [Ruby (2.5.5)](#ruby)
 
-#### _macOS High Sierra_, _macOS Sierra_, or _OS X El Capitan_
+#### _macOS Mojave_, _macOS High Sierra_, or _macOS Sierra_
 
 _macOS_ (previously called _OS X_ and _Mac OS X_) is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the three most recent versions are _macOS Mojave_, _macOS High Sierra_, and _macOS Sierra_. For Ada, your computer must be running one of these versions of macOS/OS X, with preference given to _Mojave_.
 
@@ -70,18 +70,6 @@ We will use the Chrome web browser by Google in class, because it provides more 
 * Open the downloaded application package and follow the instructions
 * Drag Chrome to your dock
 
-#### VS Code
-
-At Ada Developers Academy, we will be using [Visual Studio Code](https://code.visualstudio.com/), a text editor, to write our code.  It is a popular code editor and has a number of features for debugging, and using Git.
-
-##### VS Code installation steps
-
-* Navigate to the [VS Code](https://code.visualstudio.com/) website
-* Download the zip to your Applications folder
-* Unzip the folder, by double-clicking, or right-click _Open_
-* Drag VS Code to your Applications folder and open it up
-* Press `F1` and type `Shell Command: install 'code' command in PATH`.  This will allow you to invoke VS code from the terminal. 
-
 #### Homebrew Package Manager
 
 [Homebrew Package Manager](http://brew.sh) makes it easy to install a variety of software packages, and is used by the following Ruby Version Manager (rvm).  
@@ -94,28 +82,41 @@ You may need to enter your computer password to complete the installation.
 
 Run `$ brew doctor`. Brew is super great at telling you what else it may need. Sometimes there are file permissions to fix. Sometimes there's a warning that can be ignored. If there's anything ever wrong with Brew, `brew doctor` will usually be able to tell you what it is and how to fix it.
 
+#### VS Code
 
-#### Ruby Version Manager
+At Ada Developers Academy, we will be using [Visual Studio Code](https://code.visualstudio.com/), a text editor, to write our code.  It is a popular code editor and has a number of features for debugging, and using Git.
 
-[Ruby Version Manager (rvm)](https://rvm.io/) makes it easy to install, manage, and switch between Ruby versions. _rvm_ is a _package manager_; it's software to help us install other software. Most _package managers_ are just for installing, updating, and removing software packages, but _rvm_ has a lot of really useful features specifically for working with Ruby that we'll use throughout Ada.
+##### VS Code installation steps
 
-Installing _rvm_ is done in the Terminal: `\curl -sSL https://get.rvm.io | bash -s stable`
+* Install via Homebrew.  Run: `brew cask install visual-studio-code`.  This will install Visual Studio Code in your Applications folder.
+* Open up VS Code.  (You should be able to open it just like the Terminal now.)
+* Press `F1` and type `Shell Command: install 'code' command in PATH`.  This will allow you to invoke VS code from the terminal. 
+
+#### RuBy ENVironment
+
+[RuBy ENVironment (rbenv)](https://github.com/rbenv/rbenv) makes it easy to install manage and switch between Ruby versions.  Like Homebrew `rbenv` is a _package manager_; it's software to help us install other software.  Most _package managers_ are just for installing, updating, and removing software packages, but _rvm_ has a lot of really useful features specifically for working with Ruby that we'll use throughout Ada.
+
+##### Installation
+
+To install `rbenv` using Homebrew run: `brew install rbenv` and then run `echo 'exec "$("rbenv init -)' >> ~/.bash_profile`.
 
 The installation won't take long. When it's done, **close your Terminal (⌘-Q)** and then reopen it. You can find the ⌘ or 'Command' key next to your spacebar.    On a Mac pressing both command and 'Q' will quit the active application.
 
-Verify all's well by running `$ rvm -v`. You should see something like `RVM version 1.29.8 (latest)`.
+Verify all's well by running `$ rbenv -v`. You should see something like `rbenv 1.1.2`.
 
 #### Ruby
 
 Finally! Whew! Ruby is the first programming language we'll learn in the classroom. It's also my personal favorite, but that's just a happy accident.
 
-Now that we've got _rvm_ handy, we can install Ruby by typing the following into our terminal: `rvm install 2.5.5`
+Now that we've got _rbenv_ handy, we can install Ruby by typing the following into our terminal: `rbenv install 2.5.5`
 
 <!-- ![Installing Ruby with rvm](../images/ruby-install.png) -->
 
-Installing Ruby can take awhile, so feel free to take a break or go for a walk while _rvm_ gets things sorted. In short, _rvm_ will download the ruby version you specified (2.5.5), compile it (prepare it to work specifically on your computer's hardware), install the compiled code in the right place, and do some housekeeping in the (really likely) chance you'll encounter/create code that requires a different Ruby version.
+Installing Ruby can take awhile, so feel free to take a break or go for a walk while _rbenv_ gets things sorted. In short, _rbenv_ will download the ruby version you specified (2.5.5), compile it (prepare it to work specifically on your computer's hardware), install the compiled code in the right place, and do some housekeeping in the (really likely) chance you'll encounter/create code that requires a different Ruby version.
 
-When it's done, you can verify that everything succeeded by typing `$ ruby -v` into your terminal. The return should say something like `ruby 2.5.5p111 (2018-04-22 revision 53290) [x86_64-darwin16]`.
+When it's done, we need to tell _rbenv_ that we want to use Ruby 2.5.5 everywhere so run `rbenv global 2.5.5` to let it know.  (This won't produce any output.)
+
+You can verify that everything succeeded by typing `$ ruby -v` into your terminal. The return should say something like `ruby 2.5.5p157 (2019-03-15 revision 67260) [x86_64-darwin18]`.
 
 ##### References
 
