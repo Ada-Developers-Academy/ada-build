@@ -26,6 +26,10 @@ A text editor is a computer program that allows you to create and edit files tha
 
 Text editors are commonly used by web designers and developers because it provides maximum flexibility to create just about anything. A text editor is not the same thing as an integrated development environment(IDE). While almost every IDE has the capability of creating and editing plain text documents, they also include a wealth of other features and powerful capabilities.
 
+As the installfest below illustrates, we use [Visual Studio Code](https://code.visualstudio.com/) as our official text editor at Ada.  In the future all projects will be written in VS Code while you can use IRB to experiment with short snippets of code.  
+
+**NOTE** VS Code has a terminal screen.  We ask you **not** to use it.  Instead maintain a separate terminal window when you write code at Ada.  It will help with your workflow.  
+
 ## Installfest
 
 In the Ada Textbook curriculum we have an [installfest](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/00-programming-fundamentals/installfest.md) prepared which will walk you throug installing all the software required to start at Ada.
