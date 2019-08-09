@@ -36,7 +36,7 @@ As the installfest below illustrates, we use [Visual Studio Code](https://code.v
 
 In the Ada Textbook curriculum we have an [installfest](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/00-programming-fundamentals/installfest.md) prepared which will walk you through installing all the software required to start at Ada.
 
-#### _macOS High Sierra_, _macOS Sierra_, or _OS X El Capitan_
+#### _macOS Mohave_, _macOS High Sierra_, _macOS Sierra_, or _OS X El Capitan_
 
 _macOS_ (previously called _OS X_ and _Mac OS X_) is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the three most recent versions are _macOS Mojave_, _macOS High Sierra_, and _macOS Sierra_. For Ada, your computer must be running one of these versions of macOS/OS X, with preference given to _Mojave_.
 
