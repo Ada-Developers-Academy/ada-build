@@ -32,7 +32,9 @@ As the installfest below illustrates, we use [Visual Studio Code](https://code.v
 
 ## Installfest
 
-In the Ada Textbook curriculum we have an [installfest](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/00-programming-fundamentals/installfest.md) prepared which will walk you throug installing all the software required to start at Ada.
+### Installing Homebrew, Ruby, VS Code & Git
+
+In the Ada Textbook curriculum we have an [installfest](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/00-programming-fundamentals/installfest.md) prepared which will walk you through installing all the software required to start at Ada.
 
 #### _macOS High Sierra_, _macOS Sierra_, or _OS X El Capitan_
 
