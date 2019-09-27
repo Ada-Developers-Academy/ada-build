@@ -48,17 +48,6 @@ To check your version of macOS/OS X, click the Apple icon at the far left edge o
 
 If your Mac isn't running _Mojave_, _High Sierra_, or _Sierra_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
 
-#### Google Chrome
-
-We will use the Chrome web browser by Google in class, because it provides more developer tools for us to use.
-
-##### Google Chrome installation steps
-
-* Download [Chrome](https://www.google.com/chrome/browser/desktop/index.html) to your Applications folder
-* Open the downloaded application package and follow the instructions
-* Drag Chrome to your dock
-
-
 ##### References
 
 * [A Convincing Case for Visual Studio Code](https://blog.bitsrc.io/a-convincing-case-for-visual-studio-code-c5bcc18e1693)
