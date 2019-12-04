@@ -36,9 +36,11 @@ As the installfest below illustrates, we use [Visual Studio Code](https://code.v
 
 In the Ada Textbook curriculum we have an [installfest](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/00-programming-fundamentals/installfest.md) prepared which will walk you through installing all the software required to start at Ada.
 
-#### _macOS Mojave_, _macOS High Sierra_, _macOS Sierra_, or _OS X El Capitan_
+**Make sure to complete the installfest exercise linked above**
 
-_macOS_ (previously called _OS X_ and _Mac OS X_) is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... I don't even know. Anyway, the three most recent versions are _macOS Mojave_, _macOS High Sierra_, and _macOS Sierra_. For Ada, your computer must be running one of these versions of macOS/OS X, with preference given to _Mojave_.
+#### _macOS Catalina_, _macOS Mojave_, and _macOS High Sierra_
+
+_macOS_ (previously called _OS X_ and _Mac OS X_) is the name of the operating system found on Apple computers. Apple likes to give the versions of their operating systems odd names. They used to be big cats (Cheetah, Puma, Jaguar, Panther, Tiger, Leopard, Snow Leopard, Lion, and Mountain Lion). Now it's... location in California... whatever. Anyway, the three most recent versions are _macOS Catalina_, _macOS Mojave_, and _macOS High Sierra_. For Ada, your computer must be running one of these versions of macOS/OS X, with preference given to _Catalina_.
 
 To check your version of macOS/OS X, click the Apple icon at the far left edge of toolbar at the top of the screen. From there, choose _About This Mac_. That'll open a window with lots and lots of information about your computer. Right at the top, in big type, is the current version of macOS/OS X.
 
@@ -46,7 +48,7 @@ To check your version of macOS/OS X, click the Apple icon at the far left edge o
 
 ![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/macos-high-sierra-about-this-mac-overview-version-build.jpg)
 
-If your Mac isn't running _Mojave_, _High Sierra_, or _Sierra_, please use the App Store to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__. Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
+If your Mac isn't running _Catalina_, _Mojave_, or _High Sierra_, please use the App Store or System Preferences to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__.  More recent versions of macOS can be updated by going to system preferences, the grey gearboxes, and selecting _Software Update_.  Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
 
 ##### References
 
