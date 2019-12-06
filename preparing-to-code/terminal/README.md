@@ -169,6 +169,7 @@ Each practice example will first list the `commands` followed by the `directory 
     $ touch songs/song2.md
     $ touch songs/song10.md
     $ rm songs/*1*
+    $ cd songs
     $ cp song2.md song3.md
     $ touch song4.md
     $ mv song4.md song1.md
