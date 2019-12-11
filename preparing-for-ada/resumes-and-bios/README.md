@@ -1,6 +1,6 @@
 # Bio & Resume
 
-Another piece of pre-ada work is preparing a short biographical introduction (1-2 paragraphs) and a resume illustrating work and educational experience.  
+Another piece of pre-ada work is preparing a short biographical introduction (1-2 paragraphs) and a resume illustrating work and educational experience.  This information is shared with our company partners for internships.
 
 ## Bio
 
