@@ -9,3 +9,4 @@ These lessons will expose you to our core values, help you identify your learnin
 | 00 | [Social Justice](./social-justice/) |
 | 01 | [Learning Styles](./learning-styles/) |
 | 02 | [Problem Solving](./problem-solving/) |
+| 03 | [Resumes and Bios](./resumes-and-bios/README.md) |
