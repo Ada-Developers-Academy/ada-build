@@ -14,3 +14,4 @@ Please also submit a short resume with your recent work history and educational 
 
 - [Example Resume](example-resume.md)
 - [Example Bio](example-bio.md)
+- [Alternative Bio](alternative-bio.md)
