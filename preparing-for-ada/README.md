@@ -5,9 +5,7 @@ These lessons will expose you to our core values, help you identify your learnin
 
 | Order | Lesson                                 |
 | :---- | :------------------------------------- |
-| -1    | [Applying to Ada](./applying-to-ada)   |
-| 00    | [Social Justice](./social-justice/)    |
-| 01    | [Learning Styles](./learning-styles/)  |
-| 02    | [Problem Solving](./problem-solving/)  |
-| 03    | [Resume & Bio](./resume-bio/README.md) |
+| 00    | [Applying to Ada](./applying-to-ada)   |
+| 01    | [Problem Solving](./problem-solving/)  |
+| 02    | [Resume & Bio](./resume-bio/README.md) |
 
