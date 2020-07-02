@@ -15,7 +15,7 @@ By the end of this lesson you should be able to:
 
 * Review the [notes](#notes) in this section
 * Complete the [practice problems](./practice-problems.md)
-* Complete the next version of the [numbers assignment](#numbers-problem-assignment)
+* Complete the next version of the [number's assignment](#numbers-problem-assignment-v2)
 * Complete the [candy machine assignment](#candy-machine-assignment)
 * [Optional] For additional learning and practice, look at the lessons and exercises of [Day 2 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day2#lessons)
 
