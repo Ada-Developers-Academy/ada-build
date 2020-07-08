@@ -5,7 +5,7 @@ _JumpStart: Lesson 7_
 ## Learning Goals
 
 * To setup a development environment
-* Gain confidence in using interactive Ruby (`irb`)
+* Gain confidence in using the Python REPL
 * Gain confidence in using VS Code
 
 ## Activities
@@ -16,9 +16,9 @@ _JumpStart: Lesson 7_
 
 ## Notes
 
-### Interactive Ruby
+### Python REPL
 
-Interactive Ruby (`irb`) is a computer program that allows the user to enter Ruby code and get results of that code immediately. It is a feature known as a REPL(read, evaluate, print loop). These kinds of programs are great for trying out new commands, practicing syntax, and evaluating solutions to small problems. It's one of the two primary ways to use Ruby to interact with a computer. The other is to put Ruby code into a file and then ask the computer to read and execute the code in the file. We will do lots of both.
+Python provides an interactive computer program that allows the user to enter Python code and get results of that code immediately. It is a feature known as a REPL(read, evaluate, print loop). These kinds of programs are great for trying out new commands, practicing syntax, and evaluating solutions to small problems. It's one of the two primary ways to use Python to interact with a computer. The other is to put Python code into a file and then ask the computer to read and execute the code in the file. We will do lots of both.
 
 ### Text Editors
 
@@ -26,13 +26,13 @@ A text editor is a computer program that allows you to create and edit files tha
 
 Text editors are commonly used by web designers and developers because it provides maximum flexibility to create just about anything. A text editor is not the same thing as an integrated development environment(IDE). While almost every IDE has the capability of creating and editing plain text documents, they also include a wealth of other features and powerful capabilities.
 
-As the installfest below illustrates, we use [Visual Studio Code](https://code.visualstudio.com/) as our official text editor at Ada.  In the future all projects will be written in VS Code while you can use IRB to experiment with short snippets of code.  
+As the installfest below illustrates, we use [Visual Studio Code](https://code.visualstudio.com/) as our official text editor at Ada.  In the future all projects will be written in VS Code while you can use the REPL to experiment with short snippets of code.  
 
 **NOTE** VS Code has a terminal screen.  We ask you **not** to use it.  Instead maintain a separate terminal window when you write code at Ada.  It will help with your workflow.  
 
 ## Installfest
 
-### Installing Homebrew, Ruby, VS Code & Git
+### Installing Homebrew, Python, VS Code & Git
 
 In the Ada Textbook curriculum we have an [installfest](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/00-programming-fundamentals/installfest.md) prepared which will walk you through installing all the software required to start at Ada.
 
