@@ -46,7 +46,7 @@ To check your version of macOS/OS X, click the Apple icon at the far left edge o
 
 ![About This Mac](./images/about-this-mac.png)
 
-![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/Catalina/macos-catalina-about-this-mac.png)
+![OS X Version](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macOS/Catalina/macOS-catalina-about-this-mac.png)
 
 If your Mac isn't running _Catalina_, _Mojave_, or _High Sierra_, please use the App Store or System Preferences to update. You can open the desktop App Store by going back to the Apple menu and selecting __App Store...__.  More recent versions of macOS can be updated by going to system preferences, the grey gearboxes, and selecting _Software Update_.  Operating System upgrades are free, and [Apple's got a detailed guide on updating](http://www.apple.com/osx/how-to-upgrade/).
 

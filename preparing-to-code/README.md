@@ -7,7 +7,7 @@ In these lessons you will learn how to navigate Mac OS X, learn about the langua
 | Order | Lesson                                                |
 | :---- | :---------------------------------------------------- |
 | 03    | [Effective Internet Searching](./internet-searching/) |
-| 04    | [MacOSX Keyboard navigation](./keyboard-navigation/)  |
+| 04    | [macOSX Keyboard navigation](./keyboard-navigation/)  |
 | 05    | [Programming languages](./ada-languages)              |
 | 06    | [Terminal](./terminal/)                               |
 | 07    | [Environment Setup](./environment-setup/)             |
@@ -16,7 +16,7 @@ In these lessons you will learn how to navigate Mac OS X, learn about the langua
 
 If you are *an applicant and do not currently have a machine with Mac OS X*, please complete the lessons on [Effective Internet Searching](./internet-searching/) and [Programming languages](./ada-languages). 
 
-To set up your computer on MacOS install the following:
+To set up your computer on macOS install the following:
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Homebrew](https://brew.sh/) - Install Homebrew using the terminal.  Homebrew is a package manager you can use to install applications or programming languages/libraries.  Software developers often use Homebrew to install applications

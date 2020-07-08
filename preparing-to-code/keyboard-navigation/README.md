@@ -1,4 +1,4 @@
-# MacOS Keyboard navigation
+# macOS Keyboard navigation
 
 _JumpStart: Lesson 4_
 
@@ -6,7 +6,7 @@ _Note: You can postpone this lesson until you have a Mac computer_
 
 ## Learning Goals
 
-* Become familiar with navigating the MacOS environment
+* Become familiar with navigating the macOS environment
 * Understand why and how to utilize multiple tabs, application windows, and desktops
 * Start using application shortcuts and hotkeys
 * Effectively find applications, folders, and files
@@ -14,11 +14,11 @@ _Note: You can postpone this lesson until you have a Mac computer_
 
 ## Overview
 
-Most software developers rely heavily on their keyboards and less so on their pointing devices (e.g., mouse, trackpad). This lesson will help you get comfortable using your keyboard to navigate in MacOS.
+Most software developers rely heavily on their keyboards and less so on their pointing devices (e.g., mouse, trackpad). This lesson will help you get comfortable using your keyboard to navigate in macOS.
 
-## Common MacOS shortcuts
+## Common macOS shortcuts
 
-Fill in the table below with the matching MacOS shortcuts, if you don't know them use an internet search to find them.
+Fill in the table below with the matching macOS shortcuts, if you don't know them use an internet search to find them.
 
 | What the command does           | Mac shortcut |
 | :------------------------------ | :----------- |
@@ -36,13 +36,13 @@ Fill in the table below with the matching MacOS shortcuts, if you don't know the
 | Full-screen screen shot         |              |
 | User-defined region screen shot |              |
 
-## MacOS Overview
+## macOS Overview
 
 | Interface component | Overview                                                                                                                                                                                                                                                                                                                                           |
 | :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dock                | The Dock is the strip of apps at the bottom of the screen. You can change its size and location by going to Preference > Dock. Spend some time determining the best size and location for you. You can add applications to your dock by dragging them onto it, and you can expose options for applications in your dock by right-clicking on them. |
 | Finder              | Finder is an application that lets you visually navigate your files and folders.                                                                                                                                                                                                                                                                   |
-| Menu bar            | The Menu bar at the top of MacOS is context sensitive, and will change based on the application you have in focus.                                                                                                                                                                                                                                 |
+| Menu bar            | The Menu bar at the top of macOS is context sensitive, and will change based on the application you have in focus.                                                                                                                                                                                                                                 |
 | Mission control     | Allows you to see all your open apps at once, there are many ways to launch this application, search the internet for the one that works best for you.                                                                                                                                                                                             |
 | Mouse & Trackpad    | Spend some time in your system preferences customizing these to your work style.                                                                                                                                                                                                                                                                   |
 ## Learning the Menu Symbols
@@ -145,7 +145,7 @@ There are a number of other ways to accomplish this same behavior, so be sure to
 
 ## Taking Screenshots
 
-As of MacOS Mojave there is a handy Screenshot.app that you can run in your Applications folder.  (It's inside Utilities.)  
+As of macOS Mojave there is a handy Screenshot.app that you can run in your Applications folder.  (It's inside Utilities.)  
 
 ### Screenshot Keyboard Shotcuts
 
