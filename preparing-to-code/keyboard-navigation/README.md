@@ -65,19 +65,19 @@ Whenever you open a menu, it will use these symbols to show you which keyboard s
 
 Below are a series of keyboard shortcuts that will help you in a text-editor writing code.
 
-| Hot Key Combo              |           Mac Symbols           | What It Does                                                 |
-| -------------------------- | :-----------------------------: | ------------------------------------------------------------ |
-| Command-s                  |             `⌘ + s`             | Save code in the text editor!  **Do this a lot!**            |
-| Command-c                  |             `⌘ + c`             | Copy the text currently highlighted (ctrl-c in windows).     |
-| Command-x                  |             `⌘ + x`             | Remove the text highlighted and save it in the clipboard.    |
-| Command-v                  |             `⌘ + v`             | Paste last copied content from clipboard.                    |
-| Command-z                  |             `⌘ + z`             | Undo the last action (repeat to undo multiple things).       |
-| Command-shift-z            |           `⌘ + ⇧ + z`           | Redo the last undo.                                          |
-| Command-a                  |             `⌘ + a`             | Select everything in the window.                             |
-| Command-l                  |             `⌘ + l`             | Select the current line.                                     |
-| Command-Arrow              |    `⌘ + <directional arrow>`    | Move the cursor to the maximum point in the given direction. |
-| Option-left-or-right-arrow |   `⌥ + <left or right arrow`    | Move the cursor one word in either direction                 |
-| Shift-Arrow                | `⇧ + <cursor movement command>` | Highlight from the start and end of the cursor               |
+| Hot Key Combo                                        |           Mac Symbols           | What It Does                                                 |
+| ---------------------------------------------------- | :-----------------------------: | ------------------------------------------------------------ |
+| <kbd>Command</kbd> + <kbd>s</kbd>                    |             `⌘ + s`             | Save code in the text editor!  **Do this a lot!**            |
+| <kbd>Command</kbd> + <kbd>c</kbd>                    |             `⌘ + c`             | Copy the text currently highlighted (ctrl-c in windows).     |
+| <kbd>Command</kbd> + <kbd>x</kbd>                    |             `⌘ + x`             | Remove the text highlighted and save it in the clipboard.    |
+| <kbd>Command</kbd> + <kbd>v</kbd>                    |             `⌘ + v`             | Paste last copied content from clipboard.                    |
+| <kbd>Command</kbd> + <kbd>z</kbd>                    |             `⌘ + z`             | Undo the last action (repeat to undo multiple things).       |
+| <kbd>Command</kbd> + <kbd>shift</kbd> + <kbd>z</kbd> |           `⌘ + ⇧ + z`           | Redo the last undo.                                          |
+| <kbd>Command</kbd> + <kbd>a</kbd>                    |             `⌘ + a`             | Select everything in the window.                             |
+| <kbd>Command<kbd> + <kbd>l</kbd>                     |             `⌘ + l`             | Select the current line.                                     |
+| <kbd>Command</kbd> + any arrow key                   |    `⌘ + <any arrow>`         | Move the cursor to the maximum point in the given direction. |
+| <kbd>Option</kbd> left or right arrow key            |   `⌥ + <left or right arrow>`    | Move the cursor one word in either direction                 |
+| <kbd>Shift</kbd> + any arrow key                     | `⇧ + <any arrow>`            | Highlight from the start and  end of the cursor              |
 
 ### System Navigation
 
