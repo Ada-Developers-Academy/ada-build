@@ -26,7 +26,7 @@ Software developers do not have all of the answers, instead a good portion of th
 
 * Type using keywords instead of full sentences
 * Add 'example' to your query if you want to see an example
-* Add the specific language you are coding in to your query, e.g. 'ruby'
+* Add the specific language you are coding in to your query, e.g. 'python'
 * Use double quotations when you need an exact match in your search
 * Make sure to check the date of what you are referencing, languages often change over time
 
@@ -46,7 +46,7 @@ TypeError: 'tuple' object does not support item assignment
 
 You can select the error message:  `TypeError: 'tuple' object does not support item assignment` and enter it into Google 
 
-This will bring you to a number of questions online where people have encountered the same question earlier.  Then you can evauate the source of each article, StackOverflow being a likely source of similar questions and Quora a bit less likely and InterviewCake being likely having to do with interview topics rather than the exact error message and hwo to stop it.
+This will bring you to a number of questions online where people have encountered the same question earlier.  Then you can evaluate the source of each article, StackOverflow being a likely source of similar questions and Quora a bit less likely and InterviewCake being likely having to do with interview topics rather than the exact error message and how to stop it.
 
 ### Narrowing It Down Further
 
