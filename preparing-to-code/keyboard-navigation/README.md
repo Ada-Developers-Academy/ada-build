@@ -151,13 +151,13 @@ As of macOS Mojave there is a handy Screenshot.app that you can run in your Appl
 
 Screenshots on a Mac are very cool. By default, they save a file to the desktop. If you add Control (⌃) to the shortcut, the screenshot will be copied to the clipboard instead.
 
-| Behavior / PC Key                                         | Mac Keyboard Shortcut                           | In Symbols!                        |
-| --------------------------------------------------------- | ----------------------------------------------- | ---------------------------------- |
-| Print Screen (full screen, saved to desktop)              | Command + Shift + 3                             | ⌘⇧3 (⌘#)                           |
-| Print Screen (full screen, copied to clipboard)           | Control + Command + Shift + 3                   | ⌃⌘⇧3 (⌃⌘#)                         |
-| Print Screen (select area, saved to desktop)              | Command + Shift + 4                             | ⌘⇧4 (⌘$)                           |
-| Print Screen (select area, copied to clipboard)           | Control + Command + Shift + 4                   | ⌃⌘⇧4 (⌃⌘$)                         |
-| Print Screen (application window, PC: Alt + Print Screen) | Command + Shift + 4, Space-bar, Click on Window | ⌘⇧4 (⌘$), {Space}, Click on Window |
+| Behavior / PC Key                                         | Mac Keyboard Shortcut                                                            | In Symbols!                        |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------- |
+| Print Screen (full screen, saved to desktop)              | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>3</kbd>                             | ⌘⇧3 (⌘#)                           |
+| Print Screen (full screen, copied to clipboard)           | <kbd>Control</kbd> + <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>3</kbd>        | ⌃⌘⇧3 (⌃⌘#)                         |
+| Print Screen (select area, saved to desktop)              | <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd>                             | ⌘⇧4 (⌘$)                           |
+| Print Screen (select area, copied to clipboard)           | <kbd>Control</kbd> + <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd>        | ⌃⌘⇧4 (⌃⌘$)                         |
+| Print Screen (application window, PC: Alt + Print Screen) | <kbd>Command</kbd> + <kbd>Shift</kbd> + 4, <kbd>Space-bar</kbd>, Click on Window | ⌘⇧4 (⌘$), {Space}, Click on Window |
 
 
 ## Resources
