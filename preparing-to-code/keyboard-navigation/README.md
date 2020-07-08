@@ -65,43 +65,43 @@ Whenever you open a menu, it will use these symbols to show you which keyboard s
 
 Below are a series of keyboard shortcuts that will help you in a text-editor writing code.
 
-| Hot Key Combo                                        |           Mac Symbols           | What It Does                                                 |
-| ---------------------------------------------------- | :-----------------------------: | ------------------------------------------------------------ |
-| <kbd>Command</kbd> + <kbd>s</kbd>                    |             `⌘ + s`             | Save code in the text editor!  **Do this a lot!**            |
-| <kbd>Command</kbd> + <kbd>c</kbd>                    |             `⌘ + c`             | Copy the text currently highlighted (ctrl-c in windows).     |
-| <kbd>Command</kbd> + <kbd>x</kbd>                    |             `⌘ + x`             | Remove the text highlighted and save it in the clipboard.    |
-| <kbd>Command</kbd> + <kbd>v</kbd>                    |             `⌘ + v`             | Paste last copied content from clipboard.                    |
-| <kbd>Command</kbd> + <kbd>z</kbd>                    |             `⌘ + z`             | Undo the last action (repeat to undo multiple things).       |
-| <kbd>Command</kbd> + <kbd>shift</kbd> + <kbd>z</kbd> |           `⌘ + ⇧ + z`           | Redo the last undo.                                          |
-| <kbd>Command</kbd> + <kbd>a</kbd>                    |             `⌘ + a`             | Select everything in the window.                             |
-| <kbd>Command<kbd> + <kbd>l</kbd>                     |             `⌘ + l`             | Select the current line.                                     |
-| <kbd>Command</kbd> + any arrow key                   |    `⌘ + <any arrow>`         | Move the cursor to the maximum point in the given direction. |
-| <kbd>Option</kbd> left or right arrow key            |   `⌥ + <left or right arrow>`    | Move the cursor one word in either direction                 |
-| <kbd>Shift</kbd> + any arrow key                     | `⇧ + <any arrow>`            | Highlight from the start and  end of the cursor              |
+| Hot Key Combo                                        |         Mac Symbols         | What It Does                                                 |
+| ---------------------------------------------------- | :-------------------------: | ------------------------------------------------------------ |
+| <kbd>Command</kbd> + <kbd>s</kbd>                    |           `⌘ + s`           | Save code in the text editor!  **Do this a lot!**            |
+| <kbd>Command</kbd> + <kbd>c</kbd>                    |           `⌘ + c`           | Copy the text currently highlighted (ctrl-c in windows).     |
+| <kbd>Command</kbd> + <kbd>x</kbd>                    |           `⌘ + x`           | Remove the text highlighted and save it in the clipboard.    |
+| <kbd>Command</kbd> + <kbd>v</kbd>                    |           `⌘ + v`           | Paste last copied content from clipboard.                    |
+| <kbd>Command</kbd> + <kbd>z</kbd>                    |           `⌘ + z`           | Undo the last action (repeat to undo multiple things).       |
+| <kbd>Command</kbd> + <kbd>shift</kbd> + <kbd>z</kbd> |         `⌘ + ⇧ + z`         | Redo the last undo.                                          |
+| <kbd>Command</kbd> + <kbd>a</kbd>                    |           `⌘ + a`           | Select everything in the window.                             |
+| <kbd>Command<kbd> + <kbd>l</kbd>                     |           `⌘ + l`           | Select the current line.                                     |
+| <kbd>Command</kbd> + any arrow key                   |      `⌘ + <any arrow>`      | Move the cursor to the maximum point in the given direction. |
+| <kbd>Option</kbd> left or right arrow key            | `⌥ + <left or right arrow>` | Move the cursor one word in either direction                 |
+| <kbd>Shift</kbd> + any arrow key                     |      `⇧ + <any arrow>`      | Highlight from the start and  end of the cursor              |
 
 ### System Navigation
 
 These keyboard shortcuts work with a variety of applications to let you navigate within an application or between applications.
 
-| Hot Key Combo              | Mac Symbols | What it does                                                                                                                                                                              |
-| -------------------------- | :---------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Command-w                  |   `⌘ + w`   | Close the Current tab.                                                                                                                                                                    |
-| Command-shift-w            | `⌘ + ⇧ + w` | Close the Current window (all the tabs).                                                                                                                                                  |
-| Command-q                  |   `⌘ + q`   | Quit the application (`⌘⇧w` keeps the application running).                                                                                                                               |
-| Command-tab                |   `⌘ + ⇥`   | Switch between applications.  Continue to hold the `⌘` button to display all open programs each tap on `⇥` will switch to the next app.  You can use `⌘⇧⇥` to switch to the previous app. |
-| Command-backtick           | `` ⌘ + ` `` | Switch between windows in the same application.                                                                                                                                           |
-| Command-Space              |   `⌘ + ␣`   | Turn on spotlight.  Spotlight lets you search applications, files and do basic functions like math & conversions.                                                                         |
-| Command-Shift-leftbracket  | `⌘ + ⇧ + [` | Move one tab to the left.                                                                                                                                                                 |
-| Command-Shift-rightbracket | `⌘ + ⇧ + ]` | Move one tab to the right.                                                                                                                                                                |
-| Command-Shift-t            | `⌘ + ⇧ + t` | open the last closed item.                                                                                                                                                                |
-| Command-f                  |   `⌘ + f`   | Find.  Opens a panel to search for a term.                                                                                                                                                |
-| Command-shift-f            | `⌘ + ⇧ + f` | Find all.  Searches all files (text editors like VS Code & Atom only).                                                                                                                    |
-| Command-n                  |   `⌘ + n`   | Opens a new window (or file depending on the application).                                                                                                                                |
-| Command-t                  |   `⌘ + t`   | Opens a new tab in a browser                                                                                                                                                              |
-| Command-r                  |   `⌘ + r`   | Reloads the page in a browser                                                                                                                                                             |
-| Command-comma              |   `⌘ + ,`   | Opens an app's preferences page.                                                                                                                                                          |
-| Command-/                  |   `⌘ + /`   | Make either the current line or a selection of text a comment (text editors like VS Code & Atom only)                                                                                     |
-| Control-Command-f          | `^ + ⌘ + f` | Fullscreen                                                                                                                                                                                |
+| Hot Key Combo          | Mac Symbols | What it does                                                                                                                                                                              |
+| ---------------------- | :---------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| cmd-w                  |   `⌘ + w`   | Close the Current tab.                                                                                                                                                                    |
+| cmd-shift-w            | `⌘ + ⇧ + w` | Close the Current window (all the tabs).                                                                                                                                                  |
+| cmd-q                  |   `⌘ + q`   | Quit the application (`⌘⇧w` keeps the application running).                                                                                                                               |
+| cmd-tab                |   `⌘ + ⇥`   | Switch between applications.  Continue to hold the `⌘` button to display all open programs each tap on `⇥` will switch to the next app.  You can use `⌘⇧⇥` to switch to the previous app. |
+| cmd-backtick           | `` ⌘ + ` `` | Switch between windows in the same application.                                                                                                                                           |
+| cmd-Space              |   `⌘ + ␣`   | Turn on spotlight.  Spotlight lets you search applications, files and do basic functions like math & conversions.                                                                         |
+| cmd-Shift-leftbracket  | `⌘ + ⇧ + [` | Move one tab to the left.                                                                                                                                                                 |
+| cmd-Shift-rightbracket | `⌘ + ⇧ + ]` | Move one tab to the right.                                                                                                                                                                |
+| cmd-Shift-t            | `⌘ + ⇧ + t` | open the last closed item.                                                                                                                                                                |
+| cmd-f                  |   `⌘ + f`   | Find.  Opens a panel to search for a term.                                                                                                                                                |
+| cmd-shift-f            | `⌘ + ⇧ + f` | Find all.  Searches all files (text editors like VS Code & Atom only).                                                                                                                    |
+| cmd-n                  |   `⌘ + n`   | Opens a new window (or file depending on the application).                                                                                                                                |
+| cmd-t                  |   `⌘ + t`   | Opens a new tab in a browser                                                                                                                                                              |
+| cmd-r                  |   `⌘ + r`   | Reloads the page in a browser                                                                                                                                                             |
+| cmd-comma              |   `⌘ + ,`   | Opens an app's preferences page.                                                                                                                                                          |
+| cmd-/                  |   `⌘ + /`   | Make either the current line or a selection of text a comment (text editors like VS Code & Atom only)                                                                                     |
+| ctrl-cmd-f             | `^ + ⌘ + f` | Fullscreen                                                                                                                                                                                |
 
 ## A Word About Mice
 
@@ -112,7 +112,7 @@ Steve Jobs had a [weird thing](http://www.cultofmac.com/269222/steve-jobs-hated-
 1. Click on the `Point and Click` tab
 1. Check the box next to `Secondary click`
 
-You can also [two-finger click](https://www.howtogeek.com/218715/how-to-right-click-with-two-fingers-and-other-os-x-trackpad-gestures/) or [control-click](https://www.wikihow.com/Right-Click-on-a-Mac). 
+You can also [two-finger click](https://www.howtogeek.com/218715/how-to-right-click-with-two-fingers-and-other-os-x-trackpad-gestures/) or [ctrl-click](https://www.wikihow.com/Right-Click-on-a-Mac). 
 
 ## Practice tasks
 

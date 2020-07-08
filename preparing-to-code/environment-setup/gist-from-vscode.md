@@ -10,7 +10,7 @@ _This lesson is optional. It walks you through how to create a `gist` directly f
 
 First we'll install an extension which can let us post code samples to github.
 
-1. In `VS Code` type command-shift-x (⌘⇧x).  This will allow you to install extensions to `VS Code`.
+1. In `VS Code` type cmd-shift-x (⌘⇧x).  This will allow you to install extensions to `VS Code`.
 2. Search for `gist` and install the `gist` extension
 
 ![gist extension](images/install-gist.png)

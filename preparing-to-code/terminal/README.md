@@ -11,8 +11,8 @@ _JumpStart: Lesson 6_
 ## Activities
 
 * Review the notes
-* Read the [Command Line Intro Book](https://hellowebbooks.com/learn-command-line/#cmd-tut) by Tracy Osborn
-* Complete [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+* Read the [Command Line Intro Book](https://hellowebbooks.com/learn-cmd-line/#cmd-tut) by Tracy Osborn
+* Complete [Learn the Command Line](https://www.codecademy.com/learn/learn-the-cmd-line)
 * (Optional) Read [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
 
 ## Notes
