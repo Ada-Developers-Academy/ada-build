@@ -26,7 +26,7 @@ Software developers do not have all of the answers, instead a good portion of th
 
 * Type using keywords instead of full sentences
 * Add 'example' to your query if you want to see an example
-* Add the specific language you are coding in to your query, e.g. 'ruby'
+* Add the specific language you are coding in to your query, e.g. 'python'
 * Use double quotations when you need an exact match in your search
 * Make sure to check the date of what you are referencing, languages often change over time
 
