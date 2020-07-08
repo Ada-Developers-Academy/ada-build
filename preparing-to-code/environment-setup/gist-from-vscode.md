@@ -1,7 +1,9 @@
 _Jumpstart_
 
 # Environment Setup
+
 ## Creating a Gist Directly From VS Code
+
 _This lesson is optional. It walks you through how to create a `gist` directly from `VS Code`._
 
 ### Part 1 Install Gist Extension
