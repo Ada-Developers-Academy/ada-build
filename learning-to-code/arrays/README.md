@@ -1,6 +1,6 @@
 # Arrays
 
-_JumpStart: Lesson 12_
+_Ada Build: Lesson 12_
 
 ## Learning Goals
 
@@ -16,7 +16,6 @@ _JumpStart: Lesson 12_
 * Complete the [Array Worksheet](assignments/array-worksheet.md)
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
 * Complete the [Student Account Generator assignment](assignments/account-generator.md) using arrays
-* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 5 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day5#lessons)
 
 ## Notes
 
@@ -84,34 +83,34 @@ puts numbers[3] # => 50
 puts numbers[4] # => 2
 puts numbers[5] # => 7
 ```
-| Value |  1  |  10 |  33 |  50 | 2   |  7  |
-| :---- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Index | [0] | [1] | [2] | [3] | [4] | [5] |
+| Value | 1    | 10   | 33   | 50   | 2    | 7    |
+| :---- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Index | [0]  | [1]  | [2]  | [3]  | [4]  | [5]  |
 
 
 ```ruby
 numbers = [1, 2, 3, 4]
 puts numbers[2] # => 3
 ```
-| Value |  1  |  2 |  3 |  4 |
-| :---- | :-- | :-- | :-- | :-- |
-| Index | [0] | [1] | [2] | [3] |
+| Value | 1    | 2    | 3    | 4    |
+| :---- | :--- | :--- | :--- | :--- |
+| Index | [0]  | [1]  | [2]  | [3]  |
 
 ```ruby
 empty_array = Array.new(3)
 puts empty_array # => [nil, nil, nil]
 ```
-| Value |  nil  |  nil |  nil |
-| :---- | :-- | :-- | :-- |
-| Index | [0] | [1] | [2] |
+| Value | nil  | nil  | nil  |
+| :---- | :--- | :--- | :--- |
+| Index | [0]  | [1]  | [2]  |
 
 ```ruby
 default_array = Array.new(3, "def")
 puts default_array # => ["def", "def", "def"]
 ```
-| Value | "def" |  "def" |  "def" |
-| :---- | :-- | :-- | :-- |
-| Index | [0] | [1] | [2] |
+| Value | "def" | "def" | "def" |
+| :---- | :---- | :---- | :---- |
+| Index | [0]   | [1]   | [2]   |
 
 
 ### Data Types

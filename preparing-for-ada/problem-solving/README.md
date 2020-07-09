@@ -1,5 +1,5 @@
 # Problem Solving
-_JumpStart: Lesson 2_
+_Ada Build: Lesson 2_
 
 ## Learning Goals
 * Understand what an algorithm is

@@ -1,6 +1,6 @@
 # Programming Grammar
 
-_JumpStart: Lesson 9_
+_Ada Build: Lesson 9_
 
 ## Learning Goals
 
@@ -17,8 +17,7 @@ _JumpStart: Lesson 9_
 * Watch [Video: Now we're programming!](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4df0c8ab-64fc-4186-a9e2-a8c4014a4b4b)
 * Complete the [practice problems](./practice-problems.md) and then check your answers using `irb`
 * Complete the [Numbers problem assignment](#numbers-problem-assignment)
-* Complete the [MadLib assignment](#madlib-assignment)
-* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 1 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day1#lessons).  
+* Complete the [MadLib assignment](#madlib-assignment) 
 
 <!-- TODO Update Video Link -->
 
@@ -45,15 +44,15 @@ puts "But this isn't."
 
 ### Data types
 
-| Data Type | Description | Example |
-| :--- | :--- | :--- |
-| String | Anything surrounded by single or double quotes | `"hello"`, `'hello'` |
-| Integer | A number with no decimal | `1`, `0`, `-7` |
-| Float | Real value (decimal) | `0.5` |
-| Array | An ordered list | `[5, 0, 1]` |
-| Symbol | A named object | `:apple` |
-| Hash | A set of key, value pairs | `{ A: 2, B: 3, C: 1}` |
-| Range | A set of values with a beginning and an end | `(2..6)` |
+| Data Type | Description                                    | Example               |
+| :-------- | :--------------------------------------------- | :-------------------- |
+| String    | Anything surrounded by single or double quotes | `"hello"`, `'hello'`  |
+| Integer   | A number with no decimal                       | `1`, `0`, `-7`        |
+| Float     | Real value (decimal)                           | `0.5`                 |
+| Array     | An ordered list                                | `[5, 0, 1]`           |
+| Symbol    | A named object                                 | `:apple`              |
+| Hash      | A set of key, value pairs                      | `{ A: 2, B: 3, C: 1}` |
+| Range     | A set of values with a beginning and an end    | `(2..6)`              |
 
 > Fixnum is another name for Integer. Ruby version 2.4.0 introduced the term
 > Integer, so if your ruby version is at least 2.4.0, use Integer. Otherwise
@@ -76,13 +75,13 @@ puts word.class # String
 
 ### Mathematical operations
 
-| Operation | Ruby symbol | Example |
-| :--- | :--- | :--- |
-| addition |  `+` | `2 + 3` |
-| subtraction | `-` | `4 - 5` |
-| multiplication | `*` | `7 * 8` |
-| division | `/` | `10 / 2` |
-| remainder (modulus) | `%` | `15 % 5` |
+| Operation           | Ruby symbol | Example  |
+| :------------------ | :---------- | :------- |
+| addition            | `+`         | `2 + 3`  |
+| subtraction         | `-`         | `4 - 5`  |
+| multiplication      | `*`         | `7 * 8`  |
+| division            | `/`         | `10 / 2` |
+| remainder (modulus) | `%`         | `15 % 5` |
 
 #### Important notes
 
@@ -93,16 +92,16 @@ puts word.class # String
 
 Also commonly called order-of-operations, is the order in which operations are completed.
 
-| __Priority__ | __Operation__ |
-| :--- | :--- |
-| 1 | parens |
-| 2 | unary operations |
-| 3 | multiplication, division, modulus|
-| 4 | addition, subtraction, string concatenation |
-| 5 | less than, less than or equal to, greater than, greater than or equal to |
-| 6 | equal to, not equal to |
-| 7 | and |
-| 8 | or |
+| __Priority__ | __Operation__                                                            |
+| :----------- | :----------------------------------------------------------------------- |
+| 1            | parens                                                                   |
+| 2            | unary operations                                                         |
+| 3            | multiplication, division, modulus                                        |
+| 4            | addition, subtraction, string concatenation                              |
+| 5            | less than, less than or equal to, greater than, greater than or equal to |
+| 6            | equal to, not equal to                                                   |
+| 7            | and                                                                      |
+| 8            | or                                                                       |
 
 ### Assignment Statements
 
@@ -266,11 +265,11 @@ String interpolation allows Ruby code to appear within a string. The code is eva
 
 #### Common Escape Sequences
 
- | Escape Sequence | Description |
- | :--- | :--- |
- | `\n` | A new line (moves down to the next line)
- | `\\` | A single backslash |
- | `\"` | A double quote |
+ | Escape Sequence | Description                              |
+ | :-------------- | :--------------------------------------- |
+ | `\n`            | A new line (moves down to the next line) |
+ | `\\`            | A single backslash                       |
+ | `\"`            | A double quote                           |
 
  ```ruby
  # Escape sequences can be used with double quotes

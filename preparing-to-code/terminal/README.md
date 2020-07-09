@@ -1,5 +1,5 @@
 # Terminal
-_JumpStart: Lesson 6_
+_Ada Build: Lesson 6_
 
 ## Learning Goals
 - Understand the terms `Terminal`, `command line`, `commands`
@@ -24,25 +24,25 @@ When you are writing code, it is good to have a folder structure which is logica
     cd ada
     ```
 
-1. Create a new folder called `jumpstart` inside of your new `ada` folder which will store all folders and files related to this Jumpstart work. Once the folder is created, switch into that new folder.
+1. Create a new folder called `build` inside of your new `ada` folder which will store all folders and files related to this Ada Build work. Once the folder is created, switch into that new folder.
     ```bash
-    mkdir jumpstart
-    cd jumpstart
+    mkdir build
+    cd build
     ```
 
-1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your home directory and end with `/ada/jumpstart`.
+1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your home directory and end with `/ada/build`.
 
 ### The Command Line
 As a programmer, you should become fluent with your computer's __command line__, in OSX that command line application is called __Terminal__. To get started find the application named 'Terminal', add it to your dock, and then open it.
 
 #### Terminal Terminology
-|  Term | Definition |
-| :--- | :--- |
-| Console | The system as a whole |
-| Command | Actions that we want our computer to do |
-| Arguments | Any additional information the command needs to execute; not all commands require arguments |
-| Prompt | This is the beginning of the command line, it usually provides some contextual information like who you are, where you are and other useful info; after the prompt is where you will be typing commands |
-| Terminal | The software application we use to interact with the console |
+| Term      | Definition                                                                                                                                                                                              |
+| :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Console   | The system as a whole                                                                                                                                                                                   |
+| Command   | Actions that we want our computer to do                                                                                                                                                                 |
+| Arguments | Any additional information the command needs to execute; not all commands require arguments                                                                                                             |
+| Prompt    | This is the beginning of the command line, it usually provides some contextual information like who you are, where you are and other useful info; after the prompt is where you will be typing commands |
+| Terminal  | The software application we use to interact with the console                                                                                                                                            |
 
 #### How the command line works
 The terminal operates in a repeating sequence of steps:
@@ -63,33 +63,33 @@ Commands almost usually have 3 parts
 #### Sample commands
 Try out these commands first, and record what happened.
 
-| Command | What happened? |
-| :--- | :--- |
-| `ls -a .` | |
-| `man ls` | |
-| `q` | |
-| `pwd` | |
-| `cd ~` | |
-| `cd .` | |
-| `cd ..` | |
-| `cd -` | |
+| Command   | What happened? |
+| :-------- | :------------- |
+| `ls -a .` |                |
+| `man ls`  |                |
+| `q`       |                |
+| `pwd`     |                |
+| `cd ~`    |                |
+| `cd .`    |                |
+| `cd ..`   |                |
+| `cd -`    |                |
 
 Then use `man` to explore these commands.  For example try `man ls` in terminal.  You can exit with the `q` key.
 
-| Command | Explanation |
-| :--- | :--- |
-| `man` | Manual: Open the manual for a specific command ('q' to quit out of manual mode) |
-| `pwd` | Present Working Directory: Display the current location as a "path" (sequence of child directories separated by `/`) starting with the root directory `/` |
-| `ls`  | List Directory: Display all of the child files and directories for the current location |
-| `cd` | Change Directory: Move to a different location, all further commands execute at that location |
-| `mkdir` | Make Directory: Create a new directory with the name specified |
-| `touch` | Create new file or update timestamp of existing file: If the file argument does not exist, create it as an empty  |file. If the file argument does exist, 'touch' it's timestamp (last modified date/time) to be the current date/time. |
-| `cp` | Copy file: Copy argument1 to argument2 |
-| `mv` | Move file: Move argument1 to argument2 (removes argument1). This can be used for renaming. |
-| `rm` | Remove: Delete the file or folder passed to `rm` |
-| `less` | Print the contents of the argument to the screen with the ability to scroll through (also [`more`; less is more, more or less](https://en.wikipedia.org/wiki/Less_(Unix))) |
-| `cat` | Print the contents of the argument to the screen (no scrolling) |
-| `whoami` | Tells you what user you are currently working as |
+| Command  | Explanation                                                                                                                                                                |
+| :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `man`    | Manual: Open the manual for a specific command ('q' to quit out of manual mode)                                                                                            |
+| `pwd`    | Present Working Directory: Display the current location as a "path" (sequence of child directories separated by `/`) starting with the root directory `/`                  |
+| `ls`     | List Directory: Display all of the child files and directories for the current location                                                                                    |
+| `cd`     | Change Directory: Move to a different location, all further commands execute at that location                                                                              |
+| `mkdir`  | Make Directory: Create a new directory with the name specified                                                                                                             |
+| `touch`  | Create new file or update timestamp of existing file: If the file argument does not exist, create it as an empty                                                           | file. If the file argument does exist, 'touch' it's timestamp (last modified date/time) to be the current date/time. |
+| `cp`     | Copy file: Copy argument1 to argument2                                                                                                                                     |
+| `mv`     | Move file: Move argument1 to argument2 (removes argument1). This can be used for renaming.                                                                                 |
+| `rm`     | Remove: Delete the file or folder passed to `rm`                                                                                                                           |
+| `less`   | Print the contents of the argument to the screen with the ability to scroll through (also [`more`; less is more, more or less](https://en.wikipedia.org/wiki/Less_(Unix))) |
+| `cat`    | Print the contents of the argument to the screen (no scrolling)                                                                                                            |
+| `whoami` | Tells you what user you are currently working as                                                                                                                           |
 
 ### Practice making files and folders (i.e., directories)
 

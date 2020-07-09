@@ -1,16 +1,16 @@
-# Ada Developers Academy JumpStart Curriculum
+# Ada Build Curriculum
 
 ## Preparing to Code
 
 In these lessons you will learn how to navigate Mac OS X, learn about the languages that we teach at Ada Developers Academy, start using the terminal, and setup your development environment.
 
-| Order | Lesson |
-| :--- | :--- |
-| 03 | [Effective Internet Searching](./internet-searching/) |
-| 04 | [MacOSX Keyboard navigation](./keyboard-navigation/) |
-| 05 | [Programming languages](./ada-languages) |
-| 06 | [Terminal](./terminal/) |
-| 07 | [Environment Setup](./environment-setup/) |
+| Order | Lesson                                                |
+| :---- | :---------------------------------------------------- |
+| 03    | [Effective Internet Searching](./internet-searching/) |
+| 04    | [MacOSX Keyboard navigation](./keyboard-navigation/)  |
+| 05    | [Programming languages](./ada-languages)              |
+| 06    | [Terminal](./terminal/)                               |
+| 07    | [Environment Setup](./environment-setup/)             |
 
 **Notes**
 * If you are *a student enrolled to begin your cohort in upcoming months*, you are required to follow all the lessons.

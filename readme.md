@@ -1,6 +1,6 @@
-# Ada Developers Academy JumpStart Curriculum
+# Ada Build Curriculum
 
-This repository contains the materials for the Jumpstart program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).
+This repository contains the materials for the Build program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).  This curriculum is designed as an introductory curriculum for Ada applicants and aspirants.  
 
 ## [Preparing for Ada](./preparing-for-ada)
 
