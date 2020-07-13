@@ -8,7 +8,7 @@ _JumpStart: Lesson 5_
 
 ## Overview
 
-During the course of the JumpStart curriculum we will be primararily focused on learning Python. Later, during the classroom curriculum, we will learn some other programming languages. In this lesson, we will discuss the different languages that can be used along with Python and how those all play together in your journey in learning to program. In a discussion about programming languages, a preliminary question that one might ask is, why are there so many programming languages? Some languages are better at certain things than others.
+During the course of the Build curriculum we will be primararily focused on learning Python. Later, during the classroom curriculum, we will learn some other programming languages. In this lesson, we will discuss the different languages that can be used along with Python and how those all play together in your journey in learning to program. In a discussion about programming languages, a preliminary question that one might ask is, why are there so many programming languages? Some languages are better at certain things than others.
 
 Programming languages exist so that humans can give instructions to computers. Fundamentally, programming is about communication. Programming languages are similar to human spoken languages, they have dialects, grammars, colloquialisms, idioms, and parts of speech.
 
@@ -65,7 +65,7 @@ Frameworks allow us to leverage the hard work of the software developers that ca
 
 ### Flask
 
-Flask is a Python micro-framework for creating web applications.  Flask has a simple core which is designed to be extensible to build powerful web applications.  At Ada Flask is our tool for teaching server-side web development.
+Flask is a Python micro-framework for creating web applications.  Flask has a simple core which is designed to be extensible to build powerful web applications.  At Ada, Flask is our tool for teaching server-side web development.
 
 ### ReactJS
 
