@@ -65,7 +65,7 @@ Frameworks allow us to leverage the hard work of the software developers that ca
 
 ### Flask
 
-Flask is a Python micro-framework for creating web applications.  Flask has a simple core which is designed to be extensible to build powerful web applications.  At Ada Flask is our tool for teaching server-side web development.
+Flask is a Python micro-framework for creating web applications.  Flask has a simple core which is designed to be extensible to build powerful web applications.  At Ada, Flask is our tool for teaching server-side web development.
 
 ### ReactJS
 
