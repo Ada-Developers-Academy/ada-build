@@ -1,6 +1,6 @@
 # Loops and Iterators
 
-_JumpStart: Lesson 11_
+_Ada Build: Lesson 11_
 
 ## Learning Goals
 
@@ -30,7 +30,6 @@ By the end of this lesson you should be able to:
 - Complete [More Loops Worksheet](assignments/more-loops-worksheet.md)
 - Complete the [Numbers problem assignment](#numbers-problem-assignment)
 - Complete [Election Time assignment](assignments/election.md)
-- [Optional] For additional learning and practice, look at the lessons and exercises of [Day 3 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day3#lessons) and [Day 4 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day4#lessons)
 
 ## Notes
 
@@ -172,13 +171,13 @@ The above code will output the values of i until i is no longer less than 4, res
 
 Here's the loop table for the above program:
 
-| Iteration | i | i < 4 | Output |
-| :--- | :--- | :--- | :--- |
-| 1 | 0 | True | 0 |
-| 2 | 1 | True | 1 |
-| 3 | 2 | True | 2 |
-| 4 | 3 | True | 3 |
-| 5 | 4 | False | \<None\> |
+| Iteration | i    | i < 4 | Output   |
+| :-------- | :--- | :---- | :------- |
+| 1         | 0    | True  | 0        |
+| 2         | 1    | True  | 1        |
+| 3         | 2    | True  | 2        |
+| 4         | 3    | True  | 3        |
+| 5         | 4    | False | \<None\> |
 
 You can read the condition and execution of the `while` loop as _while condition is **true** do..._
 
@@ -219,13 +218,13 @@ The above code will output the values of i until i is equal to 4, resulting in t
 ```
 Here's the loop table for the above program:
 
-| Iteration | i | i == 4 | Output |
-| :--- | :--- | :--- | :--- |
-| 1 | 0 | False | 0 |
-| 2 | 1 | False | 1 |
-| 3 | 2 | False | 2 |
-| 4 | 3 | False | 3 |
-| 5 | 4 | True | \<None\> |
+| Iteration | i    | i == 4 | Output   |
+| :-------- | :--- | :----- | :------- |
+| 1         | 0    | False  | 0        |
+| 2         | 1    | False  | 1        |
+| 3         | 2    | False  | 2        |
+| 4         | 3    | False  | 3        |
+| 5         | 4    | True   | \<None\> |
 
 
 You can read the condition and execution of the `until` loop as _until condition is **true** do..._

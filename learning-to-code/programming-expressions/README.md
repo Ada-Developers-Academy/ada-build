@@ -1,6 +1,6 @@
 # Programming Expressions
 
-_JumpStart: Lesson 10_
+_Ada Build: Lesson 10_
 
 ## Learning Goals
 
@@ -17,7 +17,6 @@ By the end of this lesson you should be able to:
 * Complete the [practice problems](./practice-problems.md)
 * Complete the next version of the [number's assignment](#numbers-problem-assignment-v2)
 * Complete the [candy machine assignment](#candy-machine-assignment)
-* [Optional] For additional learning and practice, look at the lessons and exercises of [Day 2 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day2#lessons)
 
 ## Notes
 
@@ -25,14 +24,14 @@ By the end of this lesson you should be able to:
 
 Relational operators allow you to compare two values.  Below is a list of different relational operators:
 
-| __Operator__ | __Description__ | __Example__ | __Result__ |
-| :--- | :--- | :--- | :--- |
-| `==` | equals | `1 + 1 == 2` | `true` |
-| `!=` | does not equal | `3.2 != 2.5` | `true` |
-| `<` | less than | `10 < 5` | `false` |
-| `>` | greater than | `10 > 5` | `true` |
-| `<=` | less than or equal to | `126 <= 100` | `false` |
-| `>=` | greater than or equal to | `5.0 >= 5.0` | `true` |
+| __Operator__ | __Description__          | __Example__  | __Result__ |
+| :----------- | :----------------------- | :----------- | :--------- |
+| `==`         | equals                   | `1 + 1 == 2` | `true`     |
+| `!=`         | does not equal           | `3.2 != 2.5` | `true`     |
+| `<`          | less than                | `10 < 5`     | `false`    |
+| `>`          | greater than             | `10 > 5`     | `true`     |
+| `<=`         | less than or equal to    | `126 <= 100` | `false`    |
+| `>=`         | greater than or equal to | `5.0 >= 5.0` | `true`     |
 
 - In Ruby, you can use relational operators on all numbers and strings. Additionally you can use equals and does not equal on arrays and hashes. (Note: We'll learn more about *Arrays* and *Hashes* later in this curriculum.)
 - The opposite of `>` (greater than) is `<=` (less than or equal to). Similarly, the opposite of `<` (less than) is `>=` (greater than or equal to).
@@ -51,23 +50,23 @@ Relational operators allow you to compare two values.  Below is a list of differ
 
 Logical operators allow you to combine or modify boolean expressions.
 
-| Operator | Description | Example | Result |
-| :--- | :--- | :--- | :--- |
-| `&&` | and | `(2 == 3) && (-1 < 5)` | `false` |
-| `\|\|` | or | `(2 == 3) \|\| (-1 < 5)` | `true` |
-| `!` | not | `!(2 == 3)` | `true` |
+| Operator | Description | Example                  | Result  |
+| :------- | :---------- | :----------------------- | :------ |
+| `&&`     | and         | `(2 == 3) && (-1 < 5)`   | `false` |
+| `\|\|`   | or          | `(2 == 3) \|\| (-1 < 5)` | `true`  |
+| `!`      | not         | `!(2 == 3)`              | `true`  |
 
-| p | q | p && q | p \|\| q |
-| :--- | :--- | :--- | :--- |
-| `true` | `true` | `true` | `true` |
-| `true` | `false` | `false` | `true` |
-| `false` | `true` | `false` | `true` |
-| `false` | `false` | `false` | `false` |
+| p       | q       | p && q  | p \|\| q |
+| :------ | :------ | :------ | :------- |
+| `true`  | `true`  | `true`  | `true`   |
+| `true`  | `false` | `false` | `true`   |
+| `false` | `true`  | `false` | `true`   |
+| `false` | `false` | `false` | `false`  |
 
-| p | !p |
-| :--- | :--- |
-| `true` | `false` |
-| `false` | `true` |
+| p       | !p      |
+| :------ | :------ |
+| `true`  | `false` |
+| `false` | `true`  |
 
 
 ### Conditionals

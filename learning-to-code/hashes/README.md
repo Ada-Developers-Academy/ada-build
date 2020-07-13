@@ -1,6 +1,6 @@
 # Hashes
 
-_JumpStart: Lesson 13_
+Ada Build: Lesson 13_
 
 ## Learning Goals
 
@@ -18,7 +18,7 @@ _JumpStart: Lesson 13_
 - Complete the [Numbers problem assignment](#numbers-problem-assignment)
 - Complete [Account Generator Continued](assignments/account-generator-cont.md)  
 - Complete [Walk-a-thon](assignments/walkathon.md)
-- [Optional] For additional learning and practice, look at the lessons and exercises of [Day 6 of JumpStart Live](https://github.com/Ada-Developers-Academy/jump-start-live/tree/master/lessons/day6#lessons)
+
 
 ## Notes
 
