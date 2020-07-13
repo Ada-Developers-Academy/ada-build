@@ -34,7 +34,7 @@ When you are writing code, it is good to have a folder structure which is logica
     cd jumpstart
     ```
 
-1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your home directory and end with `/ada/jumpstart`.
+1. Verify that the folder structure was created appropriately by running the `pwd` command, the output should include your home directory and end with `/ada/build`.
 
 ### The Command Line
 
