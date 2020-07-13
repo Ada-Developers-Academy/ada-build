@@ -1,11 +1,11 @@
 # Hello world
 
-_JumpStart: Lesson 8_
+_Build: Lesson 8_
 
-## Learning Goal
+## Learning Goals
 
-* Write and execute Ruby code
-* Practice using `irb` and running Ruby files from the terminal
+* Practice using `repl.it` to write and excute Python code.
+* Understand and use the `print` function.
 
 ## Overview
 
