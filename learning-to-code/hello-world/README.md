@@ -1,6 +1,6 @@
 # Hello world
 
-_JumpStart: Lesson 8_
+_Ada Build: Lesson 8_
 
 ## Learning Goal
 

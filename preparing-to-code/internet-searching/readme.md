@@ -1,5 +1,5 @@
 # Effective Internet Searching
-_JumpStart: Lesson 3_
+_Ada Build: Lesson 3_
 
 ## Learning Goals
 - To know where to go for answers

@@ -1,4 +1,4 @@
-# Ada Developers Academy JumpStart Curriculum
+# Ada Build Curriculum
 
 ## Preparing for Ada
 These lessons will expose you to our core values, help you identify your learning styles, and teach you the art of problem solving.
