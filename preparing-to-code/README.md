@@ -7,7 +7,7 @@ In these lessons you will learn how to navigate Mac OS X, learn about the langua
 | Order | Lesson                                                |
 | :---- | :---------------------------------------------------- |
 | 03    | [Effective Internet Searching](./internet-searching/) |
-| 04    | [macOSX Keyboard navigation](./keyboard-navigation/)  |
+| 04    | [macOS Keyboard navigation](./keyboard-navigation/)   |
 | 05    | [Programming languages](./ada-languages)              |
 | 06    | [Terminal](./terminal/)                               |
 | 07    | [Environment Setup](./environment-setup/)             |
