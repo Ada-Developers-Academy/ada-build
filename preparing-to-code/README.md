@@ -14,7 +14,7 @@ In these lessons you will learn how to navigate Mac OS X, learn about the langua
 
 **Notes**
 
-If you are *an applicant and do not currently have a machine with Mac OS X*, please complete the lessons on [Effective Internet Searching](./internet-searching/) and [Programming languages](./ada-languages). 
+If you are _an applicant and do not currently have a machine with macOS_, please complete the lessons on [Effective Internet Searching](./internet-searching/) and [Programming languages](./ada-languages). 
 
 To set up your computer on macOS install the following:
 
