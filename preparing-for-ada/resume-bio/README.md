@@ -1,6 +1,6 @@
 # Bio & Resume
 
-Another piece of pre-ada work is preparing a short biographical introduction (1-2 paragraphs) and a resume illustrating work and educational experience.  This information is shared with our company partners for internships.  It provides them a bit more information about you prior to interviews.  They are not shared further by Ada.
+Another piece of pre-ada work is preparing a short [biographical introduction](https://www.indeed.com/career-advice/resumes-cover-letters/write-a-personal-bio-that-draws-attention) (1-2 paragraphs) and a [resume](https://www.indeed.com/career-advice/resumes-cover-letters/what-makes-a-good-resume) illustrating work and educational experience.  This information is shared with our company partners for internships.  It provides them a bit more information about you prior to interviews.  They are not shared further by Ada.
 
 ## Bio
 
