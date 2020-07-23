@@ -45,7 +45,7 @@ Python is a language widely used for:
 * Data Science
 * And many more!
 
-At Ada we teach introductory Object-oriented programming in Python and server-side web development.  Students often build capstone projects using Python and many students use the language in internship and professionally after graduation.
+At Ada we teach introductory Object-Oriented programming in Python and server-side web development.  Students often build capstone projects using Python and many students use the language in internship and professionally after graduation.
 
 [Guido van Rossum in 2019](images/guido-headshot-2019.jpg)
 
