@@ -2,7 +2,11 @@
 
 ## The Ada Application Process
 
-You can read more about the Ada application process [on our website](https://adadevelopersacademy.org/process/).  With the online application you will submit a resume and answer some questions.  In Phase 2, you will be confronted with a coding challenge in [Python](https://www.python.org/) to solve and an interview to explain their solution and examine ways to extend it.  Applicants who proceed to Phase 3 will participate in a video interview which will focus on behavioral questions to guage your passion for Ada's mission and software development, aptitude for learning in our collaborative and inclusive environment, and grit and determination to succeed.
+You can read more about the Ada application process [on our website](https://adadevelopersacademy.org/process/).  With the online application you will submit a resume and answer some questions.  
+
+If you proceed to Phase 2, you will be confronted with a coding challenge in [Python](https://www.python.org/) to solve and an interview to explain your solution and examine ways to extend it.  
+
+If you proceed to Phase 3 you will participate in a video interview which will focus on behavioral questions to gauge your passion for Ada's mission and software development, aptitude for learning in our collaborative and inclusive environment, grit and determination to succeed.
 
 ## What We Are Looking For
 
@@ -26,4 +30,3 @@ These lessons will help teach you the art of problem solving.
 | 00    | [Applying to Ada - Phase 2](./applying-to-ada) |
 | 01    | [Problem Solving](./problem-solving/)          |
 | 02    | [Resume & Bio](./resume-bio/README.md)         |
-
