@@ -70,3 +70,15 @@ Flask is a Python micro-framework for creating web applications.  Flask has a si
 ### ReactJS
 
 [ReactJS](https://reactjs.org/) is a JavaScript framework for building user interfaces.  React allows front-end developers organize their application and provide quick and powerful single-page-applications (SPAs).
+
+
+## Learning Resources
+
+Below are a few sites which can help you with your journey in software development.
+
+* [Learn Python in DataCamp's free Intro to Python Tutorial](https://www.learnpython.org/)
+* [Learning Python: From Zero to Hero - Freecodecamp.org](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+* [Udacity HTML/CSS Course](https://www.udacity.com/course/intro-to-html-and-css--ud001) - Free resource to learn HTML & CSS
+* [Mozilla Developers Network on HTML & CSS](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+* [Mozilla Developers Network on JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+* [Learn JavaScript Online](https://learnjavascript.online/)

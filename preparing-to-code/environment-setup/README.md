@@ -1,12 +1,10 @@
-# Environment Setup
+# Python Environment
 
 _JumpStart: Lesson 7_
 
-## Learning Goals
+## Learning Goal
 
-* To setup a development environment
-* Gain confidence in using the Python REPL
-* Gain confidence in using VS Code
+* Learn to use Python in the [Repl.it](https://repl.it) to write Python programs
 
 ## Activities
 
