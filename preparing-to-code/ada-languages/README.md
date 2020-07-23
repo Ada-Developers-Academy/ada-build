@@ -43,7 +43,7 @@ Python is a language widely used for:
 * Mathematical Operations
 * Artificial Intelligence
 * Data Science
-* And many more!
+* And much more!
 
 At Ada we teach introductory Object-Oriented programming in Python and server-side web development.  Students often build capstone projects using Python and many students use the language in internship and professionally after graduation.
 
