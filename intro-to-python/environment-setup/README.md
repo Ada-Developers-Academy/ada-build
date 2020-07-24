@@ -9,7 +9,7 @@ _Ada Build - Intro to Python - Lesson 0_
 
 ## Video Intro
 
-The [Introduction to Google Colab video](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fefdcce-9b07-4c0f-a5d6-ac020156a9c6) will serve as an introduction to the programming environment that you will use for the subsequent lessons. Please view this X minute video before continuing.
+The [Introduction to Google Colab video](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fefdcce-9b07-4c0f-a5d6-ac020156a9c6) will serve as an introduction to the programming environment that you will use for the subsequent lessons. Please view this 11 minute video before continuing.
 
 ## Google Colab
 
