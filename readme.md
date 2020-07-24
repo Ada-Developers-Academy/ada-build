@@ -14,6 +14,7 @@ Through these resources you will learn about the languages that Ada teaches and 
 | 02    | [Problem Solving](./learning-at-ada/problem-solving/) |
 
 
+
 ## Introduction to Programming in Python
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
 
