@@ -22,8 +22,6 @@ Before you get started you will need two things:
 
 When you first click on the link to a Colab Notebook you may be directed to a page like the one below. Make sure to choose "Open with Google Colaboratory".
 
-![open_with_google_colab](https://drive.google.com/uc?id=1I9jyPzprvfCSFU1Ysacb6rkQ_R2TfQuK)
-
 Lets take a look at the [Preparing to code Notebook](../00_preparing_to_code.ipynb).
 
 When you visit the notebooks in Github, you will want to click on **Open in Colab**.
