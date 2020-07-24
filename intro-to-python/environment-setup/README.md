@@ -26,6 +26,17 @@ When you first click on the link to a Colab Notebook you may be directed to a pa
 
 Lets take a look at the [Preparing to code Notebook](../00_preparing_to_code.ipynb).
 
+When you visit the notebooks in Github, you will want to click on **Open in Colab**.
+
+![Open in Colab](images/open-in-colab.png)
+
+Then select Authorize with Github
+
+![Authorize with github](images/authorize-with-github.png)
+
+Lastly if you want to keep the notebook as your own you can make a copy into Google drive.
+
+
 ## Python REPL
 
 Python provides an interactive computer program that allows the user to enter Python code and get results of that code immediately. It is a feature known as a REPL (read, evaluate, print loop). These kinds of programs are great for trying out new commands, practicing syntax, and evaluating solutions to small problems. It's one of the two primary ways to use Python to interact with a computer. The other is to put Python code into a file and then ask the computer to read and execute the code in the file. We will do lots of both.
