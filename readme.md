@@ -20,7 +20,7 @@ These lessons will introduce you to the fundamentals of programming including wr
 | Order | Lesson                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------- |
 | 00    | [Programming Environment](./intro-to-python/environment-setup/)  
-| 01    | [Hello World](./intro-to-python/)                                                       |
+| 01    | [Hello World](./intro-to-python/01_hello_world.ipynb)                                                       |
 | 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](./intro-to-python/) |
 | 03    | [Branching: Relational operators, Logical operators, Conditionals](./intro-to-python/) |
 | 04    | [Functions](./intro-to-python/) |
