@@ -21,9 +21,9 @@ These lessons will introduce you to the fundamentals of programming including wr
 | :---- | :--------------------------------------------------------------------------------------------------- |
 | 00    | [Programming Environment](./intro-to-python/environment-setup/)  
 | 01    | [Hello World](./intro-to-python/01_hello_world.ipynb)                                                       |
-| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](./intro-to-python/) |
-| 03    | [Branching: Relational operators, Logical operators, Conditionals](./intro-to-python/) |
-| 04    | [Functions](./intro-to-python/) |
-| 05    | [Iterators: For and While Loops](./intro-to-python/)                                                           |
-| 06    | [Lists](./intro-to-python/arrays)                                                                  |
-| 07    | [Dictionaries](./intro-to-python/)                                                                  |
+| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](./intro-to-python/02_programming_grammar.ipynb) |
+| 03    | [Branching: Relational operators, Logical operators, Conditionals](./intro-to-python/03_branching.ipynb) |
+| 04    | [Functions](./intro-to-python/04_functions.ipynb) |
+| 05    | [Iterators: For and While Loops](./intro-to-python/05_loops_iteration.ipynb)                                                           |
+| 06    | [Lists](./intro-to-python/.06_lists.ipynb)                                                                  |
+| 07    | [Dictionaries](./intro-to-python/07_dictionaries.ipynb)                                                                  |
