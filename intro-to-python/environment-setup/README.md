@@ -9,18 +9,7 @@ _Ada Build - Intro to Python - Lesson 0_
 
 ## Video Intro
 
-The [Introduction to Google Colab video](link to video by Chris) will serve as an introduction to the programming environment that you will use for the subsequent lessons. Please view this XXX minute video before continuing.
-
-Notes for Chris from Becca
-- First how do you open a Colab Notebook linked in this github repo. [Here is the notebook to work with](./intro-to-python/00_preparing_to_code.ipynb) -- Here's the colab link in case you need to edit it and repost to gitbub (https://colab.research.google.com/drive/1t0-Av33EgIM8z9xyjmxe9Sm37tsIYyFU#scrollTo=wgEtUJ9Lqn_k)
-
--Folx should make a copy of the colab notebook so that they can edit it.
-
-- What's a text cell
-- What's a code cell -- how do you run it? How do you make a new one.
-
-- Some basic programming things. Maybe a mathematical expression and a string?
-
+The [Introduction to Google Colab video]() will serve as an introduction to the programming environment that you will use for the subsequent lessons. Please view this X minute video before continuing.
 
 ## Google Colab
 
