@@ -10,7 +10,7 @@ Through these resources you will learn about the languages that Ada teaches and 
 | Order | Lesson                                                  |
 | :---- | :------------------------------------------------------ |
 | 00   | [Ada programming languages](./learning-at-ada/ada-languages)  
-| 01    | [Effective Internet Searching](./learning-at-ada/effective-internet-searching/) |
+| 01    | [Effective Internet Searching](./learning-at-ada/internet-searching/) |
 | 02    | [Problem Solving](./learning-at-ada/problem-solving/) |
 
 
