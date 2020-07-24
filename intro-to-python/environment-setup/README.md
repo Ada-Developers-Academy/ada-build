@@ -15,9 +15,16 @@ The [Introduction to Google Colab video]() will serve as an introduction to the 
 
 For the Learning to Code portion of the Ada Build Curriculum you will review notes and complete exercises in a series of lessons in [Google Colab](./intro-to-python/00_preparing_to_code.ipynb). Colab is google's hosting of Jupyter Notebook, an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses for Jupyter Notebook include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Here we are using colab and jupyter notebook to create an interative intro to python course.
 
+Before you get started you will need two things:
+
+1.  A [Github account](https://github.com/) to access the Notebooks as Colab will ask Github for access to the document.  It's free and something you will likely want to have as you continue this path to become a developer.
+2.  A [Google Account](https://support.google.com/accounts/answer/27441?hl=en).  You will need this to run the Jupyter Notebooks in Google Colab.
+
 When you first click on the link to a Colab Notebook you may be directed to a page like the one below. Make sure to choose "Open with Google Colaboratory".
 
 ![open_with_google_colab](https://drive.google.com/uc?id=1I9jyPzprvfCSFU1Ysacb6rkQ_R2TfQuK)
+
+Lets take a look at the [Preparing to code Notebook](../00_preparing_to_code.ipynb).
 
 ## Python REPL
 
