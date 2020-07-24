@@ -28,3 +28,7 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 05    | [Iterators: For and While Loops](./intro-to-python/05_loops_iteration.ipynb)                                                           |
 | 06    | [Lists](./intro-to-python/06_lists.ipynb)                                                                  |
 | 07    | [Dictionaries](./intro-to-python/07_dictionaries.ipynb)                                                                  |
+
+#### Issues
+
+Finally, the folx at Ada are always iterating and improving our curriculum. If you find a bug, typo, or just generally have a suggestion for the Ada Build curriculum, you can give feedback by selecting _Issues_ in the github menu bar, and clicking the green button for a _New Issue_.
