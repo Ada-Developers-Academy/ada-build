@@ -1,5 +1,5 @@
 # Effective Internet Searching
-_Ada Build: Lesson 3_
+_Ada Build - Learning at Ada - Lesson 1_
 
 ## Learning Goals
 - To know where to go for answers
