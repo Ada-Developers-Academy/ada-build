@@ -25,5 +25,5 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 03    | [Branching: Relational operators, Logical operators, Conditionals](./intro-to-python/03_branching.ipynb) |
 | 04    | [Functions](./intro-to-python/04_functions.ipynb) |
 | 05    | [Iterators: For and While Loops](./intro-to-python/05_loops_iteration.ipynb)                                                           |
-| 06    | [Lists](./intro-to-python/.06_lists.ipynb)                                                                  |
+| 06    | [Lists](./intro-to-python/06_lists.ipynb)                                                                  |
 | 07    | [Dictionaries](./intro-to-python/07_dictionaries.ipynb)                                                                  |
