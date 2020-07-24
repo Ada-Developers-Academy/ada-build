@@ -1,6 +1,6 @@
 # Python Environment
 
-_Ada Build: Lesson 00_
+_Ada Build - Intro to Python - Lesson 0_
 
 # Learning Goals
 
