@@ -9,8 +9,7 @@ These lessons will expose you to our core values, help you identify your learnin
 | Order | Lesson                                                  |
 | :---- | :------------------------------------------------------ |
 | 00    | [Applying to Ada](./preparing-for-ada/applying-to-ada)  |
-| 01    | [Learning Styles](./preparing-for-ada/learning-styles/) |
-| 02    | [Problem Solving](./preparing-for-ada/problem-solving/) |
+| 01    | [Problem Solving](./preparing-for-ada/problem-solving/) |
 
 ## [Preparing to Code](./preparing-to-code)
 
