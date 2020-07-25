@@ -8,7 +8,7 @@ _Ada Build - Learning at Ada - Lesson 2_
 ## Activities
 Start by reading through our notes on [algorithms](./algorithms.md).
 
-Write an algorithm for getting to the house of a family member or friend (you pick a specific person)? Make sure to include all 5 essential elements of an algorithm: input, output, finiteness, definiteness, and effectiveness.
+Write an algorithm for getting to the house of a family member or friend. Make sure to include all 5 essential elements of an algorithm: input, output, finiteness, definiteness, and effectiveness.
 
 Watch the [Driverless Car Hits the Street - Not People (2008)](https://www.youtube.com/watch?v=yDVLUiJfpPw) and think about why writing instructions for computers might be different than writing instructions for humans. 
 
