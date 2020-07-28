@@ -48,6 +48,8 @@ Python is a language widely used for:
 
 At Ada we teach introductory Object-Oriented programming in Python and server-side web development.  Students often build capstone projects using Python and many students use the language in internship and professionally after graduation.
 
+#### Guido Van Rossum Courtesy of Wikipedia
+
 ![Guido van Rossum in 2019](images/guido-van-rossum.jpg)
 
 ### HTML & CSS
