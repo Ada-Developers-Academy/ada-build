@@ -32,7 +32,7 @@ Then select Authorize with Github
 
 ![Authorize with github](images/authorize-with-github.png)
 
-Lastly if you want to keep the notebook as your own you can make a copy into Google drive.
+Lastly, to keep the colab notebook as your own and save your changes, choose **File** -->  **Save a copy in Drive**.
 
 
 ## Python REPL
