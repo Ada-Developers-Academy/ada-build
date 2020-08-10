@@ -13,7 +13,7 @@ The [Introduction to Google Colab video](https://adaacademy.hosted.panopto.com/P
 
 ## Google Colab
 
-For the Learning to Code portion of the Ada Build Curriculum you will review notes and complete exercises in a series of lessons in [Google Colab](./intro-to-python/00_preparing_to_code.ipynb). Colab is google's hosting of Jupyter Notebook, an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses for Jupyter Notebook include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Here we are using colab and jupyter notebook to create an interative intro to python course.
+For the Learning to Code portion of the Ada Build Curriculum you will review notes and complete exercises in a series of lessons in [Google Colab](../00_preparing_to_code.ipynb). Colab is google's hosting of Jupyter Notebook, an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses for Jupyter Notebook include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Here we are using colab and jupyter notebook to create an interative intro to python course.
 
 Before you get started you will need two things:
 
