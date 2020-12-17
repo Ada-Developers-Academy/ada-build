@@ -5,7 +5,7 @@ _Ada Build - Intro to Python - Lesson 0_
 # Learning Goals
 
 * Learn to use Python in the [Google Colab] to complete Ada Build lessons.
-* Understand how [repl.it](https://repl.it/) will be use.
+* Understand how [repl.it](https://repl.it/) will be used.
 
 ## Video Intro
 
@@ -22,7 +22,7 @@ Before you get started you will need two things:
 
 When you first click on the link to a Colab Notebook you may be directed to a page like the one below. Make sure to choose "Open with Google Colaboratory".
 
-Lets take a look at the [Preparing to code Notebook](../00_preparing_to_code.ipynb).
+Let's take a look at the [Preparing to code Notebook](../00_preparing_to_code.ipynb).
 
 When you visit the notebooks in Github, you will want to click on **Open in Colab**.
 
