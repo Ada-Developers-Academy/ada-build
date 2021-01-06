@@ -6,6 +6,9 @@ This repository contains the materials for the Build program as part of [Ada Dev
 
 Through these resources you will learn about the languages that Ada teaches and practice the art of problem solving.
 
+To launch these notebooks click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ada-Developers-Academy/ada-build/master) and browse to the intro to python folder to start the lessons.
+
+
 
 | Order | Lesson                                                  |
 | :---- | :------------------------------------------------------ |
