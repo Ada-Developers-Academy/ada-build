@@ -49,7 +49,7 @@ print('Welcome to Ada Build!')
 ### Practice Problems
 
 1. What question do you have about the practice problems?
-    - Which problems were the most challenging or suprising?
+1. Which problems were the most challenging or suprising?
 
 ## Extra Extra
 
