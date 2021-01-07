@@ -14,6 +14,7 @@ Today's round table will focus on reviewing the first two lessons in Ada Build: 
 1. How are logic errors different from syntax errors?
 1. Let's consider truth and falsy values. 
     * What is the output of the following blocks of code?
+    * Let's review other ways to write code with the same output.
     
     ```python
     x = None
@@ -33,9 +34,11 @@ Today's round table will focus on reviewing the first two lessons in Ada Build: 
         print("x is Falsy!")
     ```
 
-
-
 ## Logical Operators
+1. Describe the difference between `or` and `and`. 
+    * For the [coffee and sleep example](XXX) describe how it would be different if it were an `or` relationship.
+1. Let's revisit the example above where `x = 'hello'`. 
+    * How would the code change to still be logical if we started with `if not x:`?
 
 ## Practice Problems
 1. What question do you have about the practice problems?
@@ -55,3 +58,7 @@ Today's round table will focus on reviewing the first two lessons in Ada Build: 
 ## Rock, Paper, Scissors
 1. What questions are there about Rock, Paper, Scissors?
 1. Let's look a few different solutions.
+
+## Extra Extra
+
+1. What other questions do you have?
