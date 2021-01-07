@@ -18,9 +18,9 @@ For today's discussion you are enouraged to do the following:
 
 Before we get started, let's popcorn around the room and introduce ourselves. After your turn, you can call on who's next by saying "Popcorn Name".
 
-Your introduction can include the following, or 
-
 - Your name and pronouns
+- What brought you to Ada
+- A fun fact
 
 ## Hello, World!
 
