@@ -1,6 +1,6 @@
 # Lesson 03: Branching
 
-Today's round table will focus on reviewing the first two lessons in Ada Build: [**03 - Branching](XXX).
+Today's round table will focus on reviewing the [lesson on branching](XXX).
 
 ## Relational Operators
 
