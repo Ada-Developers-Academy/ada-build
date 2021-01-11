@@ -7,6 +7,7 @@ The following lessons will introduce you to the fundamentals of programming incl
 | 00    | [Programming Environment](../intro-to-python/environment-setup/) |  
 | 01    | [Hello World](../intro-to-python/01_hello_world.ipynb)| Combined with the following lesson. See below. |
 | 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](../intro-to-python/02_programming_grammar.ipynb) | [Lesson 01-02 Discussion Guide](01-02-hello-world-programming-grammar.md) |
+| Optional | [User Input](../intro-to-python/user-input.ipynb) | N/A|
 | 03    | [Branching: Relational operators, Logical operators, Conditionals](../intro-to-python/03_branching.ipynb) | [Lesson 03 Discussion Guide](03-branching.md) |
 | 04    | [Functions](../intro-to-python/04_functions.ipynb) | [Lesson 04 Discussion Guide](04-functions.md) |
 | 05    | [Iterators: For and While Loops](../intro-to-python/05_loops_iteration.ipynb) | [Lesson 05 Discussion Guide](05-loops.md) |
