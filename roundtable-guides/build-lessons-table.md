@@ -1,6 +1,6 @@
 ## Introduction to Programming in Python
 
-The following lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data. The first lesson, [Programming Environment](../intro-to-python/environment-setup/), will go over how to access the lessons. The Review Disucssion Guides will be used to facilitate discussion at the Saturday review sessions.
+The following lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data. The first lesson, [Programming Environment](../intro-to-python/environment-setup/), will go over how to access the lessons. The Review Discussion Guides will be used to facilitate discussion at the Saturday review sessions.
 
 | Order | Lesson                                                                                               | Review Discussion Guide |
 | :---- | :--------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
