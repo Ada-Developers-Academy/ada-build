@@ -9,8 +9,8 @@ The following lessons will introduce you to the fundamentals of programming incl
 | 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](../intro-to-python/02_programming_grammar.ipynb) | [Lesson 01-02 Discussion Guide](01-02-hello-world-programming-grammar.md) |
 | 03    | [Branching: Relational operators, Logical operators, Conditionals](../intro-to-python/03_branching.ipynb) | [Lesson 03 Discussion Guide](03-branching.md) |
 | 04    | [Functions](../intro-to-python/04_functions.ipynb) | [Lesson 04 Discussion Guide](04-functions.md) |
-| 05    | [Iterators: For and While Loops](../intro-to-python/05_loops_iteration.ipynb) | [Lesson 05 Discussion Guide](05-loops.md) |
-| 06    | [Lists](../intro-to-python/06_lists.ipynb) | [Lesson 06 Discussion Guide](06-lists.md) |
-| 07    | [Dictionaries](../intro-to-python/07_dictionaries.ipynb) | [Lesson 07 Discussion Guide](07-dictionaries.md) |
+| 05    | [Iterators: For and While Loops](../intro-to-python/05_loops_iteration.ipynb) | Will be complete by January 30 |
+| 06    | [Lists](../intro-to-python/06_lists.ipynb) | Will be complete by January 30 |
+| 07    | [Dictionaries](../intro-to-python/07_dictionaries.ipynb) | Will be complete by January 30 |
 | Optional | [User Input](../intro-to-python/user_input.ipynb)  <br /> This lesson is optional and can be completed anytime after [Lesson 02 - Programming Grammar](../intro-to-python/02_programming_grammar.ipynb)| N/A|
 | |  | |
