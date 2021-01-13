@@ -44,7 +44,7 @@ print('Welcome to Ada Build!')
 1. Why is the escape character `\` sometimes necessary? 
     * For instance, why do we need to type `\"` to include double quotes in a string?
 1. Describe how to select a single character from a string?
-    * How do we select multiple characters?
+    - How do we select multiple characters at once?
 
 ### Practice Problems
 
