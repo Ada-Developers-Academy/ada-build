@@ -5,7 +5,7 @@ Today's round table will focus on reviewing the [lesson on functions](XXX).
 ## Built-in Functions and Modules
 
 1. In your own words, define a `function`.
-1. Type casting functions covert data of one type to another datatype. Why/when might these functions be useful?
+1. Type casting functions covert data of one type to another type. Why/when might these functions be useful?
     * Examples: `str`, `int`, `float`, `bool`
 1. Why might it be useful to encapsulate functions into a module?
 1. Let's share any functions that we've found particularly useful.
@@ -13,7 +13,7 @@ Today's round table will focus on reviewing the [lesson on functions](XXX).
 ## Defining Functions
 
 1. Why is it useful to encapsulate functionality into a `function`?
-1. What constitutes the `function` *signature*.
+1. What constitutes the `function` *signature*?
 1. What is the difference between a `parameter` and an `argument`?
 1. What does it mean to say a parameter is scoped to a particular `function`?
 1. If a function does not have a `return` statement, what will it return?

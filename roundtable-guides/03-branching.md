@@ -10,7 +10,7 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
 
 ## Conditionals
 1. Why is the order of conditional tests in a chained conditional (`if/elif/elif...`) important? 
-1. Let's consider the [Black Jack](XXX) example. Why is the second solution presented in Ada Build the best solution.
+1. Let's consider the [Black Jack](XXX) example. Why is the second solution presented in Ada Build the better solution?
 1. How are logic errors different from syntax errors?
 1. Let's consider truth and falsy values. 
     * What is the output of the following blocks of code?
@@ -38,7 +38,7 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
 1. Describe the difference between `or` and `and`. 
     * For the [coffee and sleep example](XXX) describe how it would be different if it were an `or` relationship.
 1. Let's revisit the example above where `x = 'hello'`. 
-    * How would the code change to still be logical if we started with `if not x:`?
+    * How would the code change (and still remain logical) if we started with `if not x:`?
 
 ## Practice Problems
 1. What question do you have about the practice problems?
@@ -57,7 +57,7 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
 
 ## Rock, Paper, Scissors
 1. What questions are there about Rock, Paper, Scissors?
-1. Let's look a few different solutions.
+1. Let's look at a few different solutions.
 
 ## Extra Extra
 
