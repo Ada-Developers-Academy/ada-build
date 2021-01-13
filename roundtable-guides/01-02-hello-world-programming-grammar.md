@@ -24,7 +24,7 @@ print('Welcome to Ada Build!')
 
 ### Mathematical Operations and Precedence
 
-1. How is truncating division `//` different from division `/`. 
+1. How is truncating division `//` different from division `/`?
     * Describe a real world situation where truncating division `//` is useful?
 1. What operation does the modulus operator `%` perform?
     * Describe a real world situation where the modulus operator `%` is useful?
