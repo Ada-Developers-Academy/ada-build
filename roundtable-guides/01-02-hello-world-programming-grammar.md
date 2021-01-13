@@ -25,9 +25,9 @@ print('Welcome to Ada Build!')
 ### Mathematical Operations and Precedence
 
 1. How is truncating division `//` different from division `/`. 
-    - Describe a real world situation where truncating division `//` is useful?
+    * Describe a real world situation where truncating division `//` is useful?
 1. What operation does the modulus operator `%` perform?
-    - Describe a real world situation where the modulus operator `%` is useful?
+    * Describe a real world situation where the modulus operator `%` is useful?
 1. Describe the order in which the following operations are performed:
     `-5 + 2 * 3 < 20 + 4 * -5`
 
@@ -36,7 +36,7 @@ print('Welcome to Ada Build!')
 1. Let's discuss the difference between an assignment statement `x = 5` and a comparison statement `x == 5`.
 
 1. How can the following snippet of code be rewritten without the compound operator `+=`:
-     - `x += 1`
+     * `x += 1`
 
 ## Strings
 
