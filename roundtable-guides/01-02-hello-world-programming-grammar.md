@@ -14,7 +14,7 @@ print('Welcome to Ada Build!')
 
 ## Comments
 1. Describe the purpose of comments. 
-    - Who are they useful to and in what ways?
+    * Who are they useful to and in what ways?
     
 ## Data Types
 
@@ -54,4 +54,3 @@ print('Welcome to Ada Build!')
 ## Extra Extra
 
 1. What other questions do you have?
-
