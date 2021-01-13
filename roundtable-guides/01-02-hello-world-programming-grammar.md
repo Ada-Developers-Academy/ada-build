@@ -19,7 +19,7 @@ print('Welcome to Ada Build!')
 ## Data Types
 
 1. What is the difference between a `String` and a `Float`.
-1. How can we check the data type of a `variable` or a `literal`.
+1. How can we check the data type of a `variable` or a `literal`?
     - Why is it useful to know?
 
 ### Mathematical Operations and Precedence
