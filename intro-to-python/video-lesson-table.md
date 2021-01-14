@@ -1,5 +1,5 @@
 | Order | Lesson | Videos |
-| :---- |:----|:----|:----|
+| :---- |:----|:----|
 | 00    | [Programming Environment](./environment-setup/)| [Intro to Colab](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fefdcce-9b07-4c0f-a5d6-ac020156a9c6)|
 | 01    | [Hello World](./01_hello_world.ipynb)| [Intro to Colab](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fefdcce-9b07-4c0f-a5d6-ac020156a9c6)|
 | 02    | [Programming Grammar](./02_programming_grammar.ipynb) | Debugging Syntax Errors |
