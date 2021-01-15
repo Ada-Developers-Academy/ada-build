@@ -18,17 +18,18 @@ Through these resources you will learn about the languages that Ada teaches and 
 ## Introduction to Programming in Python
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
 
+{% include panoptoPlayer.html id="6f137996-88f0-490a-9e94-acb10170c7dd" %}
+
 | Order | Lesson                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------- |
-| 00    | [Programming Environment](./intro-to-python/environment-setup/)  
-| 01    | [Hello World](./intro-to-python/01_hello_world.ipynb)                                                       |
-| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](./intro-to-python/02_programming_grammar.ipynb) |
-| 03    | [Branching: Relational operators, Logical operators, Conditionals](./intro-to-python/03_branching.ipynb) |
-| 04    | [Functions](./intro-to-python/04_functions.ipynb) |
-| 05    | [Iterators: For and While Loops](./intro-to-python/05_loops_iteration.ipynb)                                                           |
-| 06    | [Lists](./intro-to-python/06_lists.ipynb)                                                                  |
-| 07    | [Dictionaries](./intro-to-python/07_dictionaries.ipynb)                                                                  |
+| 01    | [Hello World](https://colab.research.google.com/drive/1sFOo4HnuUxJMtso9JljUZwHMomhu9ADs)                                                       |
+| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing) |
+| 03    | [Branching: Relational operators, Logical operators, Conditionals](https://colab.research.google.com/drive/1huE7PyavZSJIou4mh5G2e7yfG08Vb7da?usp=sharing) |
+| 04    | [Functions](https://colab.research.google.com/drive/1e8CaljqZrKJyFm7Ry5qHynp7GdoVHFLk?usp=sharing) |
+| 05    | [Iterators: For and While Loops](https://colab.research.google.com/drive/1m9h053kS6bjAeiHnEHIP39fqbyOO7glc?usp=sharing)                                                           |
+| 06    | [Lists](https://colab.research.google.com/drive/1TK9Enhh0mITZ1649l-r4_gzeg2B3eRRu?usp=sharing)                                                                  |
+| 07    | [Dictionaries](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing)                                                                  |
 
 #### Issues
 
-Finally, the folx at Ada are always iterating and improving our curriculum. If you find a bug, typo, or just generally have a suggestion for the Ada Build curriculum, you can give feedback by selecting _Issues_ in the github menu bar, and clicking the green button for a _New Issue_.
+Finally, the folx at Ada are always iterating and improving our curriculum. If you find a bug, typo, or just generally have a suggestion for the Ada Build curriculum, you can give feedback by [visiting the _Issues_ page for this project in github](https://github.com/Ada-Developers-Academy/ada-build/issues) and clicking the green button for a _New Issue_.
