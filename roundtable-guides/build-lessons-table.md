@@ -4,13 +4,12 @@ The following lessons will introduce you to the fundamentals of programming incl
 
 | Order | Lesson                                                                                               | Review Discussion Guide |
 | :---- | :--------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
-| 00    | [Programming Environment](../intro-to-python/environment-setup/) |  N/A |
-| 01    | [Hello World](../intro-to-python/01_hello_world.ipynb)| Combined with the following lesson. See below. |
-| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](../intro-to-python/02_programming_grammar.ipynb) | [Lesson 01-02 Discussion Guide](01-02-hello-world-programming-grammar.md) |
-| 03    | [Branching: Relational operators, Logical operators, Conditionals](../intro-to-python/03_branching.ipynb) | [Lesson 03 Discussion Guide](03-branching.md) |
-| 04    | [Functions](../intro-to-python/04_functions.ipynb) | [Lesson 04 Discussion Guide](04-functions.md) |
-| 05    | [Iterators: For and While Loops](../intro-to-python/05_loops_iteration.ipynb) | Will be complete by January 30 |
-| 06    | [Lists](../intro-to-python/06_lists.ipynb) | Will be complete by January 30 |
-| 07    | [Dictionaries](../intro-to-python/07_dictionaries.ipynb) | Will be complete by January 30 |
-| Optional | [User Input](../intro-to-python/user_input.ipynb)  <br /> This lesson is optional and can be completed anytime after [Lesson 02 - Programming Grammar](../intro-to-python/02_programming_grammar.ipynb)| N/A|
-| |  | |
+| 01    | [Hello World](https://colab.research.google.com/drive/1sFOo4HnuUxJMtso9JljUZwHMomhu9ADs)| [Lesson 01 Discussion Guide](01-hello-world.md) |
+| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing) | [Lesson 02 Discussion Guide](02-programming-grammar.md) |
+| 03    | [Branching: Relational operators, Logical operators, Conditionals](https://colab.research.google.com/drive/1huE7PyavZSJIou4mh5G2e7yfG08Vb7da?usp=sharing) | [Lesson 03 Discussion Guide](03-branching.md) |
+| 04    | [Functions](https://colab.research.google.com/drive/1e8CaljqZrKJyFm7Ry5qHynp7GdoVHFLk?usp=sharing) | [Lesson 04 Discussion Guide](04-functions.md) |
+| 05    | [Iterators: For and While Loops](https://colab.research.google.com/drive/1m9h053kS6bjAeiHnEHIP39fqbyOO7glc?usp=sharing) | Will be complete by January 30 |
+| 06    | [Lists](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing) | Will be complete by January 30 |
+| 07    | [Dictionaries](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing) | Will be complete by January 30 |
+| Optional | [User Input](https://colab.research.google.com/drive/1U3_0iFQPyCBrA-gb2QBqu_coFWmrUrVY)  <br /> This lesson is optional and can be completed anytime after [Lesson 02 - Programming Grammar](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing)| N/A|
+

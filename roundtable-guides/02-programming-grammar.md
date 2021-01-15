@@ -1,6 +1,6 @@
-# Lesson 01: Hello, World! and Lesson 02: Programming Grammar
+# Lesson 02: Programming Grammar
 
-Today's round table will focus on reviewing the first two lessons in Ada Build: [**01 - Hello, World!**](XXX) and [**02 - Programming Grammar**](XXX).
+Today's round table will focus on reviewing the [lesson on programming grammar](XXX).
 
 # Hello, World!
 
