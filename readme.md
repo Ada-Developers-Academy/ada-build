@@ -22,10 +22,10 @@ These lessons will introduce you to the fundamentals of programming including wr
 
 | Order | Lesson                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------- |
-| 01    | [Hello World](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/01_hello_world.ipynb)                                                       |
-| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/02_programming_grammar.ipynb) |
-| 03    | [Branching: Relational operators, Logical operators, Conditionals](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/03_branching.ipynb) |
-| 04    | [Functions](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/04_functions.ipynb) |
-| 05    | [Iterators: For and While Loops](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/05_loops_iteration.ipynb)                                                           |
-| 06    | [Lists](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/06_lists.ipynb)                                                                  |
-| 07    | [Dictionaries](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/07_dictionaries.ipynb)                                                                  |
+| 01    | [Hello World](https://colab.research.google.com/drive/1sFOo4HnuUxJMtso9JljUZwHMomhu9ADs)                                                       |
+| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing) |
+| 03    | [Branching: Relational operators, Logical operators, Conditionals](https://colab.research.google.com/drive/1huE7PyavZSJIou4mh5G2e7yfG08Vb7da?usp=sharing) |
+| 04    | [Functions](https://colab.research.google.com/drive/1e8CaljqZrKJyFm7Ry5qHynp7GdoVHFLk?usp=sharing) |
+| 05    | [Iterators: For and While Loops](https://colab.research.google.com/drive/1m9h053kS6bjAeiHnEHIP39fqbyOO7glc?usp=sharing)                                                           |
+| 06    | [Lists](https://colab.research.google.com/drive/1TK9Enhh0mITZ1649l-r4_gzeg2B3eRRu?usp=sharing)                                                                  |
+| 07    | [Dictionaries](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing)                                                                  |
