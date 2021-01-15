@@ -19,6 +19,7 @@ Through these resources you will learn about the languages that Ada teaches and 
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
 
 **TODO: INTRO VIDEO HERE**
+{% include panoptoPlayer.html id="c1ea7703-b356-4ea8-9c72-acae013974ff" %}
 
 | Order | Lesson                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------- |
@@ -29,3 +30,7 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 05    | [Iterators: For and While Loops](https://colab.research.google.com/drive/1m9h053kS6bjAeiHnEHIP39fqbyOO7glc?usp=sharing)                                                           |
 | 06    | [Lists](https://colab.research.google.com/drive/1TK9Enhh0mITZ1649l-r4_gzeg2B3eRRu?usp=sharing)                                                                  |
 | 07    | [Dictionaries](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing)                                                                  |
+
+#### Issues
+
+Finally, the folx at Ada are always iterating and improving our curriculum. If you find a bug, typo, or just generally have a suggestion for the Ada Build curriculum, you can give feedback by [visiting the _Issues_ page for this project in github](https://github.com/Ada-Developers-Academy/ada-build/issues) and clicking the green button for a _New Issue_.
