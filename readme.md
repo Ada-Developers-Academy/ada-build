@@ -16,9 +16,10 @@ Through these resources you will learn about the languages that Ada teaches and 
 
 
 ## Introduction to Programming in Python
-These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
+These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
 {% include panoptoPlayer.html id="6f137996-88f0-490a-9e94-acb10170c7dd" %}
+[Intro Video](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f137996-88f0-490a-9e94-acb10170c7dd)
 
 | Order | Lesson                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------- |
@@ -29,6 +30,7 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 05    | [Iterators: For and While Loops](https://colab.research.google.com/drive/1m9h053kS6bjAeiHnEHIP39fqbyOO7glc?usp=sharing)                                                           |
 | 06    | [Lists](https://colab.research.google.com/drive/1TK9Enhh0mITZ1649l-r4_gzeg2B3eRRu?usp=sharing)                                                                  |
 | 07    | [Dictionaries](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing)                                                                  |
+| Optional | [User Input](https://colab.research.google.com/drive/1U3_0iFQPyCBrA-gb2QBqu_coFWmrUrVY)  <br /> This lesson is optional and can be completed anytime after [Lesson 02 - Programming Grammar](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing)|
 
 #### Issues
 
