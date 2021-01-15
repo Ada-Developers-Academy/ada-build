@@ -32,6 +32,11 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 07    | [Dictionaries](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing)                                                                  |
 | Optional | [User Input](https://colab.research.google.com/drive/1U3_0iFQPyCBrA-gb2QBqu_coFWmrUrVY)  <br /> This lesson is optional and can be completed anytime after [Lesson 02 - Programming Grammar](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing)|
 
+
+#### Video Lessons
+
+Video lessons to accompany this curriculum are under development. There are livecode videos linked throughout the lessons. An up to date catalog of videos can be found [here](./intro-to-python/video-lesson-table.md).
+
 #### Issues
 
 Finally, the folx at Ada are always iterating and improving our curriculum. If you find a bug, typo, or just generally have a suggestion for the Ada Build curriculum, you can give feedback by [visiting the _Issues_ page for this project in github](https://github.com/Ada-Developers-Academy/ada-build/issues) and clicking the green button for a _New Issue_.
