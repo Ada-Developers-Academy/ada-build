@@ -18,7 +18,7 @@ Through these resources you will learn about the languages that Ada teaches and 
 ## Introduction to Programming in Python
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
 
-{% include panoptoPlayer.html id="b82ad94f-59cc-4042-ac00-acb10168ba0a" %}
+{% include panoptoPlayer.html id="6f137996-88f0-490a-9e94-acb10170c7dd" %}
 
 | Order | Lesson                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------- |
