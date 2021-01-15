@@ -18,17 +18,14 @@ Through these resources you will learn about the languages that Ada teaches and 
 ## Introduction to Programming in Python
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data
 
+**TODO: INTRO VIDEO HERE**
+
 | Order | Lesson                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------- |
-| 00    | [Programming Environment](./intro-to-python/environment-setup/)  
-| 01    | [Hello World](./intro-to-python/01_hello_world.ipynb)                                                       |
-| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](./intro-to-python/02_programming_grammar.ipynb) |
-| 03    | [Branching: Relational operators, Logical operators, Conditionals](./intro-to-python/03_branching.ipynb) |
-| 04    | [Functions](./intro-to-python/04_functions.ipynb) |
-| 05    | [Iterators: For and While Loops](./intro-to-python/05_loops_iteration.ipynb)                                                           |
-| 06    | [Lists](./intro-to-python/06_lists.ipynb)                                                                  |
-| 07    | [Dictionaries](./intro-to-python/07_dictionaries.ipynb)                                                                  |
-
-#### Issues
-
-Finally, the folx at Ada are always iterating and improving our curriculum. If you find a bug, typo, or just generally have a suggestion for the Ada Build curriculum, you can give feedback by selecting _Issues_ in the github menu bar, and clicking the green button for a _New Issue_.
+| 01    | [Hello World](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/01_hello_world.ipynb)                                                       |
+| 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/02_programming_grammar.ipynb) |
+| 03    | [Branching: Relational operators, Logical operators, Conditionals](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/03_branching.ipynb) |
+| 04    | [Functions](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/04_functions.ipynb) |
+| 05    | [Iterators: For and While Loops](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/05_loops_iteration.ipynb)                                                           |
+| 06    | [Lists](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/06_lists.ipynb)                                                                  |
+| 07    | [Dictionaries](https://colab.research.google.com/github/Ada-Developers-Academy/ada-build/blob/master/intro-to-python/07_dictionaries.ipynb)                                                                  |
