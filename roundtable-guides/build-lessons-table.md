@@ -1,6 +1,10 @@
-## Introduction to Programming in Python
+# Ada Build
 
-The following lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data. The Review Discussion Guides will be used to facilitate discussion at the Saturday review sessions.
+The [Ada Build curriculum](http://ada-developers-academy.github.io/ada-build/) is designed as an introductory curriculum for Ada applicants and aspirants.
+
+# Review Discussion Guides
+
+The Review Discussion Guides will be used to facilitate discussion at the Saturday review sessions.
 
 | Order | Lesson                                                                                               | Review Discussion Guide |
 | :---- | :--------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
