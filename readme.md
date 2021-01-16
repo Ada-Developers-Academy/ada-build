@@ -35,7 +35,7 @@ These lessons will introduce you to the fundamentals of programming including wr
 
 #### Video Lessons
 
-Video lessons to accompany this curriculum are under development. There are livecode videos linked throughout the lessons. An up to date catalog of videos can be found [here](./intro-to-python/video-lesson-table.md).
+Video lessons to accompany this curriculum are under development. There are livecode videos linked throughout the lessons. An up-to-date catalog of videos can be found [here](./intro-to-python/video-lesson-table.md).
 
 #### Issues
 
