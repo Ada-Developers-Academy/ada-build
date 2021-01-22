@@ -8,7 +8,7 @@ Today's round table will focus on reviewing [lesson on dictionaries](https://col
 
 ## Accessing Values
 1. Describe two ways to access the value associated with a particular key?
-1. What happens if you replicate keys in a dictionary?
+1. What happens if you duplicate keys in a dictionary?
     `numbers = {'a': 1, 'a': 2}`
     * What does numbers['a'] return? 
 1. Only immutable types can be used as keys. What does it mean for an object to be immutable?
