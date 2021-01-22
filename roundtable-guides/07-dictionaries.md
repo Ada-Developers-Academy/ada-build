@@ -44,7 +44,7 @@ Today's round table will focus on reviewing [lesson on dictionaries](https://col
 ## Project: Account Generator - v2
 
 1. Let's share our code for *Account Generator - v2*
-1. What question do you have about *Account Generator - v2*?
+1. What questions do you have about *Account Generator - v2*?
 
 ## Project: MadLib
 
