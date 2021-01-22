@@ -48,7 +48,7 @@ Today's round table will focus on reviewing the [lesson on loops](https://colab.
 
 ## Rock, Paper, Scissors - v5
 1. Let's share our code for *Rock, Paper, Scissors - v3*
-1. What question do you have about *Rock, Paper, Scissors - v3*?
+1. What questions do you have about *Rock, Paper, Scissors - v3*?
 
 ## Extra, Extra
 
