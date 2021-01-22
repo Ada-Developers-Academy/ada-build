@@ -18,7 +18,7 @@ Today's round table will focus on reviewing the [lesson on loops](https://colab.
         print(i)
     ```
 1. In the `for` loop below
-    * What values does `i` take on each time through the loop?
+    * What value does `i` take on each time through the loop?
     * What would be a more meaningful variable name for  `i` in this case?
 
     ```python
