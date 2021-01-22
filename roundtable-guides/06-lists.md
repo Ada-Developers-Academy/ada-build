@@ -7,7 +7,7 @@ Today's round table will focus on reviewing [lesson on lists](https://colab.rese
     * Why would we use one way vs. the other?
 1. What are two different ways to initialize a list with data?
     * Why would we use one way vs. the other?
-1. A single list in python can inlcude elements of multiple data types.
+1. A single list in Python can include elements of multiple data types.
     * What should we consider when combining different data types in a single list?
 
 ## Indexing Lists
