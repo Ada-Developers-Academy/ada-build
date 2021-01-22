@@ -8,7 +8,7 @@ Today's round table will focus on reviewing [lesson on lists](https://colab.rese
 1. What are two different ways to initialize a list with data?
     * Why would we use one way vs. the other?
 1. A single list in Python can include elements of multiple data types.
-    * What should we consider when combining different data types in a single list?
+    * What should we consider when storing different data types in a single list?
 
 ## Indexing Lists
 1. Let's consider the following list: `letters = ['a', 'b', 'c', 'd', 'e']`
