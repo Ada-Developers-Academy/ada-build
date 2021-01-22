@@ -7,7 +7,7 @@ Today's round table will focus on reviewing [lesson on dictionaries](https://col
 1. Describe two ways to create an empty dictionary.
 
 ## Accessing Values
-1. Describe two ways to access the value stored in a particular key?
+1. Describe two ways to access the value associated with a particular key?
 1. What happens if you replicate keys in a dictionary?
     `numbers = {'a': 1, 'a': 2}`
     * What does numbers['a'] return? 
