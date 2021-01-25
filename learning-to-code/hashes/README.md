@@ -66,7 +66,7 @@ my_dog = {
 }
 ```
 
-The above hash is called `my_dog`. It has three key-value pairs. All the keys are string objects. The values associated with `"name"` and `"breed"` are string objects, `"barkly"` and `"spaniel"` respectively. The third key, `"age"` has a value of `3`, which is of type integer. In general, the value may be a more complex data structure and of any data type.
+The above hash is called `my_dog`. It has three key-value pairs. All the keys are string objects. The values associated with `"name"` and `"breed"` are string objects, `"woofy"` and `"spaniel"` respectively. The third key, `"age"` has a value of `3`, which is of type integer. In general, the value may be a more complex data structure and of any data type.
 
 The above hash, `my_dog` uses what is known as the _hash rocket notation_ approach to defining the hash. In this approach, all keys are _strings_.
 
