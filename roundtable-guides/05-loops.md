@@ -4,17 +4,17 @@ Today's round table will focus on reviewing the [lesson on loops](https://colab.
 
 ## Loops
 
-1. What is the fundamental untility of using loops?
+1. What is the fundamental utility of using loops?
 1. What is the difference between a `for` loop and a `while` loop?
     * When would you use one vs. the other?
 
 ## `for` loops
 1. In the `for` loop below
     * How many times does the block execute?
-    * What values does `i` take on each time through the loop?
+    * What value does `i` take on the first time through the loop?
 
     ```python
-    for i in range(2,5):
+    for i in range(2, 5):
         print(i)
     ```
 1. In the `for` loop below
@@ -46,7 +46,7 @@ Today's round table will focus on reviewing the [lesson on loops](https://colab.
 1. Let's share our code for `reverse_string` and `total_even_numbers`.
 1. What questions do you have about the practice problems?
 
-## Rock, Paper, Scissors - v5
+## Rock, Paper, Scissors - v3
 1. Let's share our code for *Rock, Paper, Scissors - v3*
 1. What questions do you have about *Rock, Paper, Scissors - v3*?
 

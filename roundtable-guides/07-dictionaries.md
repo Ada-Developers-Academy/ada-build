@@ -11,8 +11,10 @@ Today's round table will focus on reviewing [lesson on dictionaries](https://col
 1. What happens if you duplicate keys in a dictionary?
     `numbers = {'a': 1, 'a': 2}`
     * What does numbers['a'] return? 
-1. Only immutable types can be used as keys. What does it mean for an object to be immutable?
-1. Can you use numerical indices to access values from a dictionary. Why or why not?
+1. Only immutable types can be used as keys. 
+  * What does it mean for an object to be immutable?
+1. Can you use numerical indices to access values inside a dictionary? 
+  * Why or why not?
 
 ## Dictionary Methods
 1. The Ada Build lessons introduces the methods `get`, `keys`, `values`, `len`, and `pop`.

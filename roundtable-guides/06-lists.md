@@ -21,7 +21,7 @@ Today's round table will focus on reviewing [lesson on lists](https://colab.rese
     * What other methods have you explored?
 
 ## Lists and Loops
-1. The Ada Build lessons shows two different ways of looping over a list:
+1. The Ada Build lessons show two different ways of looping over a list:
     ```python
     for i in range(len(names)):
         print(f"Hello {names[i]}!")
@@ -36,7 +36,7 @@ Today's round table will focus on reviewing [lesson on lists](https://colab.rese
 
 ## Practice Problems
 1. What questions do you have about the practice problems?
-1. Let's Look at Problem 2.5
+1. Let's look at problem 2.5
     ```python
     values = [8, 5, 3, 10, 14, 2]
     for value in values:
@@ -50,8 +50,8 @@ Today's round table will focus on reviewing [lesson on lists](https://colab.rese
 ## Project: Account Generator
 1. What are the benefits of creating a list of dictionaries to store account information?
 1. Let's share our code for *Account Generator*
-1. What question do you have about *Account Generator*?
+1. What questions do you have about *Account Generator*?
 
 ## Project: Rock, Paper, Scissors - v4
 1. Let's share our code for *Rock, Paper, Scissors - v4*
-1. What question do you have about *Rock, Paper, Scissors - v4*?
+1. What questions do you have about *Rock, Paper, Scissors - v4*?
