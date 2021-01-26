@@ -55,7 +55,7 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
         print("y is bigger")
     ```
 
-## Rock, Paper, Scissors
+## Project: Rock, Paper, Scissors
 1. What questions are there about Rock, Paper, Scissors?
 1. Let's look at a few different solutions.
 
