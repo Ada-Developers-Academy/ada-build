@@ -8,6 +8,7 @@ The Review Discussion Guides will be used to facilitate discussion at the Saturd
 
 | Order | Lesson                                                                                               | Review Discussion Guide |
 | :---- | :--------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| 00    | N/A| [Roundtable Norms](00-roundtable-norms.md) |
 | 01    | [Hello World](https://colab.research.google.com/drive/1sFOo4HnuUxJMtso9JljUZwHMomhu9ADs)| [Lesson 01 Discussion Guide](01-hello-world.md) |
 | 02    | [Programming Grammar: Comments, Data types, Mathematical operators, Strings](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing) | [Lesson 02 Discussion Guide](02-programming-grammar.md) |
 | 03    | [Branching: Relational operators, Logical operators, Conditionals](https://colab.research.google.com/drive/1huE7PyavZSJIou4mh5G2e7yfG08Vb7da?usp=sharing) | [Lesson 03 Discussion Guide](03-branching.md) |
