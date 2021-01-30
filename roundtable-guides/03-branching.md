@@ -10,7 +10,7 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
 
 ## Conditionals
 1. Why is the order of conditional tests in a chained conditional (`if/elif/elif...`) important? 
-1. Let's consider the [Black Jack](XXX) example. Why is the second solution presented in Ada Build the better solution?
+1. Let's consider the [Black Jack](https://colab.research.google.com/drive/1huE7PyavZSJIou4mh5G2e7yfG08Vb7da#scrollTo=1fttbcPz-XVv) example. Why is the second solution presented in Ada Build the better solution?
 1. How are logic errors different from syntax errors?
 1. Let's consider truth and falsy values. 
     * What is the output of the following blocks of code?
