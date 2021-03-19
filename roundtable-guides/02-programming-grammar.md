@@ -33,8 +33,6 @@ print('Welcome to Ada Build!')
 
 ## Assignment Statements
 
-1. Let's discuss the difference between an assignment statement `x = 5` and a comparison statement `x == 5`.
-
 1. How can the following snippet of code be rewritten without the compound operator `+=`:
      * `x += 1`
 
