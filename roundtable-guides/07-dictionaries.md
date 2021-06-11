@@ -48,6 +48,10 @@ Today's round table will focus on reviewing [lesson on dictionaries](https://col
 1. Let's share our code for *Account Generator - v2*
 1. What questions do you have about *Account Generator - v2*?
 
+### Project Extension Questions (Technical Interview Practice)
+1. How could we refactor our code to use a single `for loop`?
+1. How could we refactor our code to work for an arbitrary number of students?
+
 ## Project: MadLib
 
 1. MadLibs are fun! Let's play some together.

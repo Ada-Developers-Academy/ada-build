@@ -52,6 +52,15 @@ Today's round table will focus on reviewing [lesson on lists](https://colab.rese
 1. Let's share our code for *Account Generator*
 1. What questions do you have about *Account Generator*?
 
+### Project Extension Questions (Technical Interview Practice)
+1. How could we refactor our code to use a single `for loop`?
+1. How could we refactor our code to work for an arbitrary number of students?
+
 ## Project: Rock, Paper, Scissors - v4
 1. Let's share our code for *Rock, Paper, Scissors - v4*
 1. What questions do you have about *Rock, Paper, Scissors - v4*?
+
+### Project Extension Questions (Technical Interview Practice)
+1. What are the benefits of using a list over the original implementation of `choose_rps`? 
+    * For instance, how could this function be adapted if their were more elements added to the game.
+

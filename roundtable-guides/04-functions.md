@@ -49,3 +49,7 @@ Today's round table will focus on reviewing the [lesson on functions](XXX).
 ## Project: Rock, Paper, Scissors - v2
 1. Let's share our code for *Rock, Paper, Scissors - v2*
 1. What question do you have about *Rock, Paper, Scissors - v2*?
+
+### Project Extension Questions (Technical Interview Practice)
+1. How does the program handle arguments other than 'rock', 'paper', or 'scissors'?
+1. Does the function include `print` statements and/or `return` statements? Why?
