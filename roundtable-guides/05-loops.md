@@ -50,6 +50,12 @@ Today's round table will focus on reviewing the [lesson on loops](https://colab.
 1. Let's share our code for *Rock, Paper, Scissors - v3*
 1. What questions do you have about *Rock, Paper, Scissors - v3*?
 
+### Project Extension Questions (Technical Interview Practice)
+1. If your implementation used a `while loop`, describe how the condition in the while loop was used to end the game.
+1. If your implementation used a `for loop`, describe how the for loop determines how many times the game should run.
+1. For this project, what are the differences between using a `while loop` and a `for loop`.
+
+
 ## Extra, Extra
 
 1. From the *Loop Worksheet*, what code snippets suprised you?

@@ -59,6 +59,11 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
 1. What questions are there about Rock, Paper, Scissors?
 1. Let's look at a few different solutions.
 
+### Project Extension Questions (Technical Interview Practice)
+1. If you used a nested conditional, why did you choose that logic/syntax?
+1. If you used a compound conditional, why did you choose that logic/syntax?
+1. How would the program change if we added additional elements, such as lizard and spock as outlined by [these rules](https://roshambo.me/rules/).
+
 ## Extra Extra
 
 1. What other questions do you have?
