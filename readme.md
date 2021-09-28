@@ -18,7 +18,6 @@ Through these resources you will learn about the languages that Ada teaches and 
 ## Introduction to Programming in Python
 These lessons will introduce you to the fundamentals of programming including writing your first program, learning programming vocabulary, and learning to store and interact with data.
 
-{% include panoptoPlayer.html id="6f137996-88f0-490a-9e94-acb10170c7dd" %}
 [Intro Video](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f137996-88f0-490a-9e94-acb10170c7dd)
 
 | Order | Lesson                                                                                               |
