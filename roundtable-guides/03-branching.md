@@ -5,8 +5,12 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
 ## Relational Operators
 
 1. Describe the difference between `=` and `==`.
-1. What is the significance of relational operators following below mathematical operators in the precedence hierarchy?
-
+1. Relational operators have lower precedence than mathematical operators. For this example `4*2 > 3 - 1` multiplication and subtraction happen before comparing the results of the mathematical operations. What will the example below evaluate to?
+   ```
+   a = 1
+   b = 4
+   a + 7 > b - 3
+   ```
 
 ## Conditionals
 1. Why is the order of conditional tests in a chained conditional (`if/elif/elif...`) important? 
