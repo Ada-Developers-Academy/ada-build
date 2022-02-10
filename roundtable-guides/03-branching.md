@@ -1,6 +1,6 @@
 # Lesson 03: Branching
 
-Today's round table will focus on reviewing the [lesson on branching](XXX).
+Today's round table will focus on reviewing the [lesson on branching](https://colab.research.google.com/drive/1huE7PyavZSJIou4mh5G2e7yfG08Vb7da?usp=sharing).
 
 ## Relational Operators
 

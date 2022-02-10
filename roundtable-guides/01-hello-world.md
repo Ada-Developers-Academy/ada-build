@@ -1,6 +1,6 @@
 # Lesson 01: Hello, World!
 
-Today's round table will focus on reviewing the first lesson in Ada Build, [Hello, World!](XXX). We will go over specifics of the Colab platform as well as writing your first program, Hello, World!
+Today's round table will focus on reviewing the first lesson in Ada Build, [Hello, World!](https://colab.research.google.com/drive/1sFOo4HnuUxJMtso9JljUZwHMomhu9ADs). We will go over specifics of the Colab platform as well as writing your first program, Hello, World!
 
 ## Programming Environment
 

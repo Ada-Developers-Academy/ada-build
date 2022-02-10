@@ -1,6 +1,6 @@
 # Lesson 02: Programming Grammar
 
-Today's round table will focus on reviewing the [lesson on programming grammar](XXX).
+Today's round table will focus on reviewing the [lesson on programming grammar](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing).
 
 # Hello, World!
 

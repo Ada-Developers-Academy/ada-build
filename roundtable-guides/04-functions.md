@@ -1,6 +1,6 @@
 # Lesson 04: Functions
 
-Today's round table will focus on reviewing the [lesson on functions](XXX).
+Today's round table will focus on reviewing the [lesson on functions](https://colab.research.google.com/drive/1e8CaljqZrKJyFm7Ry5qHynp7GdoVHFLk?usp=sharing).
 
 ## Built-in Functions and Modules
 
