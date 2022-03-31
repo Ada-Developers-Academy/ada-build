@@ -2,6 +2,15 @@
 
 Today's round table will focus on reviewing the [lesson on loops](https://colab.research.google.com/drive/1m9h053kS6bjAeiHnEHIP39fqbyOO7glc?usp=sharing).
 
+## How to Start
+
+1. It might be helpful to see if there are any general questions about the lesson/topics.
+    * What questions do you have?
+    * What did you think about the lesson?
+    * Were there parts that you found confusing?
+    * What did you like about the lesson?
+    * Was there something else relatable you discovered while researching/understanding the lesson?
+
 ## Loops
 
 1. What is the fundamental utility of using loops?
@@ -56,15 +65,7 @@ Today's round table will focus on reviewing the [lesson on loops](https://colab.
 1. For this project, what are the differences between using a `while loop` and a `for loop`.
 
 
-## Extra, Extra
+## Live Coding
 
-1. From the *Loop Worksheet*, what code snippets suprised you?
-1. Let's look at *Problem 10*
-
-    ```python
-    for x in range(1, 11):
-        if x == 5:
-            print("You got a winner!")
-    ```
-
-    * What questions do you have about nesting a conditional in a loop?
+1. Develop a variety of simple coding examples to talk through with students. 
+1. Build students confidence up with increasing comfort with explaining or talking through coding solutions.

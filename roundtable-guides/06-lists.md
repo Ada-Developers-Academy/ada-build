@@ -2,6 +2,15 @@
 
 Today's round table will focus on reviewing [lesson on lists](https://colab.research.google.com/drive/1TK9Enhh0mITZ1649l-r4_gzeg2B3eRRu?usp=sharing).
 
+## How to Start
+
+1. It might be helpful to see if there are any general questions about the lesson/topics.
+    * What questions do you have?
+    * What did you think about the lesson?
+    * Were there parts that you found confusing?
+    * What did you like about the lesson?
+    * Was there something else relatable you discovered while researching/understanding the lesson?
+
 ## Creating Lists
 1. What are two different ways to initialize an empty list?
     * Why would we use one way vs. the other?
@@ -64,3 +73,7 @@ Today's round table will focus on reviewing [lesson on lists](https://colab.rese
 1. What are the benefits of using a list over the original implementation of `choose_rps`? 
     * For instance, how could this function be adapted if their were more elements added to the game.
 
+## Live Coding
+
+1. Develop a variety of simple coding examples to talk through with students. 
+1. Build students confidence up with increasing comfort with explaining or talking through coding solutions.

@@ -2,6 +2,15 @@
 
 Today's round table will focus on reviewing the [lesson on programming grammar](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing).
 
+## How to Start
+
+1. It might be helpful to see if there are any general questions about the lesson/topics.
+    * What questions do you have?
+    * What did you think about the lesson?
+    * Were there parts that you found confusing?
+    * What did you like about the lesson?
+    * Was there something else relatable you discovered while researching/understanding the lesson?
+
 # Hello, World!
 
 1. Describe the following snippet of code using the vocabulary `function`, *argument*, *call*, and *string*.
@@ -49,6 +58,7 @@ print('Welcome to Ada Build!')
 1. What question do you have about the practice problems?
 1. Which problems were the most challenging or suprising?
 
-## Extra Extra
+## Live Coding
 
-1. What other questions do you have?
+1. Develop a variety of simple coding examples to talk through with students. 
+1. Build students confidence up with increasing comfort with explaining or talking through coding solutions. 
