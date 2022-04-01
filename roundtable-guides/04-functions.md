@@ -2,15 +2,6 @@
 
 Today's round table will focus on reviewing the [lesson on functions](https://colab.research.google.com/drive/1e8CaljqZrKJyFm7Ry5qHynp7GdoVHFLk?usp=sharing).
 
-## How to Start
-
-1. It might be helpful to see if there are any general questions about the lesson/topics.
-    * What questions do you have?
-    * What did you think about the lesson?
-    * Were there parts that you found confusing?
-    * What did you like about the lesson?
-    * Was there something else relatable you discovered while researching/understanding the lesson?
-
 ## Built-in Functions and Modules
 
 1. In your own words, define a `function`.
@@ -62,8 +53,3 @@ Today's round table will focus on reviewing the [lesson on functions](https://co
 ### Project Extension Questions (Technical Interview Practice)
 1. How does the program handle arguments other than 'rock', 'paper', or 'scissors'?
 1. Does the function include `print` statements and/or `return` statements? Why?
-
-## Live Coding
-
-1. Develop a variety of simple coding examples to talk through with students. 
-1. Build students confidence up with increasing comfort with explaining or talking through coding solutions.
