@@ -8,7 +8,7 @@ Today's round table will focus on reviewing the first lesson in Ada Build, [Hell
 1. What is the difference between a text cell and a code cell in Colab?
 1. What are some keyboard shortcuts that are useful?
     * Please share any keyboard shortcuts you know and love, whether or not they're covered in this lesson.
-1. How will [repl.it](repl.it) be used in the Ada Build curriculum?
+1. How will [repl.it](https://repl.it) be used in the Ada Build curriculum?
 
 ## Hello, World!
 
