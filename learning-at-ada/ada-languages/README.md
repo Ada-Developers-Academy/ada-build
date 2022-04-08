@@ -33,7 +33,7 @@ In addition, these compiled and interpreted languages can be divided into dynami
 
 ### Python
 
-[Python](https://www.python.org) is a high-level, dynamically typed language.  It was created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) in 1991.  Originally Python was a hobby programming project to Van Rossum wrote to keep busy during the holidays.  He chose the name Python because he is a fan of [Monty Python's Flying Circus](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus).
+[Python](https://www.python.org) is a high-level, dynamically typed language.  It was created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) in 1991.  Originally Python was a hobby programming project that Van Rossum wrote to keep busy during the holidays.  He chose the name Python because he is a fan of [Monty Python's Flying Circus](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus).
 
 Python can run on a great number of platforms (Windows, Mac, Linux, etc) and it has straightforward syntax similar to the English language.  It is designed to provide "Computer Programming for Everybody."  As such the language has powerful and intuitive syntax, and it is [open source](https://en.wikipedia.org/wiki/Open-source_software) so anyone can contribute and examine the underlying code and suitable for a variety of tasks.
 
