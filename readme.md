@@ -29,6 +29,7 @@ These lessons will introduce you to the fundamentals of programming including wr
 | 05    | [Iterators: For and While Loops](https://colab.research.google.com/drive/1m9h053kS6bjAeiHnEHIP39fqbyOO7glc?usp=sharing)                                                           |
 | 06    | [Lists](https://colab.research.google.com/drive/1TK9Enhh0mITZ1649l-r4_gzeg2B3eRRu?usp=sharing)                                                                  |
 | 07    | [Dictionaries](https://colab.research.google.com/drive/1AmKeKvSJnNacUUIU9OLSInVohWJrPLkF?usp=sharing)                                                                  |
+| 08    | [Problem Statements](https://colab.research.google.com/drive/1FWQ8FAYR7SA_TWkjdZNYv7Q3tI8Ekj70)  
 | Optional | [User Input](https://colab.research.google.com/drive/1U3_0iFQPyCBrA-gb2QBqu_coFWmrUrVY)  <br /> This lesson is optional and can be completed anytime after [Lesson 02 - Programming Grammar](https://colab.research.google.com/drive/1kfE-bujlwiJoDxTWIXa8u1GPGDJAnjvS?usp=sharing)|
 
 
