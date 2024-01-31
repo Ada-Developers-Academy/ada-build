@@ -1,6 +1,6 @@
 # Ada Build Curriculum
 
-This repository contains the materials for the Build program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).  This curriculum is designed as an introductory curriculum for Ada applicants and aspirants.  
+This repository contains the materials for the Build program as part of [Ada Developers Academy](http://adadevelopersacademy.org/).  This curriculum is designed as an introductory curriculum for people starting their journey into coding.  
 
 ## Learning at Ada
 
