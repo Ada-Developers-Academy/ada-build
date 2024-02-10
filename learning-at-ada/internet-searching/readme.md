@@ -19,7 +19,6 @@ Software developers do not have all of the answers. Instead, a good portion of t
 * Read [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
 * Watch [How Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 * Read [20 Tips to Google Search Efficiently](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
-* Try [AGoogleADay.com](http://www.agoogleaday.com/), a daily search challenge from Google
 
 ## Techniques
 
