@@ -1,0 +1,23 @@
+{% for lesson in site.lessons %}
+  {% if page.url == lesson.url %}
+  <h3>Complete This Lesson</h3>
+  <form id="ada-build-form-lesson" data-lesson-id="{{ lesson.slug }}" data-base-url="{{ site.baseUrl }}">
+    <script src="{{ "/assets/js/complete-lesson.js" | relative_url }}"></script>
+    <p>
+      Complete this lesson by entering your Learner ID and clicking the complete button.
+      Then click the Verify link in the email that will be sent to you.
+      Don't have a Learner ID? Register at the <a href="https://www.adadevelopersacademy.org/ada-build">Ada Build registration</a> page!
+    </p>
+    <!-- spinner from https://loading.io/css/ -->
+    <div><label for="ada-build-input-learner-id">Learner ID:</label> <input type="text" id="ada-build-input-learner-id" placeholder="Enter your Learner ID"></div>
+    <input type="submit" id="ada-build-button-complete" value="Complete">
+    <div class="lds-spinner not-loading"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+        <div id="ada-build-success-message">
+      <p>One more step to mark your lesson as complete! Check your email and click the verification link.</p>
+    </div>
+    <div id="ada-build-error-message">
+      <p>There was an error completing the lesson. Confirm your learner id and try again later.</p>
+    </div>
+  </form>
+  {% endif %}
+{% endfor %}
