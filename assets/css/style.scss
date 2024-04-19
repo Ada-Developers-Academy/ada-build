@@ -1,0 +1,128 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#ada-build-success-message {
+  display: none;
+}
+
+#ada-build-success-message.active-result {
+  display: block;
+}
+
+#ada-build-success-message p {
+  margin-top: 1em;
+  color: darkgreen;
+  border: 1px solid green;
+  border-radius: 0.5em;
+  padding: 0.5em;
+}
+
+#ada-build-error-message {
+  display: none;
+}
+
+#ada-build-error-message.active-result {
+  display: block;
+}
+
+#ada-build-error-message p {
+  margin-top: 1em;
+  color: red;
+  border: 1px solid red;
+  border-radius: 0.5em;
+  padding: 0.5em;
+}
+
+/* busy spinner, from https://loading.io/css/ */
+
+.lds-spinner.not-loading
+{
+  display: none;
+}
+
+.lds-spinner,
+.lds-spinner div,
+.lds-spinner div:after {
+  box-sizing: border-box;
+}
+.lds-spinner {
+  color: currentColor;
+  display: inline-block;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.lds-spinner div {
+  transform-origin: 10px 10px;
+  animation: lds-spinner 1.2s linear infinite;
+}
+.lds-spinner div:after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0.8px;
+  left: 9.2px;
+  width: 1.6px;
+  height: 4.4px;
+  border-radius: 20%;
+  background: currentColor;
+}
+.lds-spinner div:nth-child(1) {
+  transform: rotate(0deg);
+  animation-delay: -1.1s;
+}
+.lds-spinner div:nth-child(2) {
+  transform: rotate(30deg);
+  animation-delay: -1s;
+}
+.lds-spinner div:nth-child(3) {
+  transform: rotate(60deg);
+  animation-delay: -0.9s;
+}
+.lds-spinner div:nth-child(4) {
+  transform: rotate(90deg);
+  animation-delay: -0.8s;
+}
+.lds-spinner div:nth-child(5) {
+  transform: rotate(120deg);
+  animation-delay: -0.7s;
+}
+.lds-spinner div:nth-child(6) {
+  transform: rotate(150deg);
+  animation-delay: -0.6s;
+}
+.lds-spinner div:nth-child(7) {
+  transform: rotate(180deg);
+  animation-delay: -0.5s;
+}
+.lds-spinner div:nth-child(8) {
+  transform: rotate(210deg);
+  animation-delay: -0.4s;
+}
+.lds-spinner div:nth-child(9) {
+  transform: rotate(240deg);
+  animation-delay: -0.3s;
+}
+.lds-spinner div:nth-child(10) {
+  transform: rotate(270deg);
+  animation-delay: -0.2s;
+}
+.lds-spinner div:nth-child(11) {
+  transform: rotate(300deg);
+  animation-delay: -0.1s;
+}
+.lds-spinner div:nth-child(12) {
+  transform: rotate(330deg);
+  animation-delay: 0s;
+}
+@keyframes lds-spinner {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
