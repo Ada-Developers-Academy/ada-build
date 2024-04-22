@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-# baseUrl: https://adadevelopersacademy.org/wp-json/ada-aba/v1/
-# lessons:
-#   - url: /learning-at-ada/ada-languages/
-#     slug: TnjmzZkMv9
-#   - url: /learning-at-ada/internet-searching/
-#     slug: ZqNCTkGVrn
-#   - url: /learning-at-ada/problem-solving/
-#     slug: sJLCNcnhXR
+baseUrl: https://adadevelopersacademy.org/wp-json/ada-aba/v1/
+lessons:
+  - url: /learning-at-ada/ada-languages/
+    slug: TnjmzZkMv9
+  - url: /learning-at-ada/internet-searching/
+    slug: ZqNCTkGVrn
+  - url: /learning-at-ada/problem-solving/
+    slug: sJLCNcnhXR
